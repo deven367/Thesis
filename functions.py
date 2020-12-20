@@ -7,3 +7,11 @@ def newcmp(r,g,b):
     vals[:, 2] = np.linspace(b/256, 1, N)
     newcmp = ListedColormap(vals)
     return newcmp
+
+import json
+def read_json(path):
+    with open(path, "r") as f:
+        embeddings = []
+        for line in f:
+            embeddings.append(json.loads(line)["embeddings"])
+    return embeddings
