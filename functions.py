@@ -1,6 +1,9 @@
 from matplotlib.colors import ListedColormap, LinearSegmentedColormap
-N = 256
+import numpy as np
+import json
+
 def newcmp(r,g,b):
+    N = 256
     vals = np.ones((N, 4))
     vals[:, 0] = np.linspace(r/256, 1, N)
     vals[:, 1] = np.linspace(g/256, 1, N)
@@ -8,10 +11,13 @@ def newcmp(r,g,b):
     newcmp = ListedColormap(vals)
     return newcmp
 
-import json
+
 def read_json(path):
     with open(path, "r") as f:
         embeddings = []
         for line in f:
             embeddings.append(json.loads(line)["embeddings"])
     return embeddings
+
+
+def 
