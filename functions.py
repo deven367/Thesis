@@ -19,7 +19,7 @@ def read_json(path):
         embeddings = []
         for line in f:
             embeddings.append(json.loads(line)["embeddings"])
-    return embeddings
+    return np.asarray(embeddings)
 
 import matplotlib.pyplot as plt
 
