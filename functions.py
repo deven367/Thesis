@@ -1,6 +1,8 @@
 from matplotlib.colors import ListedColormap, LinearSegmentedColormap
 import numpy as np
 import json
+import seaborn as sns
+from sklearn.metrics.pairwise import cosine_similarity
 
 def newcmp(r,g,b):
     N = 256
@@ -19,5 +21,10 @@ def read_json(path):
             embeddings.append(json.loads(line)["embeddings"])
     return embeddings
 
+import matplotlib.pyplot as plt
 
-def 
+def plot_heatmap(embeddings):
+    sns.heatmap(cosine_similarity(embeddings, embeddings) ,square=True, cmap=newcmp, vmin=0, vmax = 1)
+    inp = input('Do you have want to save the figure? ')
+    if inp == 'y' or inp == 'Y':
+        plt.savefig('figure.png', dpi = 300)
