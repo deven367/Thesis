@@ -1,1 +1,1 @@
-# thesis-functions
+# Thesis
