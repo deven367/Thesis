@@ -10,25 +10,17 @@ We here see the principle of natural selection shadowed forth, but how little Ar
 ), the first author who in modern times has treated it in a scientific spirit was Buffon.
 But as his opinions fluctuated greatly at different periods, and as he does not enter on the causes or means of the transformation of species, I need not here enter on details.
 Lamarck was the first man whose conclusions on the subject excited much attention.
-This justly celebrated naturalist first published his views in 1801; he much enlarged them in 1809 in his "Philosophie Zoologique", and subsequently, 1815, in the Introduction to his "Hist.
-Nat.
-des Animaux sans Vertebres".
+This justly celebrated naturalist first published his views in 1801; he much enlarged them in 1809 in his "Philosophie Zoologique", and subsequently, 1815, in the Introduction to his "Hist. Nat.des Animaux sans Vertebres".
 In these works he up holds the doctrine that all species, including man, are descended from other species.
 He first did the eminent service of arousing attention to the probability of all change in the organic, as well as in the inorganic world, being the result of law, and not of miraculous interposition.
 Lamarck seems to have been chiefly led to his conclusion on the gradual change of species, by the difficulty of distinguishing species and varieties, by the almost perfect gradation of forms in certain groups, and by the analogy of domestic productions.
 With respect to the means of modification, he attributed something to the direct action of the physical conditions of life, something to the crossing of already existing forms, and much to use and disuse, that is, to the effects of habit.
 To this latter agency he seems to attribute all the beautiful adaptations in nature; such as the long neck of the giraffe for browsing on the branches of trees.
 But he likewise believed in a law of progressive development, and as all the forms of life thus tend to progress, in order to account for the existence at the present day of simple productions, he maintains that such forms are now spontaneously generated.
-(I have taken the date of the first publication of Lamarck from Isidore Geoffroy Saint- Hilaire's ("Hist.
-Nat.
-Generale", tom.
-ii.
-page 405, 1859) excellent history of opinion on this subject.
+(I have taken the date of the first publication of Lamarck from Isidore Geoffroy Saint- Hilaire's ("Hist. Nat. Generale", tom. ii. page 405, 1859) excellent history of opinion on this subject.
 In this work a full account is given of Buffon's conclusions on the same subject.
-It is curious how largely my grandfather, Dr. Erasmus Darwin, anticipated the views and erroneous grounds of opinion of Lamarck in his "Zoonomia" (vol.
-i. pages 500-510), published in 1794.
-According to Isid.
-Geoffroy there is no doubt that Goethe was an extreme partisan of similar views, as shown in the introduction to a work written in 1794 and 1795, but not published till long afterward; he has pointedly remarked ("Goethe als Naturforscher", von Dr. Karl Meding, s. 34) that the future question for naturalists will be how, for instance, cattle got their horns and not for what they are used.
+It is curious how largely my grandfather, Dr. Erasmus Darwin, anticipated the views and erroneous grounds of opinion of Lamarck in his "Zoonomia" (vol. i. pages 500-510), published in 1794.
+According to Isid. Geoffroy there is no doubt that Goethe was an extreme partisan of similar views, as shown in the introduction to a work written in 1794 and 1795, but not published till long afterward; he has pointedly remarked ("Goethe als Naturforscher", von Dr. Karl Meding, s. 34) that the future question for naturalists will be how, for instance, cattle got their horns and not for what they are used.
 It is rather a singular instance of the manner in which similar views arise at about the same time, that Goethe in Germany, Dr. Darwin in England, and Geoffroy Saint-Hilaire (as we shall immediately see) in France, came to the same conclusion on the origin of species, in the years 1794-5.)
 Geoffroy Saint-Hilaire, as is stated in his "Life", written by his son, suspected, as early as 1795, that what we call species are various degenerations of the same type.
 It was not until 1828 that he published his conviction that the same forms have not been perpetuated since the origin of all things.
@@ -43,12 +35,10 @@ The colour of this vigorous race I take for granted, from what has been already 
 But the same disposition to form varieties still existing, a darker and a darker race would in the course of time occur: and as the darkest would be the best fitted for the climate, this would at length become the most prevalent, if not the only race, in the particular country in which it had originated."
 He then extends these same views to the white inhabitants of colder climates.
 I am indebted to Mr. Rowley, of the United States, for having called my attention, through Mr. Brace, to the above passage of Dr. Wells' work.
-The Hon.
-W. Herbert, afterward Dean of Manchester, in the fourth volume of the "Horticultural Transactions", 1822, and in his work on the "Amaryllidaceae" (1837, pages 19, 339), declares that "horticultural experiments have established, beyond the possibility of refutation, that botanical species are only a higher and more permanent class of varieties."
+The Hon. W. Herbert, afterward Dean of Manchester, in the fourth volume of the "Horticultural Transactions", 1822, and in his work on the "Amaryllidaceae" (1837, pages 19, 339), declares that "horticultural experiments have established, beyond the possibility of refutation, that botanical species are only a higher and more permanent class of varieties."
 He extends the same view to animals.
 The dean believes that single species of each genus were created in an originally highly plastic condition, and that these have produced, chiefly by inter-crossing, but likewise by variation, all our existing species.
-In 1826 Professor Grant, in the concluding paragraph in his well-known paper ("Edinburgh Philosophical Journal", vol.
-XIV, page 283) on the Spongilla, clearly declares his belief that species are descended from other species, and that they become improved in the course of modification.
+In 1826 Professor Grant, in the concluding paragraph in his well-known paper ("Edinburgh Philosophical Journal", vol. XIV, page 283) on the Spongilla, clearly declares his belief that species are descended from other species, and that they become improved in the course of modification.
 This same view was given in his Fifty-fifth Lecture, published in the "Lancet" in 1834.
 In 1831 Mr. Patrick Matthew published his work on "Naval Timber and Arboriculture", in which he gives precisely the same view on the origin of species as that (presently to be alluded to) propounded by Mr. Wallace and myself in the "Linnean Journal", and as that enlarged in the present volume.
 Unfortunately the view was given by Mr. Matthew very briefly in scattered passages in an appendix to a work on a different subject, so that it remained unnoticed until Mr. Matthew himself drew attention to it in the "Gardeners' Chronicle", on April 7, 1860.
@@ -57,11 +47,7 @@ I am not sure that I understand some passages; but it seems that he attributes m
 He clearly saw, however, the full force of the principle of natural selection.
 The celebrated geologist and naturalist, Von Buch, in his excellent "Description Physique des Isles Canaries" (1836, page 147), clearly expresses his belief that varieties slowly become changed into permanent species, which are no longer capable of intercrossing.
 Rafinesque, in his "New Flora of North America", published in 1836, wrote (page 6) as follows: "All species might have been varieties once, and many varieties are gradually becoming species by assuming constant and peculiar characters;" but further on (page 18) he adds, "except the original types or ancestors of the genus."
-In 1843-44 Professor Haldeman ("Boston Journal of Nat.
-Hist.
-U.
-States", vol.
-iv, page 468) has ably given the arguments for and against the hypothesis of the development and modification of species: he seems to lean toward the side of change.
+In 1843-44 Professor Haldeman ("Boston Journal of Nat. Hist. U. States", vol. iv, page 468) has ably given the arguments for and against the hypothesis of the development and modification of species: he seems to lean toward the side of change.
 The "Vestiges of Creation" appeared in 1844.
 In the tenth and much improved edition (1853) the anonymous author says (page 155): "The proposition determined on after much consideration is, that the several series of animated beings, from the simplest and oldest up to the highest and most recent, are, under the providence of God, the results, FIRST, of an impulse which has been imparted to the forms of life, advancing them, in definite times, by generation, through grades of organisation terminating in the highest dicotyledons and vertebrata, these grades being few in number, and generally marked by intervals of organic character, which we find to be a practical difficulty in ascertaining affinities; SECOND, of another impulse connected with the vital forces, tending, in the course of generations, to modify organic structures in accordance with external circumstances, as food, the nature of the habitat, and the meteoric agencies, these being the 'adaptations' of the natural theologian."
 The author apparently believes that organisation progresses by sudden leaps, but that the effects produced by the conditions of life are gradual.
@@ -69,10 +55,7 @@ He argues with much force on general grounds that species are not immutable prod
 But I cannot see how the two supposed "impulses" account in a scientific sense for the numerous and beautiful coadaptations which we see throughout nature; I cannot see that we thus gain any insight how, for instance, a woodpecker has become adapted to its peculiar habits of life.
 The work, from its powerful and brilliant style, though displaying in the early editions little accurate knowledge and a great want of scientific caution, immediately had a very wide circulation.
 In my opinion it has done excellent service in this country in calling attention to the subject, in removing prejudice, and in thus preparing the ground for the reception of analogous views.
-In 1846 the veteran geologist M.J. d'Omalius d'Halloy published in an excellent though short paper ("Bulletins de l'Acad.
-Roy.
-Bruxelles", tom.
-xiii, page 581) his opinion that it is more probable that new species have been produced by descent with modification than that they have been separately created: the author first promulgated this opinion in 1831.
+In 1846 the veteran geologist M.J. d'Omalius d'Halloy published in an excellent though short paper ("Bulletins de l'Acad. Roy. Bruxelles", tom. xiii, page 581) his opinion that it is more probable that new species have been produced by descent with modification than that they have been separately created: the author first promulgated this opinion in 1831.
 Professor Owen, in 1849 ("Nature of Limbs", page 86), wrote as follows: "The archetypal idea was manifested in the flesh under diverse such modifications, upon this planet, long prior to the existence of those animal species that actually exemplify it.
 To what natural laws or secondary causes the orderly succession and progression of such organic phenomena may have been committed, we, as yet, are ignorant."
 In his address to the British Association, in 1858, he speaks (page li) of "the axiom of the continuous operation of creative power, or of the ordained becoming of living things."
@@ -82,28 +65,18 @@ He amplifies this idea by adding that when such cases as that of the Red Grouse 
 If we interpret these sentences given in the same address, one by the other, it appears that this eminent philosopher felt in 1858 his confidence shaken that the Apteryx and the Red Grouse first appeared in their respective homes "he knew not how," or by some process "he knew not what."
 This address was delivered after the papers by Mr. Wallace and myself on the Origin of Species, presently to be referred to, had been read before the Linnean Society.
 When the first edition of this work was published, I was so completely deceived, as were many others, by such expressions as "the continuous operation of creative power," that I included Professor Owen with other palaeontologists as being firmly convinced of the immutability of species; but it appears ("Anat.
-of Vertebrates", vol.
-iii, page 796) that this was on my part a preposterous error.
+of Vertebrates", vol. iii, page 796) that this was on my part a preposterous error.
 In the last edition of this work I inferred, and the inference still seems to me perfectly just, from a passage beginning with the words "no doubt the type- form," etc.
-(Ibid., vol.
-i, page xxxv), that Professor Owen admitted that natural selection may have done something in the formation of a new species; but this it appears (Ibid., vol.
-iii.
-page 798) is inaccurate and without evidence.
+(Ibid., vol. i, page xxxv), that Professor Owen admitted that natural selection may have done something in the formation of a new species; but this it appears (Ibid., vol. iii. page 798) is inaccurate and without evidence.
 I also gave some extracts from a correspondence between Professor Owen and the editor of the "London Review", from which it appeared manifest to the editor as well as to myself, that Professor Owen claimed to have promulgated the theory of natural selection before I had done so; and I expressed my surprise and satisfaction at this announcement; but as far as it is possible to understand certain recently published passages (Ibid., vol.
-iii.
-page 798) I have either partially or wholly again fallen into error.
+iii. page 798) I have either partially or wholly again fallen into error.
 It is consolatory to me that others find Professor Owen's controversial writings as difficult to understand and to reconcile with each other, as I do.
 As far as the mere enunciation of the principle of natural selection is concerned, it is quite immaterial whether or not Professor Owen preceded me, for both of us, as shown in this historical sketch, were long ago preceded by Dr. Wells and Mr. Matthews.
-M. Isidore Geoffroy Saint-Hilaire, in his lectures delivered in 1850 (of which a Resume appeared in the "Revue et Mag.
-de Zoolog.
-", Jan., 1851), briefly gives his reason for believing that specific characters "sont fixes, pour chaque espece, tant qu'elle se perpetue au milieu des memes circonstances: ils se modifient, si les circonstances ambiantes viennent a changer.
+M. Isidore Geoffroy Saint-Hilaire, in his lectures delivered in 1850 (of which a Resume appeared in the "Revue et Mag. de Zoolog.", Jan., 1851), briefly gives his reason for believing that specific characters "sont fixes, pour chaque espece, tant qu'elle se perpetue au milieu des memes circonstances: ils se modifient, si les circonstances ambiantes viennent a changer.
 En resume, L'OBSERVATION des animaux sauvages demontre deja la variabilite LIMITEE des especes.
 Les EXPERIENCES sur les animaux sauvages devenus domestiques, et sur les animaux domestiques redevenus sauvages, la demontrent plus clairment encore.
 Ces memes experiences prouvent, de plus, que les differences produites peuvent etre de VALEUR GENERIQUE."
-In his "Hist.
-Nat.
-Generale" (tom.
-ii, page 430, 1859) he amplifies analogous conclusions.
+In his "Hist. Nat. Generale" (tom. ii, page 430, 1859) he amplifies analogous conclusions.
 From a circular lately issued it appears that Dr. Freke, in 1851 ("Dublin Medical Press", page 322), propounded the doctrine that all organic beings have descended from one primordial form.
 His grounds of belief and treatment of the subject are wholly different from mine; but as Dr. Freke has now (1861) published his Essay on the "Origin of Species by means of Organic Affinity", the difficult attempt to give any idea of his views would be superfluous on my part.
 Mr. Herbert Spencer, in an Essay (originally published in the "Leader", March, 1852, and republished in his "Essays", in 1858), has contrasted the theories of the Creation and the Development of organic beings with remarkable skill and force.
@@ -120,25 +93,14 @@ Dalton, likewise, in Pander and Dalton's work on Fossil Sloths, expressed, in 18
 Similar views have, as is well known, been maintained by Oken in his mystical "Natur-Philosophie".
 From other references in Godron's work "Sur l'Espece", it seems that Bory St. Vincent, Burdach, Poiret and Fries, have all admitted that new species are continually being produced.
 I may add, that of the thirty-four authors named in this Historical Sketch, who believe in the modification of species, or at least disbelieve in separate acts of creation, twenty-seven have written on special branches of natural history or geology.)
-In 1853 a celebrated geologist, Count Keyserling ("Bulletin de la Soc.
-Geolog.
-", 2nd Ser., tom.
-x, page 357), suggested that as new diseases, supposed to have been caused by some miasma have arisen and spread over the world, so at certain periods the germs of existing species may have been chemically affected by circumambient molecules of a particular nature, and thus have given rise to new forms.
-In this same year, 1853, Dr. Schaaffhausen published an excellent pamphlet ("Verhand.
-des Naturhist.
-Vereins der Preuss.
-Rheinlands", etc.
-), in which he maintains the development of organic forms on the earth.
+In 1853 a celebrated geologist, Count Keyserling ("Bulletin de la Soc. Geolog. ", 2nd Ser., tom. x, page 357), suggested that as new diseases, supposed to have been caused by some miasma have arisen and spread over the world, so at certain periods the germs of existing species may have been chemically affected by circumambient molecules of a particular nature, and thus have given rise to new forms.
+In this same year, 1853, Dr. Schaaffhausen published an excellent pamphlet ("Verhand. des Naturhist. Vereins der Preuss. Rheinlands", etc. ), in which he maintains the development of organic forms on the earth.
 He infers that many species have kept true for long periods, whereas a few have become modified.
 The distinction of species he explains by the destruction of intermediate graduated forms.
 "Thus living plants and animals are not separated from the extinct by new creations, but are to be regarded as their descendants through continued reproduction."
-A well-known French botanist, M. Lecoq, writes in 1854 ("Etudes sur Geograph.
-Bot.
-tom.
-i, page 250), "On voit que nos recherches sur la fixite ou la variation de l'espece, nous conduisent directement aux idees emises par deux hommes justement celebres, Geoffroy Saint-Hilaire et Goethe."
+A well-known French botanist, M. Lecoq, writes in 1854 ("Etudes sur Geograph. Bot. tom. i, page 250), "On voit que nos recherches sur la fixite ou la variation de l'espece, nous conduisent directement aux idees emises par deux hommes justement celebres, Geoffroy Saint-Hilaire et Goethe."
 Some other passages scattered through M. Lecoq's large work make it a little doubtful how far he extends his views on the modification of species.
-The "Philosophy of Creation" has been treated in a masterly manner by the Rev.
-Baden Powell, in his "Essays on the Unity of Worlds", 1855.
+The "Philosophy of Creation" has been treated in a masterly manner by the Rev. Baden Powell, in his "Essays on the Unity of Worlds", 1855.
 Nothing can be more striking than the manner in which he shows that the introduction of new species is "a regular, not a casual phenomenon," or, as Sir John Herschel expresses it, "a natural in contradistinction to a miraculous process."
 The third volume of the "Journal of the Linnean Society" contains papers, read July 1, 1858, by Mr. Wallace and myself, in which, as stated in the introductory remarks to this volume, the theory of Natural Selection is promulgated by Mr. Wallace with admirable force and clearness.
 Von Baer, toward whom all zoologists feel so profound a respect, expressed about the year 1859 (see Prof. Rudolph Wagner, "Zoologisch-Anthropologische Untersuchungen", 1861, s. 51) his conviction, chiefly grounded on the laws of geographical distribution, that forms now perfectly distinct have descended from a single parent-form.
@@ -148,8 +110,7 @@ If, on the other hand, we view "Persistent Types" in relation to that hypothesis
 In December, 1859, Dr. Hooker published his "Introduction to the Australian Flora".
 In the first part of this great work he admits the truth of the descent and modification of species, and supports this doctrine by many original observations.
 The first edition of this work was published on November 24, 1859, and the second edition on January 7, 1860.
-Introduction   When on board H.M.S.
-Beagle, as naturalist, I was much struck with certain facts in the distribution of the organic beings inhabiting South America, and in the geological relations of the present to the past inhabitants of that continent.
+Introduction   When on board H.M.S. Beagle, as naturalist, I was much struck with certain facts in the distribution of the organic beings inhabiting South America, and in the geological relations of the present to the past inhabitants of that continent.
 These facts, as will be seen in the latter chapters of this volume, seemed to throw some light on the origin of species—that mystery of mysteries, as it has been called by one of our greatest philosophers.
 On my return home, it occurred to me, in 1837, that something might perhaps be made out on this question by patiently accumulating and reflecting on all sorts of facts which could possibly have any bearing on it.
 After five years' work I allowed myself to speculate on the subject, and drew up some short notes; these I enlarged in 1844 into a sketch of the conclusions, which then seemed to me probable: from that period to the present day I have steadily pursued the same object.
@@ -623,8 +584,7 @@ On the islets of the little Madeira group there are many insects which are chara
 Even Ireland has a few animals, now generally regarded as varieties, but which have been ranked as species by some zoologists.
 Several experienced ornithologists consider our British red grouse as only a strongly marked race of a Norwegian species, whereas the greater number rank it as an undoubted species peculiar to Great Britain.
 A wide distance between the homes of two doubtful forms leads many naturalists to rank them as distinct species; but what distance, it has been well asked, will suffice if that between America and Europe is ample, will that between Europe and the Azores, or Madeira, or the Canaries, or between the several islets of these small archipelagos, be sufficient?
-Mr. B.D.
-Walsh, a distinguished entomologist of the United States, has described what he calls Phytophagic varieties and Phytophagic species.
+Mr. B.D. Walsh, a distinguished entomologist of the United States, has described what he calls Phytophagic varieties and Phytophagic species.
 Most vegetable-feeding insects live on one kind of plant or on one group of plants; some feed indiscriminately on many kinds, but do not in consequence vary.
 In several cases, however, insects found living on different plants, have been observed by Mr. Walsh to present in their larval or mature state, or in both states, slight, though constant differences in colour, size, or in the nature of their secretions.
 In some instances the males alone, in other instances, both males and females, have been observed thus to differ in a slight degree.
@@ -5597,45 +5557,5 @@ VERTEBRATA or VERTEBRATE ANIMALS.—The highest division of the animal kingdom, 
 WHORLS.—The circles or spiral lines in which the parts of plants are arranged upon the axis of growth.
 WORKERS.—See neuters.
 ZOEA-STAGE.—The earliest stage in the development of many of the higher Crustacea, so called from the name of ZOEA applied to these young animals when they were supposed to constitute a peculiar genus.
-ZOOIDS.—In many of the lower animals (such as the Corals, Medusae, etc.)
-reproduction takes place in two ways, namely, by means of eggs and by a process of budding with or without separation from the parent of the product of the latter, which is often very different from that of the egg.
+ZOOIDS.—In many of the lower animals (such as the Corals, Medusae, etc.) reproduction takes place in two ways, namely, by means of eggs and by a process of budding with or without separation from the parent of the product of the latter, which is often very different from that of the egg.
 The individuality of the species is represented by the whole of the form produced between two sexual reproductions; and these forms, which are apparently individual animals, have been called ZOOIDE.
-Loved this book ?
-Similar users also downloaded   Dante Alighieri    * * *    The Divine Comedy Dante Alighieri's poetic masterpiece, The Divine Comedy, is a moving human drama, an unforgettable visionary journey through the infinite torment of Hell, up the arduous slopes of Purgatory, and on to the glorious realm of Paradise-the sphere of universal harmony and eternal salvation.
-Lev Nikolayevich Tolstoy    * * *    War and Peace War and Peace is a novel by Leo Tolstoy, first published from 1865 to 1869 in Russkii Vestnik, which tells the story of Russian society during the Napoleonic Era.
-It is usually described as one of Tolstoy's two major masterpieces (the other being Anna Karenina) as well as one of the world's greatest novels.
-War and Peace offered a new kind of fiction, with a great many characters caught up in a plot that covered nothing less than the grand subjects indicated by the title, combined with the equally large topics of youth, marriage, age, and death.
-Though it is often called a novel today, it broke so many conventions of the form that it was not considered a novel in its time.
-Indeed, Tolstoy himself considered Anna Karenina (1878) to be his first attempt at a novel in the European sense.
-Vatsyayana    * * *    The Kama Sutra The Kama Sutra, is an ancient Indian text widely considered to be the standard work on human sexual behavior in Sanskrit literature written by the Indian scholar Vatsyayana.
-A portion of the work consists of practical advice on sex.
-Kāma means sensual or sexual pleasure, and sūtra are the guidlines of yoga, the word itself means thread in Sanskrit.
-The Kama Sutra is the oldest and most notable of a group of texts known generically as Kama Shastra).
-Traditionally, the first transmission of Kama Shastra or "Discipline of Kama" is attributed to Nandi the sacred bull, Shiva's doorkeeper, who was moved to sacred utterance by overhearing the lovemaking of the god and his wife Parvati and later recorded his utterances for the benefit of mankind.
-Arthur Conan Doyle    * * *    The Adventures of Sherlock Holmes The Adventures of Sherlock Holmes is a collection of twelve stories by Sir Arthur Conan Doyle, featuring his famous detective and illustrated by Sidney Paget.
-These are the first of the Sherlock Holmes short stories, originally published as single stories in the Strand Magazine from July 1891 to June 1892.
-The book was published in England on October 14, 1892 by George Newnes Ltd and in a US Edition on October 15 by Harper.
-The initial combined print run was 14,500 copies.
-Hendrik Antoon Lorentz    * * *    The Einstein Theory of Relativity Whether it is true or not that not more than twelve persons in all the world are able to understand Einstein's Theory, it is nevertheless a fact that there is a constant demand for information about this much-debated topic of relativity.
-The books published on the subject are so technical that only a person trained in pure physics and higher mathematics is able to fully understand them.
-In order to make a popular explanation of this far-reaching theory available, the present book is published.
-Sigmund Freud    * * *    Dream Psychology The Interpretation of Dreams is a book by Sigmund Freud.
-The first edition was first published in German in November 1899 as Die Traumdeutung (though post-dated as 1900 by the publisher).
-The publication inaugurated the theory of Freudian dream analysis, which activity Freud famously described as "the royal road to the understanding of unconscious mental processes".
-H. G. Wells    * * *    The Time Machine The book's protagonist is an amateur inventor or scientist living in London who is never named; he is identified simply as The Time Traveller.
-Having demonstrated to friends using a miniature model that time is a fourth dimension, and that a suitable apparatus can move back and forth in this fourth dimension, he builds a full-scale model capable of carrying himself.
-He sets off on a journey into the future.
-Francis Scott Fitzgerald    * * *    The Curious Case of Benjamin Button This story was inspired by a remark of Mark Twain's to the effect that it was a pity that the best part of life came at the beginning and the worst part at the end.
-By trying the experiment upon only one man in a perfectly normal world I have scarcely given his idea a fair trial.
-Several weeks after completing it, I discovered an almost identical plot in Samuel Butler's "Note-books."
-The story was published in "Collier's" last summer and provoked this startling letter from an anonymous admirer in Cincinnati:  "Sir--  I have read the story Benjamin Button in Colliers and I wish to say that as a short story writer you would make a good lunatic I have seen many peices of cheese in my life but of all the peices of cheese I have ever seen you are the biggest peice.
-I hate to waste a peice of stationary on you but I will."
-Sun Tzu    * * *    The Art of War The Art of War is a Chinese military treatise that was written during the 6th century BC by Sun Tzu.
-Composed of 13 chapters, each of which is devoted to one aspect of warfare, it has long been praised as the definitive work on military strategies and tactics of its time.
-The Art of War is one of the oldest books on military strategy in the world.
-It is the first and one of the most successful works on strategy and has had a huge influence on Eastern and Western military thinking, business tactics, and beyond.
-Sun Tzu was the first to recognize the importance of positioning in strategy and that position is affected both by objective conditions in the physical environment and the subjective opinions of competitive actors in that environment.
-He taught that strategy was not planning in the sense of working through a to-do list, but rather that it requires quick and appropriate responses to changing conditions.
-Planning works in a controlled environment, but in a competitive environment,      Jacob Ludwig Karl Grimm    * * *    Grimm's Fairy Tales Children's and Household Tales (German: Kinder- und Hausmärchen) is a collection of German origin fairy tales first published in 1812 by Jacob and Wilhelm Grimm, the Brothers Grimm.
-The collection is commonly known today as Grimms' Fairy Tales (German: Grimms Märchen).
-www.feedbooks.com  Food for the mind
