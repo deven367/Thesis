@@ -23,10 +23,10 @@ def read_json(path):
 
 import matplotlib.pyplot as plt
 
-def plot_heatmap(embeddings):
+def plot_heatmap(embeddings, fname):
     cmp = newcmp(0,0,256)
     sns.heatmap(cosine_similarity(embeddings, embeddings) ,square=True, cmap=cmp, vmin=0, vmax = 1)
     plt.show()
     inp = input('Do you have want to save the figure? ')
     if inp == 'y' or inp == 'Y':
-        plt.savefig('figure.png', dpi = 300)
+        plt.savefig(fname+'.png', dpi = 300)
