@@ -1,0 +1,38 @@
+goals and aims
+2 goals (3 at max)
+big things
+analyzing the semantic dynamics
+comparitive analysis
+
+aims - certain kinds of books
+identifying appropriate source of data
+implementing things
+
+preamble
+why are we doing it
+why is it interesting
+motivation
+overall approach
+qualitative summary
+
+
+chp2
+background
+all algorithms
+cite work for others
+general idea for text embedding
+sentence similarity
+
+
+chp3
+what did you do
+how did you use
+how did you process
+discuss the working
+visualization
+
+chp4
+results (heatmaps)
+
+chp5
+future work
