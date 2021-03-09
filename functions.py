@@ -52,3 +52,11 @@ def only_words(text):
         if word not in string.punctuation:
             c += 1
     return c
+
+from nltk.corpus import stopwords
+def num_stopwords(text):
+    c = 0
+    for word in text:
+        if word in stopwords.words('english'):
+            c += 1
+    return c
