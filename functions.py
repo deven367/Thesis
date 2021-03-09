@@ -60,3 +60,18 @@ def num_stopwords(text):
         if word in stopwords.words('english'):
             c += 1
     return c
+
+def make_dataframe(sentences):
+    df = pd.DataFrame(sentences, columns=['text'])
+    df['index'] = [i for i in range(len(df))]
+    df['length'] = df['text'].apply(len)
+    df['tokens'] = df['text'].apply(word_tokenize)
+    df['n_tokens'] = df['tokens'].apply(len)
+    df['only_words'] = df['tokens'].apply(only_words)
+    df['stopwords'] = df['tokens'].apply(num_stopwords)
+    df['valid'] = df['only_words'] - df['stopwords']
+    df2 = df[ (df['valid'] >= 2) ]
+    df3 = df[ (df['stopwords'] ==0) & (df['valid'] == 1)]
+    cleaned_df = pd.concat([df2,df3])
+    cleaned_df.sort_index(inplace = True)
+    return cleaned_df
