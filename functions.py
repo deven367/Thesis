@@ -1,4 +1,5 @@
 from matplotlib.colors import ListedColormap, LinearSegmentedColormap
+import pandas as pd
 import numpy as np
 import json
 import seaborn as sns
@@ -36,3 +37,10 @@ def get_data(fname):
     with open(fname, 'r') as f:
         all = f.read()
     return all
+
+from nltk.tokenize import sent_tokenize
+from nltk.tokenize import word_tokenize
+def make_sentences(all):
+    all_cleaned = all.replace('\n',' ')
+    sentences = sent_tokenize(all_cleaned)
+    return sentences
