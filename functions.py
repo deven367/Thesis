@@ -81,3 +81,10 @@ def write_to_file(cleaned_df, fname):
         for line in cleaned_df['text']:
             f.write(line + '\n')
     f.close()
+
+def get_cleaned_file(fname):
+    all = get_data(fname)
+    sentences = make_sentences(all)
+    dataframe = make_dataframe(sentences)
+    print(len(dataframe))
+    write_to_file(dataframe, fname)
