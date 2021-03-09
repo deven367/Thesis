@@ -75,3 +75,9 @@ def make_dataframe(sentences):
     cleaned_df = pd.concat([df2,df3])
     cleaned_df.sort_index(inplace = True)
     return cleaned_df
+
+def write_to_file(cleaned_df, fname):
+    with open(fname[:-4]+'_cleaned.txt', 'w') as f:
+        for line in cleaned_df['text']:
+            f.write(line + '\n')
+    f.close()
