@@ -44,3 +44,11 @@ def make_sentences(all):
     all_cleaned = all.replace('\n',' ')
     sentences = sent_tokenize(all_cleaned)
     return sentences
+
+import string
+def only_words(text):
+    c = 0
+    for word in text:
+        if word not in string.punctuation:
+            c += 1
+    return c
