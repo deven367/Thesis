@@ -96,3 +96,9 @@ def remove_all_numbers(all_text):
     x = re.sub('[0-9][0-9][0-9]','', x) #remove all 3 digit numbers
     return x
 
+def clean_poems(fname):
+    all = get_data(fname)
+    x = remove_all_numbers(all)
+    sentences = make_sentences(x)
+    print(len(sentences))
+    write_to_file_poems(sentences, fname)
