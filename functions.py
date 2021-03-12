@@ -102,3 +102,9 @@ def clean_poems(fname):
     sentences = make_sentences(x)
     print(len(sentences))
     write_to_file_poems(sentences, fname)
+
+def write_to_file_poems(sentences, fname):
+    with open(fname[:-4]+'_cleaned.txt', 'w') as f:
+        for line in sentences:
+            f.write(line + '\n')
+    f.close()
