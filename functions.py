@@ -88,3 +88,11 @@ def get_cleaned_file(fname):
     dataframe = make_dataframe(sentences)
     print(len(dataframe))
     write_to_file(dataframe, fname)
+
+import re
+def remove_all_numbers(all_text):
+    x = re.sub('[0-9]','',all_text) #remove all single digit numbers
+    x = re.sub('[0-9][0-9]','',x) #remove all double digit numbers
+    x = re.sub('[0-9][0-9][0-9]','', x) #remove all 3 digit numbers
+    return x
+
