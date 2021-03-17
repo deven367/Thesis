@@ -1,7 +1,7 @@
-THE FIRST BOOK OF HOMER’S ILIADS
-THE ARGUMENT
 
-ANOTHER ARGUMENT
+
+
+
 
 Achilles’ baneful wrath resound, O Goddess, that impos’d
 Infinite sorrows on the Greeks, and many brave souls los’d.
@@ -594,15 +594,15 @@ By heav’n’s great both-foot-halting God a sev’ral roof had built.
 Ev’n he to sleep went, by whose hand heav’n is with lightning gilt,
 High Jove, where he had us’d to rest when sweet sleep seiz’d his eyes;
 By him the golden-thron’d Queen slept, the Queen of deities.
-THE END OF THE FIRST BOOK.
 
 
 
 
-THE SECOND BOOK OF HOMER’S ILIADS
-THE ARGUMENT
 
-ANOTHER ARGUMENT
+
+
+
+
 
 The other Gods, and knights at arms, all night slept; only Jove
 Sweet slumber seiz’d not; he discours’d how best he might approve
@@ -1026,7 +1026,7 @@ Infract and trump-like; that great work, unless the seed of Jove,
 The deathless Muses, undertake, maintains a pitch above
 All mortal pow’rs. The princes then, and navy that did bring
 Those so inenarrable troops, and all their soils, I sing.
-THE CATALOGUE OF THE GRECIAN SHIPS AND CAPTAINS
+
 Peneleus, and Leitus, all that Bœotia bred,
 Arcesilaus, Clonius, and Prothoenor led;
 Th’ inhabitants of Hyria, and stony Aulida,
@@ -1391,11 +1391,11 @@ Which wise Achilles mark’d, slew him, and took his gold in strife,
 At Xanthus’ flood; so little Death did fear his golden life.
 Sarpedon led the Lycians, and Glaucus unreprov’d,
 From Lycia, and the gulfy flood of Xanthus far remov’d.
-THE END OF THE SECOND BOOK.
-THE THIRD BOOK OF HOMER’S ILIADS
-THE ARGUMENT
 
-ANOTHER ARGUMENT
+
+
+
+
 
 When ev’ry least commander’s will best soldiers had obey’d,
 And both the hosts were rang’d for fight, the Trojans would have fray’d
@@ -1886,13 +1886,13 @@ Restore to us, and pay the mulct, that by your vows is due,
 Yield us an honour’d recompense, and, all that should accrue
 To our posterities, confirm; that when you render it,
 Our acts may here be memoris’d.” This all Greeks else thought fit.
-THE END OF THE THIRD BOOK.
 
 
-THE FOURTH BOOK OF HOMER’S ILIADS
-THE ARGUMENT
 
-ANOTHER ARGUMENT
+
+
+
+
 
 Within the fair-pav’d court of Jove, he and the Gods conferr’d
 About the sad events of Troy; amongst whom minister’d
@@ -2475,13 +2475,13 @@ The martial planet; whose effects had any eye beheld,
 Free and unwounded (and were led by Pallas through the field,
 To keep off jav’lins, and suggest the least fault could be found)
 He could not reprehend the fight, so many strew’d the ground.
-THE END OF THE FOURTH BOOK.
 
 
-THE FIFTH BOOK OF HOMER’S ILIADS
-THE ARGUMENT
 
-ANOTHER ARGUMENT
+
+
+
+
 
 Then Pallas breath’d in Tydeus’ son; to render whom supreme
 To all the Greeks, at all his parts, she cast a hotter beam
@@ -3386,17 +3386,17 @@ Then Hebe bath’d, and put on him fresh garments, and he sate
 Exulting by his sire again, in top of all his state.
 So, having, from the spoils of men, made his desir’d remove,
 Juno and Pallas re-ascend the starry court of Jove.
-THE END OF THE FIFTH BOOK.
 
 
 
 
 
 
-THE SIXTH BOOK OF HOMER’S ILIADS
-THE ARGUMENT
 
-ANOTHER ARGUMENT
+
+
+
+
 
 The stern fight freed of all the Gods, conquest with doubtful wings
 Flew on their lances; ev’ry way the restless field she flings
@@ -3965,7 +3965,6 @@ By thy procurement) doth deprave thy noblesse in mine ears.
 But come, hereafter we shall calm these hard conceits of theirs,
 When, from their ports the foe expuls’d, high Jove to them hath giv’n
 Wish’d peace, and us free sacrifice to all the Powers of heav’n.”
-THE END OF THE SIXTH BOOK.
 
 
 
@@ -3980,10 +3979,11 @@ THE END OF THE SIXTH BOOK.
 
 
 
-THE SEVENTH BOOK OF HOMER’S ILIADS[1]
-THE ARGUMENT
 
-ANOTHER ARGUMENT
+
+
+
+
 
 This said, brave Hector through the ports, with Troy’s bane-bringing knight,
 Made issue to th’ insatiate field, resolv’d to fervent fight.
@@ -4390,7 +4390,6 @@ Instead of quaffings; and to drink, none durst attempt, before
 In solemn sacrifice they did almighty Jove adore.
 Then to their rests they all repair’d; bold zeal their fear bereav’d;
 And sudden sleep’s refreshing gift, securely they receiv’d.
-THE END OF THE SEVENTH BOOK.
 
 
 
@@ -4405,10 +4404,11 @@ THE END OF THE SEVENTH BOOK.
 
 
 
-THE EIGHTH BOOK OF HOMER’S ILIADS
-THE ARGUMENT
 
-ANOTHER ARGUMENT
+
+
+
+
 
 The cheerful Lady of the light, deck’d in her saffron robe,
 Dispers’d her beams through ev’ry part of this enflow’red globe,
@@ -4907,13 +4907,13 @@ Before the face of Ilion, and her bright turrets show’d.
 A thousand courts of guard kept fires, and ev’ry guard allow’d
 Fifty stout men, by whom their horse ate oats and hard white corn,
 And all did wishfully expect the silver-thronéd morn.
-THE END OF THE EIGHTH BOOK.
 
 
-THE NINTH BOOK OF HOMER’S ILIADS
-THE ARGUMENT
 
-ANOTHER ARGUMENT
+
+
+
+
 
 So held the Trojans sleepless guard; the Greeks to flight were giv’n,
 The feeble consort of cold fear, strangely infus’d from heav’n;
@@ -5580,13 +5580,13 @@ The kings admir’d the fortitude, that so divinely mov’d
 The skilful horseman Diomed, and his advice approv’d.
 Then with their nightly sacrifice each took his sev’ral tent,
 Where all receiv’d the sov’reign gifts soft Somnus did present.
-THE END OF THE NINTH BOOK.
 
 
-THE TENTH BOOK OF HOMER’S ILIADS
-THE ARGUMENT
 
-ANOTHER ARGUMENT
+
+
+
+
 
 The other princes at their ships soft-finger’d sleep did bind,
 But not the Gen’ral; Somnus’ silks bound not his labouring mind
@@ -6075,15 +6075,15 @@ Was calm’d, and their swoln hearts refresh’d, more curious baths they us’d
 Where od’rous and dissolving oils, they through their limbs diffus’d.
 Then, taking breakfast, a big bowl, fill’d with the purest wine,
 They offer’d to the Maiden Queen, that hath the azure eyne.
-THE END OF THE TENTH BOOK.
 
 
 
 
-THE ELEVENTH BOOK OF HOMER’S ILIADS
-THE ARGUMENT
 
-ANOTHER ARGUMENT
+
+
+
+
 
 Aurora out of restful bed did from bright Tithon rise,
 To bring each deathless Essence light, and use to mortal eyes;
@@ -6846,11 +6846,11 @@ With lukewarm water the black blood; then ’twixt his hands he bruis’d
 A sharp and mitigatory root; which when he had infus’d
 Into the green, well-cleansed, wound, the pains he felt before
 Were well, and instantly allay’d; the wound did bleed no more.
-THE END OF THE ELEVENTH BOOK.
-THE TWELFTH BOOK OF HOMER’S ILIADS
-THE ARGUMENT
 
-ANOTHER ARGUMENT
+
+
+
+
 
 Patroclus thus employ’d in cure of hurt Eurypylus,
 Both hosts are all for other wounds doubly contentious,
@@ -7308,7 +7308,6 @@ None but the Gods might check his way; his eyes were furnaces;
 And thus he look’d back, call’d in all. All fir’d their courages,
 And in they flow’d. The Grecians fled, their fleet now and their freight
 Ask’d all their rescue. Greece went down; Tumult was at his height.
-THE END OF THE TWELFTH BOOK.
 
 
 
@@ -7321,10 +7320,11 @@ THE END OF THE TWELFTH BOOK.
 
 
 
-THE THIRTEENTH BOOK OF HOMER’S ILIADS
-THE ARGUMENT
 
-ANOTHER ARGUMENT
+
+
+
+
 
 Jove helping Hector, and his host, thus close Achive fleet,
 He let them then their own strengths try, and season there their sweet
@@ -8074,13 +8074,13 @@ His first troops follow’d, and the last their shouts with shouts repell’d.
 Greece answer’d all, nor could her spirits from all show rest conceal’d.
 And to so infinite a height all acclamations strove,
 They reach’d the splendours stuck about the unreach’d throne of Jove.
-THE END OF THE THIRTEENTH BOOK.
 
 
-THE FOURTEENTH BOOK OF HOMER’S ILIADS
-THE ARGUMENT
 
-ANOTHER ARGUMENT
+
+
+
+
 
 Not wine, nor feasts, could lay their soft chains on old Nestor’s ear
 To this high clamour, who requir’d Machaon’s thoughts to bear
@@ -8520,13 +8520,13 @@ His forc’d soul breaking through the wound; night’s black hand clos’d his 
 Then Ajax, great Oïleus’ son, had divers victories,
 For when Saturnius suffer’d flight, of all the Grecian race
 Not one with swiftness of his feet could so enrich a chace.
-THE END OF THE FOURTEENTH BOOK.
 
 
-THE FIFTEENTH BOOK OF HOMER’S ILIADS
-THE ARGUMENT
 
-ANOTHER ARGUMENT
+
+
+
+
 
 The Trojans, beat past pale and dike, and numbers prostrate laid,
 All got to chariot, fear-driv’n all, and fear’d as men dismay’d.
@@ -9215,11 +9215,11 @@ Thus rag’d he, and pour’d out his darts. Whoever he espied
 Come near the vessel arm’d with fire, on his fierce dart he died.
 All that pleas’d Hector made him mad, all that his thanks would earn;
 Of which twelve men, his most resolv’d, lay dead before his stern.
-THE END OF THE FIFTEENTH BOOK.
-THE SIXTEENTH BOOK OF HOMER’S ILIADS
-THE ARGUMENT
 
-ANOTHER ARGUMENT
+
+
+
+
 
 Thus fighting for this well-built ship; Patroclus all that space
 Stood by his friend, preparing words to win the Greeks his grace,
@@ -10020,15 +10020,15 @@ When quickly, while the dart was hot, he charg’d Automedon,
 Divine guide of Achilles’ steeds, in great contention
 To seize him too; but his so swift and deathless horse, that fetch’d
 Their gift to Peleus from the Gods, soon rapt him from his reach.
-THE END OF THE SIXTEENTH BOOK.
 
 
 
 
-THE SEVENTEENTH BOOK OF HOMER’S ILIADS
-THE ARGUMENT
 
-ANOTHER ARGUMENT
+
+
+
+
 
 Nor could his slaughter rest conceal’d from Menelaus’ ear;
 Who flew amongst the foremost fights, and with his targe and spear
@@ -10691,7 +10691,6 @@ Put all the youth of Greece besides in most amazeful rout,
 Forgetting all their fortitudes, distraught, and shrieking out
 A number of their rich arms lost, fall’n from them here and there,
 About, and in the dike; and yet, the war concludes not here.
-THE END OF THE SEVENTEENTH BOOK.
 
 
 
@@ -10700,10 +10699,11 @@ THE END OF THE SEVENTEENTH BOOK.
 
 
 
-THE EIGHTEENTH BOOK OF HOMER’S ILIADS
-THE ARGUMENT
 
-ANOTHER ARGUMENT
+
+
+
+
 
 They fought still like the rage of fire. And now Antilochus
 Came to Æacides, whose mind was much solicitous
@@ -11264,11 +11264,11 @@ All done, he all to Thetis brought, and held all up to her.
 She took them all, and like t’ the hawk, surnam’d the osspringer,
 From Vulcan to her mighty son, with that so glorious show,
 Stoop’d from the steep Olympian hill, hid in eternal snow.
-THE END OF THE EIGHTEENTH BOOK.
-THE NINETEENTH BOOK OF HOMER’S ILIADS
-THE ARGUMENT
 
-ANOTHER ARGUMENT
+
+
+
+
 
 The morn arose, and from the ocean, in her saffron robe,
 Gave light to all, as well to Gods, as men of th’ under globe.
@@ -11678,13 +11678,13 @@ My overthrow. I know myself, it is my fate to fall
 Thus far from Phthia; yet that fate shall fail to vent her gall,
 Till mine vent thousands.” These words us’d, he fell to horrid deeds,
 Gave dreadful signal, and forthright made fly his one-hoof’d steeds.
-THE END OF THE NINETEENTH BOOK.
 
 
-THE TWENTIETH BOOK OF HOMER’S ILIADS
-THE ARGUMENT
 
-ANOTHER ARGUMENT
+
+
+
+
 
 The Greeks thus arm’d, and made insatiate with desire of fight,
 About thee, Peleus’ son, the foe, in ground of greatest height,
@@ -12136,11 +12136,11 @@ Beneath Achilles’ one-hoof’d horse, shields, spears, and men, lay trod,
 His axle-trees and chariot wheels, all spatter’d with the blood
 Hurl’d from the steeds’ hooves and the strakes. Thus, to be magnified,
 His most inaccessible hands in human blood he dyed.
-THE END OF THE TWENTIETH BOOK.
-THE TWENTY-FIRST BOOK OF HOMER’S ILIADS
-THE ARGUMENT
 
-ANOTHER ARGUMENT
+
+
+
+
 
 And now they reach’d the goodly swelling channel of the flood,
 Gulf-eating Xanthus, whom Jove mix’d with his immortal brood;
@@ -12685,17 +12685,17 @@ Strooted with fillers; none would stand to see who stay’d without,
 Who scap’d, and who came short. The ports cleft to receive the rout
 That pour’d itself in. Ev’ry man was for himself. Most fleet
 Most fortunate. Whoever scap’d, his head might thank his feet.
-THE END OF THE TWENTY-FIRST BOOK.
 
 
 
 
 
 
-THE TWENTY-SECOND BOOK OF HOMER’S ILIADS
-THE ARGUMENT
 
-ANOTHER ARGUMENT
+
+
+
+
 
 Thus, chas’d like hinds, the Ilians took time to drink and eat,
 And to refresh them, getting off the mingled dust and sweat,
@@ -13149,17 +13149,17 @@ Shall vent their vanities. And yet, being consecrate to thee,
 They shall be kept for citizens, and their fair wives, to see.”
 Thus spake she weeping; all the dames endeavouring to cheer
 Her desert state, fearing their own, wept with her tear for tear.
-THE END OF THE TWENTY-SECOND BOOK.
 
 
 
 
 
 
-THE TWENTY-THIRD BOOK OF HOMER’S ILIADS
-THE ARGUMENT
 
-ANOTHER ARGUMENT
+
+
+
+
 
 Thus mourn’d all Troy. But when at fleet and Hellespontus’ shore
 The Greeks arriv’d, each to his ship; only the Conqueror
@@ -13934,7 +13934,6 @@ Afford Meriones the lance.” The King was nothing slow
 To that fit grace. Achilles then the brass lance did bestow
 On good Meriones. The King his present would not save,
 But to renown’d Talthybius the goodly caldron gave.
-THE END OF THE TWENTY-THIRD BOOK.
 
 
 
@@ -13955,10 +13954,11 @@ THE END OF THE TWENTY-THIRD BOOK.
 
 
 
-THE TWENTY-FOURTH BOOK OF HOMER’S ILIADS
-THE ARGUMENT
 
-ANOTHER ARGUMENT
+
+
+
+
 
 The games perform’d; the soldiers wholly dispers’d to fleet,
 Supper and sleep their only care. Constant Achilles yet
@@ -14672,4 +14672,3 @@ For fear of false surprise before they had impos’d the crown
 To these solemnities. The tomb advanc’d once, all the town
 In Jove-nurs’d Priam’s Court partook a passing sumptuous feast.
 And so horse-taming Hector’s rites gave up his soul to rest.
-THE END OF THE TWENTY-FOURTH BOOK.
