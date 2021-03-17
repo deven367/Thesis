@@ -1,4 +1,4 @@
-BOOK I.
+
 
 
 Tell me, Muse, of that man, so ready at need, who wandered far and wide, after he had sacked the sacred citadel of Troy, and many were the men whose towns he saw and whose mind he learnt, yea, and many the woes he suffered in his heart upon the deep, striving to win his own life and the return of his company. Nay, but even so he saved not his company, though he desired it sore. For through the blindness of their own hearts they perished, fools, who devoured the oxen of Helios Hyperion: but the god took from them their day of returning. Of these things, goddess, daughter of Zeus, whencesoever thou hast heard thereof, declare thou even unto us.
@@ -75,7 +75,7 @@ So spake Telemachus, but in his heart he knew the deathless goddess. Now the woo
 
 But Telemachus, where his chamber was builded high up in the fair court, in a place with wide prospect, thither betook him to his bed, pondering many thoughts in his mind; and with him went trusty Eurycleia, and bare for him torches burning. She was the daughter of Ops, son of Peisenor, and Laertes bought her on a time with his wealth, while as yet she was in her first youth, and gave for her the worth of twenty oxen. And he honoured her even as he honoured his dear wife in the halls, but he never lay with her, for he shunned the wrath of his lady. She went with Telemachus and bare for him the burning torches: and of all the women of the household she loved him most, and she had nursed him when a little one. Then he opened the doors of the well-builded chamber and sat him on the bed and took off his soft doublet, and put it in the wise old woman’s hands. So she folded the doublet and smoothed it, and hung it on a pin by the jointed bedstead, and went forth on her way from the room, and pulled to the door with the silver handle, and drew home the bar with the thong. There, all night through, wrapped in a fleece of wool, he meditated in his heart upon the journey that Athene had showed him.
 
-BOOK II.
+
 
 
 Now so soon as early Dawn shone forth, the rosy-fingered, the dear son of Odysseus gat him up from his bed, and put on his raiment and cast his sharp sword about his shoulder, and beneath his smooth feet he bound his goodly sandals, and stept forth from his chamber in presence like a god. And straightway he bade the clear-voiced heralds to call the long-haired Achaeans to the assembly. And the heralds called the gathering, and the Achaeans were assembled quickly. Now when they were gathered and come together, he went on his way to the assembly holding in his hand a spear of bronze,—not alone he went, for two swift hounds bare him company. Then Athene shed on him a wondrous grace, and all the people marvelled at him as he came. And he sat him in his father’s seat and the elders gave place to him.
@@ -162,7 +162,7 @@ Thus he spake and led the way, and they went with him. So they brought all and s
 
 And Telemachus called unto his company and bade them lay hands on the tackling, and they hearkened to his call. So they raised the mast of pine tree and set it in the hole of the cross plank, and made it fast with forestays, and hauled up the white sails with twisted ropes of oxhide. And the wind filled the belly of the sail, and the dark wave seethed loudly round the stem of the running ship, and she fleeted over the wave, accomplishing her path. Then they made all fast in the swift black ship, and set mixing bowls brimmed with wine, and poured drink offering to the deathless gods that are from everlasting, and in chief to the grey-eyed daughter of Zeus. So all night long and through the dawn the ship cleft her way.
 
-BOOK III.
+
 
 
 Now the sun arose and left the lovely mere, speeding to the brazen heaven, to give light to the immortals and to mortal men on the earth, the graingiver, and they reached Pylos, the stablished castle of Neleus. There the people were doing sacrifice on the sea shore, slaying black bulls without spot to the dark-haired god, the shaker of the earth. Nine companies there were, and five hundred men sat in each, and in every company they held nine bulls ready to hand. Just as they had tasted the inner parts, and were burning the slices of the thighs on the altar to the god, the others were bearing straight to land, and brailed up the sails of the gallant ship, and moored her, and themselves came forth. And Telemachus too stept forth from the ship, and Athene led the way. And the goddess, grey-eyed Athene, spake first to him, saying:
@@ -239,7 +239,7 @@ Now the sun sank and all the ways were darkened. And they came to Pherae, to the
 
 Now so soon as early Dawn shone forth, the rosy-fingered, they yoked the horses and mounted the inlaid car. And forth they drave from the gateway and the echoing gallery, and Peisistratus touched the horses with the whip to start them, and the pair flew onward nothing loth. So they came to the wheat-bearing plain, and thenceforth they pressed toward the end: in such wise did the swift horses speed forward. Now the sun sank and all the ways were darkened.
 
-BOOK IV.
+
 
 
 And they came to Lacedaemon lying low among the caverned hills, and drave to the dwelling of renowned Menelaus. Him they found giving a feast in his house to many friends of his kin, a feast for the wedding of his noble son and daughter. His daughter he was sending to the son of Achilles, cleaver of the ranks of men, for in Troy he first had promised and covenanted to give her, and now the gods were bringing about their marriage. So now he was speeding her on her way with chariot and horses, to the famous city of the Myrmidons, among whom her lord bare rule. And for his son he was bringing to his home the daughter of Alector out of Sparta, for his well-beloved son, strong Megapenthes, born of a slave woman, for the gods no more showed promise of seed to Helen, from the day that she bare a lovely child, Hermione, as fair as golden Aphrodite. So they were feasting through the great vaulted hall, the neighbours and the kinsmen of renowned Menelaus, making merry; and among them a divine minstrel was singing to the lyre, and as he began the song two tumblers in the company whirled through the midst of them.
@@ -424,7 +424,7 @@ Therewith the phantom slipped away by the bolt of the door and passed into the b
 
 Meanwhile the wooers had taken ship and were sailing over the wet ways, pondering in their hearts sheer death for Telemachus. Now there is a rocky isle in the mid sea, midway between Ithaca and rugged Samos, Asteris, a little isle; and there is a harbour therein with a double entrance, where ships may ride. There the Achaeans abode lying in wait for Telemachus.
 
-BOOK V.
+
 
 
 Now the Dawn arose from her couch, from the side of the lordly Tithonus, to bear light to the immortals and to mortal men. And lo, the gods were gathering to session, and among them Zeus, that thunders on high, whose might is above all. And Athene told them the tale of the many woes of Odysseus, recalling them to mind; for near her heart was he that then abode in the dwelling of the nymph:
@@ -509,7 +509,7 @@ So spake he, and the god straightway stayed his stream and withheld his waves, a
 
 So as he thought thereon this seemed to him the better way. He went up to the wood, and found it nigh the water in a place of wide prospect. So he crept beneath twin bushes that grew from one stem, both olive trees, one of them wild olive. Through these the force of the wet winds blew never, neither did the bright sun light on it with his rays, nor could the rain pierce through, so close were they twined either to other; and thereunder crept Odysseus and anon he heaped together with his hands a broad couch; for of fallen leaves there was great plenty, enough to cover two or three men in winter time, however hard the weather. And the steadfast goodly Odysseus beheld it and rejoiced, and he laid him in the midst thereof and flung over him the fallen leaves. And as when a man hath hidden away a brand in the black embers at an upland farm, one that hath no neighbours nigh, and so saveth the seed of fire, that he may not have to seek a light otherwhere, even so did Odysseus cover him with the leaves. And Athene shed sleep upon his eyes, that so it might soon release him from his weary travail, overshadowing his eyelids.
 
-BOOK VI.
+
 
 
 So there he lay asleep, the steadfast goodly Odysseus, fordone with toil and drowsiness. Meanwhile Athene went to the land and the city of the Phaeacians, who of old, upon a time, dwelt in spacious Hypereia; near the Cyclôpes they dwelt, men exceeding proud, who harried them continually, being mightier than they. Thence the godlike Nausithous made them depart, and he carried them away, and planted them in Scheria, far off from men that live by bread. And he drew a wall around the town, and builded houses and made temples for the gods and meted out the fields. Howbeit ere this had he been stricken by fate, and had gone down to the house of Hades, and now Alcinous was reigning, with wisdom granted by the gods. To his house went the goddess, grey-eyed Athene, devising a return for the great-hearted Odysseus. She betook her to the rich-wrought bower, wherein was sleeping a maiden like to the gods in form and comeliness, Nausicaa, the daughter of Alcinous, high of heart. Beside her on either hand of the pillars of the door were two handmaids, dowered with beauty from the Graces, and the shining doors were shut.
@@ -558,7 +558,7 @@ She spake, and smote the mules with the shining whip, and quickly they left behi
 
 So he spake in prayer, and Pallas Athene heard him; but she did not yet appear to him face to face, for she had regard unto her father’s brother, who furiously raged against the godlike Odysseus, till he should come to his own country.
 
-BOOK VII.
+
 
 
 So he prayed there, the steadfast goodly Odysseus, while the two strong mules bare the princess to the town. And when she had now come to the famous palace of her father, she halted at the gateway, and round her gathered her brothers, men like to the immortals, and they loosed the mules from under the car, and carried the raiment within. But the maiden betook her to her chamber; and an aged dame from Aperaea kindled the fire for her, Eurymedusa, the handmaid of the chamber, whom the curved ships upon a time had brought from Aperaea; and men chose her as a prize for Alcinous, seeing that he bare rule over all the Phaeacians, and the people hearkened to him as to a god. She waited on the white-armed Nausicaa in the palace halls; she was wont to kindle the fire and prepare the supper in the inner chamber.
@@ -615,7 +615,7 @@ Thus they spake one to the other. And white-armed Arete bade her handmaids set o
 
 So spake they, and it seemed to him that rest was wondrous good. So he slept there, the steadfast goodly Odysseus, on the jointed bedstead, beneath the echoing gallery. But Alcinous laid him down in the innermost chamber of the high house, and by him the lady his wife arrayed bedstead and bedding.
 
-BOOK VIII.
+
 
 
 Now when early Dawn shone forth, the rosy-fingered, then the mighty king Alcinous gat him up from his bed; and Odysseus, of the seed of Zeus, likewise uprose, the waster of cities. And the mighty king Alcinous led the way to the assembly place of the Phaeacians, which they had established hard by the ships. So when they had come thither, and sat them down on the polished stones close by each other, Pallas Athene went on her way through the town, in the semblance of the herald of wise Alcinous, devising a return for the great-hearted Odysseus. Then standing by each man she spake, saying:
@@ -740,7 +740,7 @@ This was the song that the famous minstrel sang. But the heart of Odysseus melte
 
 “Hearken, ye captains and counsellors of the Phaeacians, and now let Demodocus hold his hand from the loud lyre, for this song of his is nowise pleasing alike to all. From the time that we began to sup, and that the divine minstrel was moved to sing, ever since hath yonder stranger never ceased from woeful lamentation: sore grief, methinks, hath encompassed his heart. Nay, but let the minstrel cease, that we may all alike make merry, hosts and guest, since it is far meeter so. For all these things are ready for the sake of the honourable stranger, even the convoy and the loving gifts which we give him out of our love. In a brother’s place stand the stranger and the suppliant, to him whose wits have even a little range, wherefore do thou too hide not now with crafty purpose aught whereof I ask thee; it were more meet for thee to tell it out. Say, what is the name whereby they called thee at home, even thy father and thy mother, and others thy townsmen and the dwellers round about? For there is none of all mankind nameless, neither the mean man nor yet the noble, from the first hour of his birth, but parents bestow a name on every man so soon as he is born. Tell me too of thy land, thy township, and thy city, that our ships may conceive of their course to bring thee thither. For the Phaeacians have no pilots nor any rudders after the manner of other ships, but their barques themselves understand the thoughts and intents of men; they know the cities and fat fields of every people, and most swiftly they traverse the gulf of the salt sea, shrouded in mist and cloud, and never do they go in fear of wreck or ruin. Howbeit I heard upon a time this word thus spoken by my father Nausithous, who was wont to say that Poseidon was jealous of us for that we give safe escort to all men. He said that the god would some day smite a well-wrought ship of the Phaeacians as she came home from a convoy over the misty deep, and would overshadow our city with a great mountain. Thus that ancient one would speak, and thus the god may bring it about, or leave it undone, according to the good pleasure of his will. But come now, declare me this and plainly tell it all; whither wast thou borne wandering, and to what shores of men thou camest; tell me of the people and of their fair-lying cities, of those whoso are hard and wild and unjust, and of those likewise who are hospitable and of a god-fearing mind. Declare, too, wherefore thou dost weep and mourn in spirit at the tale of the faring of the Argive Danaans and the lay of Ilios. All this the gods have fashioned, and have woven the skein of death for men, that there might be a song in the ears even of the folk of aftertime. Hadst thou even a kinsman by marriage that fell before Ilios, a true man, a daughter’s husband or wife’s father, such as are nearest us after those of our own stock and blood? Or else, may be, some loving friend, a good man and true; for a friend with an understanding heart is no whit worse than a brother.”
 
-BOOK IX.
+
 
 
 And Odysseus of many counsels answered him saying: “King Alcinous, most notable of all the people, verily it is a good thing to list to a minstrel such as this one, like to the gods in voice. Nay, as for me, I say that there is no more gracious or perfect delight than when a whole people makes merry, and the men sit orderly at feast in the halls and listen to the singer, and the tables by them are laden with bread and flesh, and a wine-bearer drawing the wine serves it round and pours it into the cups. This seems to me well-nigh the fairest thing in the world. But now thy heart was inclined to ask of my grievous troubles, that I may mourn for more exceeding sorrow. What then shall I tell of first, what last, for the gods of heaven have given me woes in plenty? Now, first, will I tell my name, that ye too may know it, and that I, when I have escaped the pitiless day, may yet be your host, though my home is in a far country. I am ODYSSEUS, SON OF LAERTES, who am in men’s minds for all manner of wiles, and my fame reaches unto heaven. And I dwell in clear-seen Ithaca, wherein is a mountain Neriton, with trembling forest leaves, standing manifest to view, and many islands lie around, very near one to the other, Dulichium and Same, and wooded Zacynthus. Now Ithaca lies low, furthest up the sea-line toward the darkness, but those others face the dawning and the sun: a rugged isle, but a good nurse of noble youths; and for myself I can see nought beside sweeter than a man’s own country. Verily Calypso, the fair goddess, would fain have kept me with her in her hollow caves, longing to have me for her lord; and likewise too, guileful Circe of Aia, would have stayed me in her halls, longing to have me for her lord. But never did they prevail upon my heart within my breast. So surely is there nought sweeter than a man’s own country and his parents, even though he dwell far off in a rich home, in a strange land, away from them that begat him. But come, let me tell thee too of the troubles of my journeying, which Zeus laid on me as I came from Troy.
@@ -852,7 +852,7 @@ And Odysseus of many counsels answered him saying: “King Alcinous, most notabl
 “Thence we sailed onward stricken at heart, yet glad as men saved from death, albeit we had lost our dear companions.
 
 
-BOOK X.
+
 
 
 “Then we came to the isle Aeolian, where dwelt Aeolus, son of Hippotas, dear too the deathless gods, in a floating island, and all about it is a wall of bronze unbroken, and the cliff runs up sheer from the sea. His twelve children to abide there in his halls, six daughters and six lusty sons; and, behold, he gave his daughters to his sons to wife. And they feast evermore by their dear father and their kind mother, and dainties innumerable lie ready to their hands. And the house is full of the savour of feasting, and the noise thereof rings round, yea in the courtyard, by day, and in the night they sleep each one by his chaste wife in coverlets and on jointed bedsteads. So then we came to their city and their goodly dwelling, and the king entreated me kindly for a whole month, and sought out each thing, Ilios and the ships of the Argives, and the return of the Achaeans. So I told him all the tale in order duly. But when I in turn took the word and asked of my journey, and bade him send me on my way, he too denied me not, but furnished an escort. He gave me a wallet, made of the hide of an ox of nine seasons old, which he let flay, and therein he bound the ways of all the noisy winds; for him the son of Cronos made keeper of the winds, either to lull or to rouse what blasts he will. And he made it fast in the hold of the ship with a shining silver thong, that not the faintest breath might escape. Then he sent forth the blast of the West Wind to blow for me, to bear our ships and ourselves upon our way; but this he was never to bring to pass, for we were undone through our own heedlessness.
@@ -977,7 +977,7 @@ BOOK X.
 
 “But as we were now wending sorrowful to the swift ship and the sea-banks, shedding big tears, Circe meanwhile had gone her ways and made fast a ram and a black ewe by the dark ship, lightly passing us by: who may behold a god against his will, whether going to or fro?”
 
-BOOK XI.
+
 
 
 “Now when we had gone down to the ship and to the sea, first of all we drew the ship unto the fair salt water and placed the mast and sails in the black ship, and took those sheep and put them therein, and ourselves too climbed on board, sorrowing, and shedding big tears. And in the wake of our dark-prowed ship she sent a favouring wind that filled the sails, a kindly escort,—even Circe of the braided tresses, a dread goddess of human speech. And we set in order all the gear throughout the ship and sat us down; and the wind and the helmsman guided our barque. And all day long her sails were stretched in her seafaring; and the sun sank and all the ways were darkened.
@@ -1108,7 +1108,7 @@ And Odysseus of many counsels answered him, saying: “My lord Alcinous, most no
 
 “Straightway then I went to the ship, and bade my men mount the vessel, and loose the hawsers. So speedily they went on board, and sat upon the benches. And the wave of the flood bore the barque down the stream of Oceanus, we rowing first, and afterwards the fair wind was our convoy.
 
-BOOK XII.
+
 
 
 “Now after the ship had left the stream of the river Oceanus, and was come to the wave of the wide sea, and the isle Aeaean, where is the dwelling place of early Dawn and her dancing grounds, and the land of sunrising, upon our coming thither we beached the ship in the sand, and ourselves too stept ashore on the sea beach. There we fell on sound sleep and awaited the bright Dawn.
@@ -1199,7 +1199,7 @@ BOOK XII.
 
 “Thence for nine days was I borne, and on the tenth night the gods brought me nigh to the isle of Ogygia, where dwells Calypso of the braided tresses, an awful goddess of mortal speech, who took me in and entreated me kindly. But why rehearse all this tale? For even yesterday I told it to thee and to thy noble wife in thy house; and it liketh me not twice to tell a plain-told tale.”
 
-BOOK XIII.
+
 
 
 So spake he, and dead silence fell on all, and they were spell-bound throughout the shadowy halls. Thereupon Alcinous answered him, and spake, saying:
@@ -1290,7 +1290,7 @@ Therewith Athene touched him with her wand. His fair flesh she withered on his s
 
 And after they twain had taken this counsel together, they parted; and she now went to goodly Lacedaemon to fetch the son of Odysseus.
 
-BOOK XIV.
+
 
 
 But Odysseus fared forth from the haven by the rough track, up the wooded country and through the heights, where Athene had showed him that he should find the goodly swineherd, who cared most for his substance of all the thralls that goodly Odysseus had gotten.
@@ -1367,7 +1367,7 @@ With that he sprang up and set a bed for Odysseus near the fire, and thereon he 
 
 So there Odysseus slept, and the young men slept beside him. But the swineherd had no mind to lie there in a bed away from the boars. So he made him ready to go forth and Odysseus was glad, because he had a great care for his master’s substance while he was afar. First he cast his sharp sword about his strong shoulders, then he clad him in a very thick mantle, to keep the wind away; and he caught up the fleece of a great and well-fed goat, and seized his sharp javelin, to defend him against dogs and men. Then he went to lay him down even where the white-tusked boars were sleeping, beneath the hollow of the rock, in a place of shelter from the North Wind.
 
-BOOK XV.
+
 
 
 Now Pallas Athene went to the wide land of Lacedaemon, to put the noble son of the great-hearted Odysseus in mind of his return, and to make him hasten his coming. And she found Telemachus, and the glorious son of Nestor, couched at the vestibule of the house of famous Menelaus. The son of Nestor truly was overcome with soft sleep, but sweet sleep gat not hold of Telemachus, but, through the night divine, careful thoughts for his father kept him wakeful. And grey-eyed Athene stood nigh him and spake to him, saying:
@@ -1502,7 +1502,7 @@ Then Piraeus, spearsman renowned, answered him saying: “Telemachus, why, even 
 
 Therewith he went on board, and bade his men themselves to mount and loose the hawsers. And quickly they embarked and sat upon the benches. And Telemachus bound his goodly sandals beneath his feet, and seized a mighty spear, shod with sharp bronze, from the deck of the ship and his men loosed the hawsers. So they thrust off and sailed to the city, as Telemachus bade them, the dear son of divine Odysseus. But swiftly his feet bore him on his forward way, till he came to the court, where were his swine out of number; and among them the good swineherd slept, a man loyal to his lords.
 
-BOOK XVI.
+
 
 
 Now these twain, Odysseus and the goodly swineherd, within the hut had kindled a fire, and were making ready breakfast at the dawn, and had sent forth the herdsmen with the droves of swine. And round Telemachus the hounds, that love to bark, fawned and barked not, as he drew nigh. And goodly Odysseus took note of the fawning of the dogs, and the noise of footsteps fell upon his ears. Then straight he spake to Eumaeus winged words:
@@ -1621,7 +1621,7 @@ So spake he, and the mighty prince Telemachus smiled, and glanced at his father,
 
 Now when they had ceased from the work and got supper ready, they fell to feasting, and their hearts lacked not ought of the equal banquet. But when they had put from them the desire of meat and drink, they bethought them of rest, and took the boon of sleep.
 
-BOOK XVII.
+
 
 
 So soon as early Dawn shone forth, the rosy-fingered, then Telemachus, the dear son of divine Odysseus, bound beneath his feet his goodly sandals, and took up his mighty spear that fitted his grasp, to make for the city; and he spake to his swineherd, saying:
@@ -1802,7 +1802,7 @@ And wise Telemachus answered him, and said: “Even so shall it be, father; and 
 
 Thus he spake, and the other sat down again on the polished settle; and when he had satisfied his heart with meat and drink, he went on his way to the swine, leaving the courts and the hall full of feasters; and they were making merry with dance and song, for already it was close on eventide.
 
-BOOK XVIII.
+
 
 
 Then up came a common beggar, who was wont to beg through the town of Ithaca, one that was known among all men for ravening greed, for his endless eating and drinking, yet he had no force or might, though he was bulky enough to look on. Arnaeus was his name, for so had his good mother given it him at his birth, but all the young men called him Irus, because he ran on errands, whensoever any might bid him. So now he came, and would have driven Odysseus from his own house, and began reviling him, and spake winged words:
@@ -1927,7 +1927,7 @@ Thus he spake, and they all bit their lips and marvelled at Telemachus, in that 
 
 Thus he spake, and his word was well-pleasing to them all. Then the lord Mulius mixed for them the bowl, the henchman out of Dulichium, who was squire of Amphinomus. And he stood by all and served it to them in their turn; and they poured forth before the blessed gods, and drank the honey-sweet wine. Now when they had poured forth and had drunken to their hearts’ content, they departed to lie down, each one to his own house.
 
-BOOK XIX.
+
 
 
 Now the goodly Odysseus was left behind in the hall, devising with Athene’s aid the slaying of the wooers, and straightway he spake winged words to Telemachus:
@@ -2044,7 +2044,7 @@ Then the wise Penelope answered him: “Stranger, if only thou wert willing stil
 
 Therewith she ascended to her shining upper chamber, not alone, for with her likewise went her handmaids. So she went aloft to her upper chamber with the women her handmaids, and there was bewailing Odysseus, her dear lord, till grey-eyed Athene cast sweet sleep upon her eyelids.
 
-BOOK XX.
+
 
 
 But the goodly Odysseus laid him down to sleep in the vestibule of the house. He spread an undressed bull’s hide on the ground and above it many fleeces of sheep, that the Achaeans were wont to slay in sacrifice, and Eurynome threw a mantle over him where he lay. There Odysseus lay wakeful, with evil thoughts against the wooers in his heart. And the women came forth from their chamber, that aforetime were wont to lie with the wooers, making laughter and mirth among themselves. Then the heart of Odysseus was stirred within his breast, and much he communed with his mind and soul, whether he should leap forth upon them and deal death to each, or suffer them to lie with the proud wooers, now for the last and latest time. And his heart growled sullenly within him. And even as a bitch stands over her tender whelps growling, when she spies a man she knows not, and she is eager to assail him, so growled his heart within him in his wrath at their evil deeds. Then he smote upon his breast and rebuked his own heart, saying:
@@ -2171,7 +2171,7 @@ So spake the wooers, but he heeded not their words, in silence he looked towards
 
 Now the daughter of Icarius, wise Penelope, had set her fair chair over against them, and heard the words of each one of the men in the halls. For in the midst of laughter they had got ready the midday meal, a sweet meal and abundant, for they had sacrificed many cattle. But never could there be a banquet less gracious than that supper, such an one as the goddess and the brave man were soon to spread for them; for that they had begun the devices of shame.
 
-BOOK XXI.
+
 
 
 Now the goddess, grey-eyed Athene, put it into the heart of the daughter of Icarius, wise Penelope, to set the bow and the axes of grey iron, for the wooers in the halls of Odysseus, to be the weapons of the contest, and the beginning of death. So she descended the tall staircase of her chamber, and took the well-bent key in her strong hand, a goodly key of bronze, whereon was a handle of ivory. And she betook her, with her handmaidens, to the treasure-chamber in the uttermost part of the house, where lay the treasures of her lord, bronze and gold and well-wrought iron. And there lay the back-bent bow and the quiver for the arrows, and many shafts were therein, winged for death, gifts of a friend of Odysseus, that met with him in Lacedaemon, Iphitus son of Eurytus, a man like to the gods. These twain fell in with one another in Messene, in the house of wise Ortilochus. Now Odysseus had gone thither to recover somewhat that was owing to him from all the people, for the men of Messene had lifted three hundred sheep in benched ships from out of Ithaca, with the shepherds of the flock. In quest of these it was that Odysseus went on a far embassy, being yet a lad; for his father and the other elders sent him forth. Moreover, Iphitus came thither in his search for twelve brood mares, which he had lost, with sturdy mules at the teat. These same it was that brought him death and destiny in the latter end, when he came to the child of Zeus, hardy of heart, the man Heracles, that had knowledge of great adventures, who smote Iphitus though his guest in his house, in his frowardness, and had no regard for the vengeance of the gods, nor for the table which he spread before him; for after the meal he slew him, his guest though he was, and kept for himself in the halls the horses strong of hoof. After these was Iphitus asking, when he met with Odysseus, and he gave him the bow, which of old great Eurytus bare and had left at his death to his son in his lofty house. And Odysseus gave Iphitus a sharp sword and a mighty spear, for the beginning of a loving friendship; but never had they acquaintance one of another at the board; ere that might be, the son of Zeus slew Iphitus son of Eurytus, a man like to the immortals, the same that gave Odysseus the bow. But goodly Odysseus would never take it with him on the black ships, as he went to the wars, but the bow was laid by at home in the halls as a memorial of a dear guest, and he carried it on his own land.
@@ -2278,7 +2278,7 @@ So spake the wooers, but Odysseus of many counsels had lifted the great bow and 
 
 Therewith he nodded with bent brows, and Telemachus, the dear son of divine Odysseus, girt his sharp sword about him and took the spear in his grasp, and stood by his high seat at his father’s side, armed with the gleaming bronze.
 
-BOOK XXII.
+
 
 
 Then Odysseus of many counsels stripped him of his rags and leaped on to the great threshold with his bow and quiver full of arrows, and poured forth all the swift shafts there before his feet, and spake among the wooers:
@@ -2419,7 +2419,7 @@ So he spake, and the good nurse Eurycleia was not slow to obey, but brought fire
 
 Then the old wife went through the fair halls of Odysseus to tell the women, and to hasten their coming. So they came forth from their chamber with torches in their hands, and fell about Odysseus, and embraced him and kissed and clasped his head and shoulders and his hands lovingly, and a sweet longing came on him to weep and moan, for he remembered them every one.
 
-BOOK XXIII.
+
 
 
 Then the ancient woman went up into the upper chamber laughing aloud, to tell her mistress how her dear lord was within, and her knees moved fast for joy, and her feet stumbled one over the other; and she stood above the lady’s head and spake to her, saying:
@@ -2492,7 +2492,7 @@ Then the goddess, grey-eyed Athene, turned to new thoughts. When she deemed that
 
 Therewith he girded on his shoulder his goodly armour, and roused Telemachus and the neatherd and the swineherd, and bade them all take weapons of war in their hands. So they were not disobedient to his word, but clad themselves in mail, and opened the doors and went forth, and Odysseus led the way. And now there was light over all the earth; but them Athene hid in night, and quickly conducted out of the town.
 
-BOOK XXIV.
+
 
 Now Cyllenian Hermes called forth from the halls the souls of the wooers, and he held in his hand his wand that is fair and golden, wherewith he lulls the eyes of men, of whomso he will, while others again he even wakens out of sleep. Herewith he roused and led the souls who followed gibbering. And even as bats flit gibbering in the secret place of a wondrous cave, when one has fallen down from the cluster on the rock, where they cling each to each up aloft, even so the souls gibbered as they fared together, and Hermes, the helper, led them down the dank ways. Past the streams of Oceanus and the White Rock, past the gates of the Sun they sped and the land of dreams, and soon they came to the mead of asphodel, where dwell the souls, the phantoms of men outworn. There they found the soul of Achilles son of Peleus, and the souls of Patroclus, and of noble Antilochus, and of Aias, who in face and form was goodliest of all the Danaans after the noble son of Peleus.
 
