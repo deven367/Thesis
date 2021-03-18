@@ -1,6 +1,6 @@
 BOOK I
 ARGUMENT
-In a council of the Gods, Minerva calls their attention to Ulysses, still a wanderer. They resolve to grant him a safe return to Ithaca. Minerva descends to encourage Telemachus, and in the form of Mentes directs him in what manner to proceed. Throughout this book the extravagance and profligacy of the suitors are occasionally suggested.
+
 
 Muse make the man thy theme, for shrewdness famed
 And genius versatile, who far and wide
@@ -575,7 +575,7 @@ Prescribed by Pallas to the Pylian shore.
 
  BOOK II
 ARGUMENT
-Telemachus having convened an assembly of the Greecians, publicly calls on the Suitors to relinquish the house of Ulysses. During the continuance of the Council he has much to suffer from the petulance of the Suitors, from whom, having informed them of his design to undertake a voyage in hope to obtain news of Ulysses, he asks a ship, with all things necessary for the purpose. He is refused, but is afterwards furnished with what he wants by Minerva, in the form of Mentor. He embarks in the evening without the privity of his mother, and the Goddess sails with him.
+
 
 Aurora, rosy daughter of the dawn,
 Now ting’d the East, when habited again,
@@ -1134,7 +1134,6 @@ Had brighten’d into day, cleaved swift the flood.
 
  BOOK III
 ARGUMENT
-Telemachus arriving at Pylus, enquires of Nestor concerning Ulysses. Nestor relates to him all that he knows or has heard of the Greecians since their departure from the siege of Troy, but not being able to give him any satisfactory account of Ulysses, refers him to Menelaus. At evening Minerva quits Telemachus, but discovers herself in going. Nestor sacrifices to the Goddess, and the solemnity ended, Telemachus sets forth for Sparta in one of Nestor’s chariots, and accompanied by Nestor’s son, Pisistratus.
 
 The sun, emerging from the lucid waves,
 Ascended now the brazen vault with light
@@ -1768,7 +1767,6 @@ Burst from his twofold hedge of teeth.”
 
  BOOK IV
 ARGUMENT
-Telemachus, with Pisistratus, arrives at the palace of Menelaus, from whom he receives some fresh information concerning the return of the Greecians, and is in particular told on the authority of Proteus, that his father is detained by Calypso. The suitors, plotting against the life of Telemachus, lie in wait to intercept him in his return to Ithaca. Penelope being informed of his departure, and of their designs to slay him, becomes inconsolable, but is relieved by a dream sent to her from Minerva.
 
 In hollow Lacedæmon’s spacious vale
 Arriving, to the house they drove direct
@@ -2826,7 +2824,7 @@ Egit adire domos.
 
  BOOK V
 ARGUMENT
-Mercury bears to Calypso a command from Jupiter that she dismiss Ulysses. She, after some remonstrances, promises obedience, and furnishes him with instruments and materials, with which he constructs a raft. He quits Calypso’s island; is persecuted by Neptune with dreadful tempests, but by the assistance of a sea nymph, after having lost his raft, is enabled to swim to Phæacia.
+
 
 Aurora from beside her glorious mate
 Tithonus now arose, light to dispense
@@ -3432,7 +3430,7 @@ Repose again, after long toil severe.
 
  BOOK VI
 ARGUMENT
-Minerva designing an interview between the daughter of Alcinoüs and Ulysses, admonishes her in a dream to carry down her clothes to the river, that she may wash them, and make them ready for her approaching nuptials. That task performed, the Princess and her train amuse themselves with play; by accident they awake Ulysses; he comes forth from the wood, and applies himself with much address to Nausicaa, who compassionating his distressed condition, and being much affected by the dignity of his appearance, interests himself in his favour, and conducts him to the city.
+
 
 There then the noble suff’rer lay, by sleep
 Oppress’d and labour; meantime, Pallas sought
@@ -3849,7 +3847,7 @@ Pursued with fury to his native shores.
 
  BOOK VII
 ARGUMENT
-Nausicaa returns from the river, whom Ulysses follows. He halts, by her direction, at a small distance from the palace, which at a convenient time he enters. He is well received by Alcinoüs and his Queen; and having related to them the manner of his being cast on the shore of Scheria, and received from Alcinoüs the promise of safe conduct home, retires to rest.
+
 
 Such pray’r Ulysses, toil-worn Chief renown’d,
 To Pallas made, meantime the virgin, drawn
@@ -4291,7 +4289,7 @@ Pope has given no translation of this line in the text of his work, but has tran
 
  BOOK VIII
 ARGUMENT
-The Phæacians consult on the subject of Ulysses. Preparation is made for his departure. Antinoüs entertains them at his table. Games follow the entertainment. Demodocus the bard sings, first the loves of Mars and Venus, then the introduction of the wooden horse into Troy. Ulysses, much affected by his song, is questioned by Alcinoüs, whence, and who he is, and what is the cause of his sorrow.
+
 
 But when Aurora, daughter of the dawn,
 Blush’d in the East, then from his bed arose
@@ -5027,7 +5025,7 @@ Glance their many-twinkling feet”
 
  BOOK IX
 ARGUMENT
-Ulysses discovers himself to the Phæacians, and begins the history of his adventures. He destroys Ismarus, city of the Ciconians; arrives among the Lotophagi; and afterwards at the land of the Cyclops. He is imprisoned by Polypheme in his cave, who devours six of his companions; intoxicates the monster with wine, blinds him while he sleeps, and escapes from him.
+
 
 Then answer, thus, Ulysses wise return’d.
 Alcinoüs! King! illustrious above all
@@ -5715,7 +5713,7 @@ Virgil
 
  BOOK X
 ARGUMENT
-Ulysses, in pursuit of his narrative, relates his arrival at the island of Æolus, his departure thence, and the unhappy occasion of his return thither. The monarch of the winds dismisses him at last with much asperity. He next tells of his arrival among the Læstrygonians, by whom his whole fleet, together with their crews, are destroyed, his own ship and crew excepted. Thence he is driven to the island of Circe. By her the half of his people are transformed into swine. Assisted by Mercury, he resists her enchantments himself, and prevails with the Goddess to recover them to their former shape. In consequence of Circe’s instructions, after having spent a complete year in her palace, he prepares for a voyage to the infernal regions.
+
 
 We came to the Æolian isle; there dwells
 Æolus, son of Hippotas, belov’d
@@ -6421,7 +6419,7 @@ Going or coming, if he shun the view?
 
  BOOK XI
 ARGUMENT
-Ulysses relates to Alcinoüs his voyage to the infernal regions, his conference there with the prophet Tiresias concerning his return to Ithaca, and gives him an account of the heroes, heroines, and others whom he saw there.
+
 
 Arriving on the shore, and launching, first,
 Our bark into the sacred Deep, we set
@@ -7237,7 +7235,7 @@ With oars, then, wafted by propitious gales.
 
  BOOK XII
 ARGUMENT
-Ulysses, pursuing his narrative, relates his return from the shades to Circe’s island, the precautions given him by that Goddess, his escape from the Sirens, and from Scylla and Charybdis; his arrival in Sicily, where his companions, having slain and eaten the oxen of the Sun, are afterward shipwrecked and lost; and concludes the whole with an account of his arrival, alone, on the mast of his vessel, at the island of Calypso.
+
 
 And now, borne seaward from the river-stream
 Of the Oceanus, we plow’d again
@@ -7778,9 +7776,7 @@ Once amply told, then, needless, traced again.
 
  BOOK XIII
 ARGUMENT
-Ulysses, having finished his narrative, and received additional presents from the Phæacians, embarks; he is conveyed in his sleep to Ithaca, and in his sleep is landed on that island. The ship that carried him is in her return transformed by Neptune to a rock.
 
-Minerva meets him on the shore, enables him to recollect his country, which, till enlightened by her, he believed to be a country strange to him, and they concert together the means of destroying the suitors. The Goddess then repairs to Sparta to call thence Telemachus, and Ulysses, by her aid disguised like a beggar, proceeds towards the cottage of Eumæus.
 
 He ceas’d; the whole assembly silent sat,
 Charm’d into ecstacy with his discourse
@@ -8319,7 +8315,7 @@ To Lacedæmon’s spacious realm repair’d.
 
  BOOK XIV
 ARGUMENT
-Ulysses arriving at the house of Eumæus, is hospitably entertained, and spends the night there.
+
 
 Leaving the haven-side, he turn’d his steps
 Into a rugged path, which over hills
@@ -8981,7 +8977,6 @@ From the sharp current of the Northern blast.
 
  BOOK XV
 ARGUMENT
-Telemachus, admonished by Minerva, takes leave of Menelaus, but ere he sails, is accosted by Theoclymenos, a prophet of Argos, whom at his earnest request he takes on board. In the meantime Eumæus relates to Ulysses the means by which he came to Ithaca. Telemachus arriving there, gives orders for the return of his bark to the city, and repairs himself to Eumæus.
 
 Meantime to Lacedæmon’s spacious vale
 Minerva went, that she might summon thence
@@ -9674,7 +9669,7 @@ The swine-herd, faithful to his num’rous charge.
 
  BOOK XVI
 ARGUMENT
-Telemachus dispatches Eumæus to the city to inform Penelope of his safe return from Pylus; during his absence, Ulysses makes himself known to his son. The suitors, having watched for Telemachus in vain, arrive again at Ithaca.
+
 
 It was the hour of dawn, when in the cot
 Kindling fresh fire, Ulysses and his friend
@@ -10247,7 +10242,7 @@ To rest repair’d, and took the gift of sleep.
 
  BOOK XVII
 ARGUMENT
-Telemachus returns to the city, and relates to his mother the principal passages of his voyage; Ulysses, conducted by Eumæus, arrives there also, and enters among the suitors, having been known only by his old dog Argus, who dies at his feet. The curiosity of Penelope being excited by the account which Eumæus gives her of Ulysses, she orders him immediately into her presence, but Ulysses postpones the interview till evening, when the suitors having left the palace, there shall be no danger of interruption. Eumæus returns to his cottage.
+
 
 Now look’d Aurora from the East abroad,
 When the illustrious offspring of divine
@@ -10995,7 +10990,7 @@ Eustathius, and Clarke after him, understand an aposiopesis here, as if the spea
 
  BOOK XVIII
 ARGUMENT
-The beggar Irus arrives at the palace; a combat takes place between him and Ulysses, in which Irus is by one blow vanquished. Penelope appears to the suitors, and having reminded them of the presents which she had a right to expect from them, receives a gift from each. Eurymachus, provoked by a speech of Ulysses, flings a foot-stool at him, which knocks down the cup-bearer; a general tumult is the consequence, which continues, till by the advice of Telemachus, seconded by Amphinomus, the suitors retire to their respective homes.
+
 
 Now came a public mendicant, a man
 Accustom’d, seeking alms, to roam the streets
@@ -11539,7 +11534,7 @@ Of wine had drunk, then all to rest retired.
 
  BOOK XIX
 ARGUMENT
-Ulysses and Telemachus remove the arms from the hall to an upper-chamber. The Hero then confers with Penelope, to whom he gives a fictitious narrative of his adventures. Euryclea, while bathing Ulysses, discovers him by a scar on his knee, but he prevents her communication of that discovery to Penelope.
+
 
 They went, but left the noble Chief behind
 In his own house, contriving by the aid
@@ -12304,7 +12299,7 @@ The balm of slumber on her weary lids.
 
  BOOK XX
 ARGUMENT
-Ulysses, doubting whether he shall destroy or not the women servants who commit lewdness with the suitors, resolves at length to spare them for the present. He asks an omen from Jupiter, and that he would grant him also to hear some propitious words from the lips of one in the family. His petitions are both answered. Preparation is made for the feast. Whilst the suitors sit at table, Pallas smites them with a horrid frenzy. Theoclymenus, observing the strange effects of it, prophesies their destruction, and they deride his prophecy.
+
 
 But in the vestibule the Hero lay
 On a bull’s-hide undress’d, o’er which he spread
@@ -12800,7 +12795,7 @@ Of which their crimes had furnish’d first the cause.
 
  BOOK XXI
 ARGUMENT
-Penelope proposes to the suitors a contest with the bow, herself the prize. They prove unable to bend the bow; when Ulysses having with some difficulty possessed himself of it, manages it with the utmost ease, and dispatches his arrow through twelve rings erected for the trial.
+
 
 Minerva, now, Goddess cærulean-eyed,
 Prompted Icarius’ daughter, the discrete
@@ -13338,7 +13333,7 @@ Arm’d bright for battle at his father’s side.
 
  BOOK XXII
 ARGUMENT
-Ulysses, with some little assistance from Telemachus, Eumæus and Philœtius, slays all the suitors, and twelve of the female servants who had allowed themselves an illicit intercourse with them, are hanged. Melanthius also is punished with miserable mutilation.
+
 
 Then, girding up his rags, Ulysses sprang
 With bow and full-charged quiver to the door;
@@ -13932,7 +13927,7 @@ To sigh and weep, well recognizing all.
 
  BOOK XXIII
 ARGUMENT
-Ulysses with some difficulty, convinces Penelope of his identity, who at length, overcome by force of evidence, receives him to her arms with transport. He entertains her with a recital of his adventures, and in his narration the principal events of the poem are recapitulated. In the morning, Ulysses, Telemachus, the herdsman and the swine-herd depart into the country.
+
 
 And now, with exultation loud the nurse
 Again ascended, eager to apprize
@@ -14390,7 +14385,7 @@ Led forth into the fields, unseen by all.
 
  BOOK XXIV
 ARGUMENT
-Mercury conducts the souls of the suitors down to Ades. Ulysses discovers himself to Laertes, and quells, by the aid of Minerva, an insurrection of the people resenting the death of the suitors.
+
 
 And now Cyllenian Hermes summon’d forth
 The spirits of the suitors; waving wide
