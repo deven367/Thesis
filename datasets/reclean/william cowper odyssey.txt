@@ -1,5 +1,5 @@
-BOOK I
-ARGUMENT
+
+
 
 
 Muse make the man thy theme, for shrewdness famed
@@ -573,8 +573,8 @@ Prescribed by Pallas to the Pylian shore.
 
 
 
- BOOK II
-ARGUMENT
+
+
 
 
 Aurora, rosy daughter of the dawn,
@@ -1132,8 +1132,8 @@ Thus, all night long the galley, and till dawn
 Had brighten’d into day, cleaved swift the flood.
 
 
- BOOK III
-ARGUMENT
+
+
 
 The sun, emerging from the lucid waves,
 Ascended now the brazen vault with light
@@ -1765,8 +1765,8 @@ Went down, and even-tide dimm’d all the ways.
 Burst from his twofold hedge of teeth.”
 
 
- BOOK IV
-ARGUMENT
+
+
 
 In hollow Lacedæmon’s spacious vale
 Arriving, to the house they drove direct
@@ -2822,8 +2822,8 @@ Egit adire domos.
 
 
 
- BOOK V
-ARGUMENT
+
+
 
 
 Aurora from beside her glorious mate
@@ -3428,8 +3428,8 @@ Repose again, after long toil severe.
 
 
 
- BOOK VI
-ARGUMENT
+
+
 
 
 There then the noble suff’rer lay, by sleep
@@ -3845,8 +3845,8 @@ Pursued with fury to his native shores.
 
 
 
- BOOK VII
-ARGUMENT
+
+
 
 
 Such pray’r Ulysses, toil-worn Chief renown’d,
@@ -4287,8 +4287,8 @@ Pope has given no translation of this line in the text of his work, but has tran
 
 
 
- BOOK VIII
-ARGUMENT
+
+
 
 
 But when Aurora, daughter of the dawn,
@@ -5023,8 +5023,8 @@ The constant friend and the discrete I deem.
 Glance their many-twinkling feet”
 
 
- BOOK IX
-ARGUMENT
+
+
 
 
 Then answer, thus, Ulysses wise return’d.
@@ -5711,8 +5711,8 @@ Procumbunt.
 Virgil
 
 
- BOOK X
-ARGUMENT
+
+
 
 
 We came to the Æolian isle; there dwells
@@ -6417,8 +6417,8 @@ Going or coming, if he shun the view?
 
 
 
- BOOK XI
-ARGUMENT
+
+
 
 
 Arriving on the shore, and launching, first,
@@ -7233,8 +7233,8 @@ With oars, then, wafted by propitious gales.
 
 
 
- BOOK XII
-ARGUMENT
+
+
 
 
 And now, borne seaward from the river-stream
@@ -7774,8 +7774,8 @@ Once amply told, then, needless, traced again.
 
 
 
- BOOK XIII
-ARGUMENT
+
+
 
 
 He ceas’d; the whole assembly silent sat,
@@ -8313,8 +8313,8 @@ To Lacedæmon’s spacious realm repair’d.
 
 
 
- BOOK XIV
-ARGUMENT
+
+
 
 
 Leaving the haven-side, he turn’d his steps
@@ -8975,8 +8975,8 @@ From the sharp current of the Northern blast.
 
 
 
- BOOK XV
-ARGUMENT
+
+
 
 Meantime to Lacedæmon’s spacious vale
 Minerva went, that she might summon thence
@@ -9667,8 +9667,8 @@ The swine-herd, faithful to his num’rous charge.
 
 
 
- BOOK XVI
-ARGUMENT
+
+
 
 
 It was the hour of dawn, when in the cot
@@ -10240,8 +10240,8 @@ And hunger, now, and thirst both sated, all
 To rest repair’d, and took the gift of sleep.
 
 
- BOOK XVII
-ARGUMENT
+
+
 
 
 Now look’d Aurora from the East abroad,
@@ -10988,8 +10988,8 @@ Eustathius, and Clarke after him, understand an aposiopesis here, as if the spea
 
 
 
- BOOK XVIII
-ARGUMENT
+
+
 
 
 Now came a public mendicant, a man
@@ -11532,8 +11532,8 @@ Of wine had drunk, then all to rest retired.
 
 
 
- BOOK XIX
-ARGUMENT
+
+
 
 
 They went, but left the noble Chief behind
@@ -12297,8 +12297,8 @@ The balm of slumber on her weary lids.
 
 
 
- BOOK XX
-ARGUMENT
+
+
 
 
 But in the vestibule the Hero lay
@@ -12793,8 +12793,8 @@ Of which their crimes had furnish’d first the cause.
 
 
 
- BOOK XXI
-ARGUMENT
+
+
 
 
 Minerva, now, Goddess cærulean-eyed,
@@ -13331,8 +13331,8 @@ Arm’d bright for battle at his father’s side.
 
 
 
- BOOK XXII
-ARGUMENT
+
+
 
 
 Then, girding up his rags, Ulysses sprang
@@ -13925,8 +13925,8 @@ To sigh and weep, well recognizing all.
 
 
 
- BOOK XXIII
-ARGUMENT
+
+
 
 
 And now, with exultation loud the nurse
@@ -14383,8 +14383,8 @@ Led forth into the fields, unseen by all.
 
 
 
- BOOK XXIV
-ARGUMENT
+
+
 
 
 And now Cyllenian Hermes summon’d forth
