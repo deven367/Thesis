@@ -5,7 +5,7 @@
 
 In the war of Troy, the Greeks having sacked some of the neighbouring towns, and taken from thence two beautiful captives, Chryseis and Briseis, allotted the first to Agamemnon, and the last to Achilles. Chryses, the father of Chryseis, and priest of Apollo, comes to the Grecian camp to ransom her; with which the action of the poem opens, in the tenth year of the siege. The priest being refused, and insolently dismissed by Agamemnon, entreats for vengeance from his god; who inflicts a pestilence on the Greeks. Achilles calls a council, and encourages Chalcas to declare the cause of it; who attributes it to the refusal of Chryseis. The king, being obliged to send back his captive, enters into a furious contest with Achilles, which Nestor pacifies; however, as he had the absolute command of the army, he seizes on Briseis in revenge. Achilles in discontent withdraws himself and his forces from the rest of the Greeks; and complaining to Thetis, she supplicates Jupiter to render them sensible of the wrong done to her son, by giving victory to the Trojans. Jupiter, granting her suit, incenses Juno: between whom the debate runs high, till they are reconciled by the address of Vulcan.
 
-The time of two-and-twenty days is taken up in this book: nine during the plague, one in the council and quarrel of the princes, and twelve for Jupiter’s stay with the Æthiopians, at whose return Thetis prefers her petition. The scene lies in the Grecian camp, then changes to Chrysa, and lastly to Olympus.
+The time of two-and-twenty days is taken up in this book: nine during the plague, one in the council and quarrel of the princes, and twelve for Jupiter’s stay with the Aethiopians, at whose return Thetis prefers her petition. The scene lies in the Grecian camp, then changes to Chrysa, and lastly to Olympus.
 
 Achilles’ wrath, to Greece the direful spring
 Of woes unnumber’d, heavenly goddess, sing!
@@ -541,7 +541,7 @@ The warlike maid, and monarch of the main,
 The traitor-gods, by mad ambition driven,
 Durst threat with chains the omnipotence of Heaven.
 Then, call’d by thee, the monster Titan came
-(Whom gods Briareus, men Ægeon name),
+(Whom gods Briareus, men Aegeon name),
 Through wondering skies enormous stalk’d along;
 Not he that shakes the solid earth so strong:
 With giant-pride at Jove’s high throne he stands,
@@ -578,7 +578,7 @@ Behold the field, not mingle in the war.
 The sire of gods and all the ethereal train,
 On the warm limits of the farthest main,
 Now mix with mortals, nor disdain to grace
-The feasts of Æthiopia’s blameless race,
+The feasts of Aethiopia’s blameless race,
 Twelve days the powers indulge the genial rite,
 Returning with the twelfth revolving light.
 Then will I mount the brazen dome, and move
@@ -1508,7 +1508,7 @@ In twelve black ships to Troy they steer their course,
 And with the great Athenians join their force.
 Next move to war the generous Argive train,
 From high Troezene, and Maseta’s plain,
-And fair Ægina circled by the main:
+And fair Aegina circled by the main:
 Whom strong Tyrinthe’s lofty walls surround,
 And Epidaure with viny harvests crown’d:
 And where fair Asinen and Hermoin show
@@ -1520,7 +1520,7 @@ In fourscore barks they plough the watery way.
 The proud Mycene arms her martial powers,
 Cleone, Corinth, with imperial towers,
 Fair Araethyrea, Ornia’s fruitful plain,
-And Ægion, and Adrastus’ ancient reign;
+And Aegion, and Adrastus’ ancient reign;
 And those who dwell along the sandy shore,
 And where Pellene yields her fleecy store,
 Where Helice and Hyperesia lie,
@@ -1549,7 +1549,7 @@ The fair one’s grief, and sees her falling tears.
 In ninety sail, from Pylos’ sandy coast,
 Nestor the sage conducts his chosen host:
 From Amphigenia’s ever-fruitful land,
-Where Æpy high, and little Pteleon stand;
+Where Aepy high, and little Pteleon stand;
 Where beauteous Arene her structures shows,
 And Thryon’s walls Alpheus’ streams inclose:
 And Dorion, famed for Thamyris’ disgrace,
@@ -1563,7 +1563,7 @@ Deprived his eyes, and snatch’d his voice away;
 No more his heavenly voice was heard to sing,
 His hand no more awaked the silver string.
 Where under high Cyllene, crown’d with wood,
-The shaded tomb of old Æpytus stood;
+The shaded tomb of old Aepytus stood;
 From Ripe, Stratie, Tegea’s bordering towns,
 The Phenean fields, and Orchomenian downs,
 Where the fat herds in plenteous pasture rove;
@@ -1602,7 +1602,7 @@ With those whom Cephalenia’s line inclosed,
 Or till their fields along the coast opposed;
 Or where fair Ithaca o’erlooks the floods,
 Where high Neritos shakes his waving woods,
-Where Ægilipa’s rugged sides are seen,
+Where Aegilipa’s rugged sides are seen,
 Crocylia rocky, and Zacynthus green.
 These in twelve galleys with vermilion prores,
 Beneath his conduct sought the Phrygian shores.
@@ -1610,7 +1610,7 @@ Thoas came next, Andraemon’s valiant son,
 From Pleuron’s walls, and chalky Calydon,
 And rough Pylene, and the Olenian steep,
 And Chalcis, beaten by the rolling deep.
-He led the warriors from the Ætolian shore,
+He led the warriors from the Aetolian shore,
 For now the sons of OEneus were no more!
 The glories of the mighty race were fled!
 OEneus himself, and Meleager dead!
@@ -1792,7 +1792,7 @@ Speeds on the wings of winds through liquid air;
 In Priam’s porch the Trojan chiefs she found,
 The old consulting, and the youths around.
 Polites’ shape, the monarch’s son, she chose,
-Who from Æsetes’ tomb observed the foes,
+Who from Aesetes’ tomb observed the foes,
 High on the mound; from whence in prospect lay
 The fields, the tents, the navy, and the bay.
 In this dissembled form, she hastes to bring
@@ -1823,7 +1823,7 @@ The godlike Hector, high above the rest,
 Shakes his huge spear, and nods his plumy crest:
 In throngs around his native bands repair,
 And groves of lances glitter in the air.
-Divine Æneas brings the Dardan race,
+Divine Aeneas brings the Dardan race,
 Anchises’ son, by Venus’ stolen embrace,
 Born in the shades of Ida’s secret grove;
 (A mortal mixing with the queen of love;)
@@ -1831,7 +1831,7 @@ Archilochus and Acamas divide
 The warrior’s toils, and combat by his side.
 Who fair Zeleia’s wealthy valleys till,
 Fast by the foot of Ida’s sacred hill,
-Or drink, Æsepus, of thy sable flood,
+Or drink, Aesepus, of thy sable flood,
 Were led by Pandarus, of royal blood;
 To whom his art Apollo deign’d to show,
 Graced with the presents of his shafts and bow.
@@ -1869,7 +1869,7 @@ The Paphlagonians Pylaemenes rules,
 Where rich Henetia breeds her savage mules,
 Where Erythinus’ rising cliffs are seen,
 Thy groves of box, Cytorus! ever green,
-And where Ægialus and Cromna lie,
+And where Aegialus and Cromna lie,
 And lofty Sesamus invades the sky,
 And where Parthenius, roll’d through banks of flowers,
 Reflects her bordering palaces and bowers.
@@ -2100,7 +2100,7 @@ Her country, parents, all that once were dear,
 Rush to her thought, and force a tender tear,
 O’er her fair face a snowy veil she threw,
 And, softly sighing, from the loom withdrew.
-Her handmaids, Clymene and Æthra, wait
+Her handmaids, Clymene and Aethra, wait
 Her silent footsteps to the Scaean gate.
 There sat the seniors of the Trojan race:
 (Old Priam’s chiefs, and most in Priam’s grace,)
@@ -2632,7 +2632,7 @@ Like bold Laodocus, her course she bent,
 Who from Antenor traced his high descent.
 Amidst the ranks Lycaon’s son she found,
 The warlike Pandarus, for strength renown’d;
-Whose squadrons, led from black Æsepus’ flood,
+Whose squadrons, led from black Aesepus’ flood,
 With flaming shields in martial circle stood.
 To him the goddess: “Phrygian! canst thou hear
 A well-timed counsel with a willing ear?
@@ -2762,7 +2762,7 @@ The shaft he drew, but left the head behind.
 Straight the broad belt with gay embroidery graced,
 He loosed; the corslet from his breast unbraced;
 Then suck’d the blood, and sovereign balm infused,
-Which Chiron gave, and Æsculapius used.
+Which Chiron gave, and Aesculapius used.
 While round the prince the Greeks employ their care,
 The Trojans rush tumultuous to the war;
 Once more they glitter in refulgent arms,
@@ -3111,7 +3111,7 @@ And shouts and thunders in the fields below.
 Then great Diores fell, by doom divine,
 In vain his valour and illustrious line.
 A broken rock the force of Pyrus threw,
-(Who from cold Ænus led the Thracian crew,)
+(Who from cold Aenus led the Thracian crew,)
 Full on his ankle dropp’d the ponderous stone,
 Burst the strong nerves, and crash’d the solid bone.
 Supine he tumbles on the crimson sands,
@@ -3126,7 +3126,7 @@ Deep in his breast above the pap it went,
 Amid the lungs was fix’d the winged wood,
 And quivering in his heaving bosom stood:
 Till from the dying chief, approaching near,
-The Ætolian warrior tugg’d his weighty spear:
+The Aetolian warrior tugg’d his weighty spear:
 Then sudden waved his flaming falchion round,
 And gash’d his belly with a ghastly wound;
 The corpse now breathless on the bloody plain,
@@ -3157,7 +3157,7 @@ Map of the Plain of Troy.
 
 
 
-Diomed, assisted by Pallas, performs wonders in this day’s battle. Pandarus wounds him with an arrow, but the goddess cures him, enables him to discern gods from mortals, and prohibits him from contending with any of the former, excepting Venus. Æneas joins Pandarus to oppose him; Pandarus is killed, and Æneas in great danger but for the assistance of Venus; who, as she is removing her son from the fight, is wounded on the hand by Diomed. Apollo seconds her in his rescue, and at length carries off Æneas to Troy, where he is healed in the temple of Pergamus. Mars rallies the Trojans, and assists Hector to make a stand. In the meantime Æneas is restored to the field, and they overthrow several of the Greeks; among the rest Tlepolemus is slain by Sarpedon. Juno and Minerva descend to resist Mars; the latter incites Diomed to go against that god; he wounds him, and sends him groaning to heaven.
+Diomed, assisted by Pallas, performs wonders in this day’s battle. Pandarus wounds him with an arrow, but the goddess cures him, enables him to discern gods from mortals, and prohibits him from contending with any of the former, excepting Venus. Aeneas joins Pandarus to oppose him; Pandarus is killed, and Aeneas in great danger but for the assistance of Venus; who, as she is removing her son from the fight, is wounded on the hand by Diomed. Apollo seconds her in his rescue, and at length carries off Aeneas to Troy, where he is healed in the temple of Pergamus. Mars rallies the Trojans, and assists Hector to make a stand. In the meantime Aeneas is restored to the field, and they overthrow several of the Greeks; among the rest Tlepolemus is slain by Sarpedon. Juno and Minerva descend to resist Mars; the latter incites Diomed to go against that god; he wounds him, and sends him groaning to heaven.
 
 The first battle continues through this book. The scene is the same as in the former.
 
@@ -3372,7 +3372,7 @@ He leaps amidst them with a furious bound,
 Bends their strong necks, and tears them to the ground:
 So from their seats the brother chiefs are torn,
 Their steeds and chariot to the navy borne.
-With deep concern divine Æneas view’d
+With deep concern divine Aeneas view’d
 The foe prevailing, and his friends pursued;
 Through the thick storm of singing spears he flies,
 Exploring Pandarus with careful eyes.
@@ -3465,7 +3465,7 @@ Who thus, alarm’d, to great Tydides cried:
 “O friend! two chiefs of force immense I see,
 Dreadful they come, and bend their rage on thee:
 Lo the brave heir of old Lycaon’s line,
-And great Æneas, sprung from race divine!
+And great Aeneas, sprung from race divine!
 Enough is given to fame. Ascend thy car!
 And save a life, the bulwark of our war.”
 At this the hero cast a gloomy look,
@@ -3486,7 +3486,7 @@ But if she dooms, and if no god withstand,
 That both shall fall by one victorious hand,
 Then heed my words: my horses here detain,
 Fix’d to the chariot by the straiten’d rein;
-Swift to Æneas’ empty seat proceed,
+Swift to Aeneas’ empty seat proceed,
 And seize the coursers of ethereal breed;
 The race of those, which once the thundering god
 For ravish’d Ganymede on Tros bestow’d,
@@ -3495,7 +3495,7 @@ Beneath the rising or the setting sun.
 Hence great Anchises stole a breed unknown,
 By mortal mares, from fierce Laomedon:
 Four of this race his ample stalls contain,
-And two transport Æneas o’er the plain.
+And two transport Aeneas o’er the plain.
 These, were the rich immortal prize our own,
 Through the wide world should make our glory known.”
 Thus while they spoke, the foe came furious on,
@@ -3521,7 +3521,7 @@ Headlong he falls, his helmet knocks the ground:
 Earth groans beneath him, and his arms resound;
 The starting coursers tremble with affright;
 The soul indignant seeks the realms of night.
-To guard his slaughter’d friend, Æneas flies,
+To guard his slaughter’d friend, Aeneas flies,
 His spear extending where the carcase lies;
 Watchful he wheels, protects it every way,
 As the grim lion stalks around his prey.
@@ -3667,7 +3667,7 @@ From fields of death when late he shall retire,
 No infant on his knees shall call him sire.
 Strong as thou art, some god may yet be found,
 To stretch thee pale and gasping on the ground;
-Thy distant wife, Ægiale the fair,
+Thy distant wife, Aegiale the fair,
 Starting from sleep with a distracted air,
 Shall rouse thy slaves, and her lost lord deplore,
 The brave, the great, the glorious now no more!”
@@ -3713,7 +3713,7 @@ Latona there and Phoebe heal’d the wound,
 With vigour arm’d him, and with glory crown’d.
 This done, the patron of the silver bow
 A phantom raised, the same in shape and show
-With great Æneas; such the form he bore,
+With great Aeneas; such the form he bore,
 And such in fight the radiant arms he wore.
 Around the spectre bloody wars are waged,
 And Greece and Troy with clashing shields engaged.
@@ -3735,7 +3735,7 @@ Enraged to Troy’s retiring chiefs he cried:
 And unrevenged see Priam’s people die?
 Still unresisted shall the foe destroy,
 And stretch the slaughter to the gates of Troy?
-Lo, brave Æneas sinks beneath his wound,
+Lo, brave Aeneas sinks beneath his wound,
 Not godlike Hector more in arms renown’d:
 Haste all, and take the generous warrior’s part.
 He said;—new courage swell’d each hero’s heart.
@@ -3794,7 +3794,7 @@ In Troy’s defence, Apollo’s heavenly will:
 Soon as from fight the blue-eyed maid retires,
 Each Trojan bosom with new warmth he fires.
 And now the god, from forth his sacred fane,
-Produced Æneas to the shouting train;
+Produced Aeneas to the shouting train;
 Alive, unharm’d, with all his peers around,
 Erect he stood, and vigorous from his wound:
 Inquiries none they made; the dreadful day
@@ -3827,7 +3827,7 @@ The wretch who trembles in the field of fame,
 Meets death, and worse than death, eternal shame!”
 These words he seconds with his flying lance,
 To meet whose point was strong Deicoon’s chance:
-Æneas’ friend, and in his native place
+Aeneas’ friend, and in his native place
 Honour’d and loved like Priam’s royal race:
 Long had he fought the foremost in the field,
 But now the monarch’s lance transpierced his shield:
@@ -3835,7 +3835,7 @@ His shield too weak the furious dart to stay,
 Through his broad belt the weapon forced its way:
 The grisly wound dismiss’d his soul to hell,
 His arms around him rattled as he fell.
-Then fierce Æneas, brandishing his blade,
+Then fierce Aeneas, brandishing his blade,
 In dust Orsilochus and Crethon laid,
 Whose sire Diocleus, wealthy, brave and great,
 In well-built Pherae held his lofty seat:
@@ -4208,7 +4208,7 @@ Black Orcus’ helmet o’er her radiant head.
 
 
 Just then gigantic Periphas lay slain,
-The strongest warrior of the Ætolian train;
+The strongest warrior of the Aetolian train;
 The god, who slew him, leaves his prostrate prize
 Stretch’d where he fell, and at Tydides flies.
 Now rushing fierce, in equal arms appear
@@ -4395,7 +4395,7 @@ And now had Greece eternal fame acquired,
 And frighted Troy within her walls, retired,
 Had not sage Helenus her state redress’d,
 Taught by the gods that moved his sacred breast.
-Where Hector stood, with great Æneas join’d,
+Where Hector stood, with great Aeneas join’d,
 The seer reveal’d the counsels of his mind:
 “Ye generous chiefs! on whom the immortals lay
 The cares and glories of this doubtful day;
@@ -5733,7 +5733,7 @@ Then haste, ascend my seat, and from the car
 Observe the steeds of Tros, renown’d in war.
 Practised alike to turn, to stop, to chase,
 To dare the fight, or urge the rapid race:
-These late obey’d Æneas’ guiding rein;
+These late obey’d Aeneas’ guiding rein;
 Leave thou thy chariot to our faithful train;
 With these against yon Trojans will we go,
 Nor shall great Hector want an equal foe;
@@ -5822,7 +5822,7 @@ Till, their proud navy wrapt in smoke and fires,
 All Greece, encompass’d, in one blaze expires.”
 Furious he said; then bending o’er the yoke,
 Encouraged his proud steeds, while thus he spoke:
-“Now, Xanthus, Æthon, Lampus, urge the chase,
+“Now, Xanthus, Aethon, Lampus, urge the chase,
 And thou, Podargus! prove thy generous race;
 Be fleet, be fearless, this important day,
 And all your master’s well-spent care repay.
@@ -5842,7 +5842,7 @@ And thus to Neptune: “Thou, whose force can make
 The stedfast earth from her foundations shake,
 Seest thou the Greeks by fates unjust oppress’d,
 Nor swells thy heart in that immortal breast?
-Yet Ægae, Helice, thy power obey,
+Yet Aegae, Helice, thy power obey,
 And gifts unceasing on thine altars lay.
 Would all the deities of Greece combine,
 In vain the gloomy Thunderer might repine:
@@ -6330,7 +6330,7 @@ Sat on each face, and sadden’d every heart.
 As from its cloudy dungeon issuing forth,
 A double tempest of the west and north
 Swells o’er the sea, from Thracia’s frozen shore,
-Heaps waves on waves, and bids the Ægean roar:
+Heaps waves on waves, and bids the Aegean roar:
 This way and that the boiling deeps are toss’d:
 Such various passions urged the troubled host,
 Great Agamemnon grieved above the rest;
@@ -6521,7 +6521,7 @@ Seven ample cities shall confess his sway,
 Him Enope, and Pherae him obey,
 Cardamyle with ample turrets crown’d,
 And sacred Pedasus for vines renown’d;
-Æpea fair, the pastures Hira yields,
+Aepea fair, the pastures Hira yields,
 And rich Antheia with her flowery fields:
 The whole extent to Pylos’ sandy plain,
 Along the verdant margin of the main.
@@ -6570,7 +6570,7 @@ Of murmuring billows on the sounding shore.
 To Neptune, ruler of the seas profound,
 Whose liquid arms the mighty globe surround,
 They pour forth vows, their embassy to bless,
-And calm the rage of stern Æacides.
+And calm the rage of stern Aeacides.
 And now, arrived, where on the sandy bay
 The Myrmidonian tents and vessels lay;
 Amused at ease, the godlike man they found,
@@ -6714,7 +6714,7 @@ Seven ample cities shall confess thy sway,
 The Enope and Pherae thee obey,
 Cardamyle with ample turrets crown’d,
 And sacred Pedasus, for vines renown’d:
-Æpea fair, the pastures Hira yields,
+Aepea fair, the pastures Hira yields,
 And rich Antheia with her flowery fields;
 The whole extent to Pylos’ sandy plain,
 Along the verdant margin of the main.
@@ -6988,7 +6988,7 @@ A great example drawn from times of old;
 Hear what our fathers were, and what their praise,
 Who conquer’d their revenge in former days.
 “Where Calydon on rocky mountains stands
-Once fought the Ætolian and Curetian bands;
+Once fought the Aetolian and Curetian bands;
 To guard it those; to conquer, these advance;
 And mutual deaths were dealt with mutual chance.
 The silver Cynthia bade contention rise,
@@ -7021,7 +7021,7 @@ She beat the ground, and call’d the powers beneath
 On her own son to wreak her brother’s death;
 Hell heard her curses from the realms profound,
 And the red fiends that walk the nightly round.
-In vain Ætolia her deliverer waits,
+In vain Aetolia her deliverer waits,
 War shakes her walls, and thunders at her gates.
 She sent ambassadors, a chosen band,
 Priests of the gods, and elders of the land;
@@ -7041,7 +7041,7 @@ She paints the horrors of a conquer’d town,
 The heroes slain, the palaces o’erthrown,
 The matrons ravish’d, the whole race enslaved:
 The warrior heard, he vanquish’d, and he saved.
-The Ætolians, long disdain’d, now took their turn,
+The Aetolians, long disdain’d, now took their turn,
 And left the chief their broken faith to mourn.
 Learn hence, betimes to curb pernicious ire,
 Nor stay till yonder fleets ascend in fire;
@@ -7522,7 +7522,7 @@ Then godlike Diomed preferr’d his prayer:
 “Daughter of Jove, unconquer’d Pallas! hear.
 Great queen of arms, whose favour Tydeus won,
 As thou defend’st the sire, defend the son.
-When on Æsopus’ banks the banded powers
+When on Aesopus’ banks the banded powers
 Of Greece he left, and sought the Theban towers,
 Peace was his charge; received with peaceful show,
 He went a legate, but return’d a foe:
@@ -7954,7 +7954,7 @@ And all the slaughters that must stain the day.
 Near Ilus’ tomb, in order ranged around,
 The Trojan lines possess’d the rising ground:
 There wise Polydamas and Hector stood;
-Æneas, honour’d as a guardian god;
+Aeneas, honour’d as a guardian god;
 Bold Polybus, Agenor the divine;
 The brother-warriors of Antenor’s line:
 With youthful Acamas, whose beauteous face
@@ -8271,7 +8271,7 @@ Assaeus, Dolops, and Autonous died,
 Opites next was added to their side;
 Then brave Hipponous, famed in many a fight,
 Opheltius, Orus, sunk to endless night;
-Æsymnus, Agelaus; all chiefs of name;
+Aesymnus, Agelaus; all chiefs of name;
 The rest were vulgar deaths unknown to fame.
 As when a western whirlwind, charged with storms,
 Dispels the gather’d clouds that Notus forms:
@@ -8892,7 +8892,7 @@ Then Neptune and Apollo shook the shore,
 Then Ida’s summits pour’d their watery store;
 Rhesus and Rhodius then unite their rills,
 Caresus roaring down the stony hills,
-Æsepus, Granicus, with mingled force,
+Aesepus, Granicus, with mingled force,
 And Xanthus foaming from his fruitful source;
 And gulfy Simois, rolling to the main
 Helmets, and shields, and godlike heroes slain:
@@ -8990,7 +8990,7 @@ Who drew from Hyrtacus his noble blood,
 And whom Arisba’s yellow coursers bore,
 The coursers fed on Selle’s winding shore.
 Antenor’s sons the fourth battalion guide,
-And great Æneas, born on fountful Ide.
+And great Aeneas, born on fountful Ide.
 Divine Sarpedon the last band obey’d,
 Whom Glaucus and Asteropaeus aid.
 Next him, the bravest, at their army’s head,
@@ -9447,7 +9447,7 @@ The shore is heap’d with death, and tumult rends the sky.
 
 
 
-Neptune, concerned for the loss of the Grecians, upon seeing the fortification forced by Hector, (who had entered the gate near the station of the Ajaces,) assumes the shape of Calchas, and inspires those heroes to oppose him: then, in the form of one of the generals, encourages the other Greeks who had retired to their vessels. The Ajaces form their troops in a close phalanx, and put a stop to Hector and the Trojans. Several deeds of valour are performed; Meriones, losing his spear in the encounter, repairs to seek another at the tent of Idomeneus: this occasions a conversation between those two warriors, who return together to the battle. Idomeneus signalizes his courage above the rest; he kills Othryoneus, Asius, and Alcathous: Deiphobus and Æneas march against him, and at length Idomeneus retires. Menelaus wounds Helenus, and kills Pisander. The Trojans are repulsed on the left wing; Hector still keeps his ground against the Ajaces, till, being galled by the Locrian slingers and archers, Polydamas advises to call a council of war: Hector approves of his advice, but goes first to rally the Trojans; upbraids Paris, rejoins Polydamas, meets Ajax again, and renews the attack.
+Neptune, concerned for the loss of the Grecians, upon seeing the fortification forced by Hector, (who had entered the gate near the station of the Ajaces,) assumes the shape of Calchas, and inspires those heroes to oppose him: then, in the form of one of the generals, encourages the other Greeks who had retired to their vessels. The Ajaces form their troops in a close phalanx, and put a stop to Hector and the Trojans. Several deeds of valour are performed; Meriones, losing his spear in the encounter, repairs to seek another at the tent of Idomeneus: this occasions a conversation between those two warriors, who return together to the battle. Idomeneus signalizes his courage above the rest; he kills Othryoneus, Asius, and Alcathous: Deiphobus and Aeneas march against him, and at length Idomeneus retires. Menelaus wounds Helenus, and kills Pisander. The Trojans are repulsed on the left wing; Hector still keeps his ground against the Ajaces, till, being galled by the Locrian slingers and archers, Polydamas advises to call a council of war: Hector approves of his advice, but goes first to rally the Trojans; upbraids Paris, rejoins Polydamas, meets Ajax again, and renews the attack.
 
 The eight-and-twentieth day still continues. The scene is between the Grecian wall and the sea-shore.
 
@@ -9483,7 +9483,7 @@ Fierce as he pass’d, the lofty mountains nod,
 The forest shakes; earth trembled as he trod,
 And felt the footsteps of the immortal god.
 From realm to realm three ample strides he took,
-And, at the fourth, the distant Ægae shook.
+And, at the fourth, the distant Aegae shook.
 Far in the bay his shining palace stands,
 Eternal frame! not raised by mortal hands:
 This having reach’d, his brass-hoof’d steeds he reins,
@@ -9991,7 +9991,7 @@ Resolved to perish in his country’s cause,
 Or find some foe, whom heaven and he shall doom
 To wail his fate in death’s eternal gloom.
 He sees Alcathous in the front aspire:
-Great Æsyetes was the hero’s sire;
+Great Aesyetes was the hero’s sire;
 His spouse Hippodame, divinely fair,
 Anchises’ eldest hope, and darling care:
 Who charm’d her parents’ and her husband’s heart
@@ -10029,7 +10029,7 @@ The Trojan heard; uncertain or to meet,
 Alone, with venturous arms the king of Crete,
 Or seek auxiliar force; at length decreed
 To call some hero to partake the deed,
-Forthwith Æneas rises to his thought:
+Forthwith Aeneas rises to his thought:
 For him in Troy’s remotest lines he sought,
 Where he, incensed at partial Priam, stands,
 And sees superior posts in meaner hands.
@@ -10043,7 +10043,7 @@ Beneath his cares thy early youth was train’d,
 One table fed you, and one roof contain’d.
 This deed to fierce Idomeneus we owe;
 Haste, and revenge it on th’ insulting foe.”
-Æneas heard, and for a space resign’d
+Aeneas heard, and for a space resign’d
 To tender pity all his manly mind;
 Then rising in his rage, he burns to fight:
 The Greek awaits him with collected might.
@@ -10062,14 +10062,14 @@ The youthful offspring of the god of war,
 Merion, and Aphareus, in field renown’d:
 To these the warrior sent his voice around.
 “Fellows in arms! your timely aid unite;
-Lo, great Æneas rushes to the fight:
+Lo, great Aeneas rushes to the fight:
 Sprung from a god, and more than mortal bold;
 He fresh in youth, and I in arms grown old.
 Else should this hand, this hour decide the strife,
 The great dispute, of glory, or of life.”
 He spoke, and all, as with one soul, obey’d;
 Their lifted bucklers cast a dreadful shade
-Around the chief. Æneas too demands
+Around the chief. Aeneas too demands
 Th’ assisting forces of his native bands;
 Paris, Deiphobus, Agenor, join;
 (Co-aids and captains of the Trojan line;)
@@ -10079,14 +10079,14 @@ Before his fleecy care, erect and bold,
 Stalks the proud ram, the father of the bold.
 With joy the swain surveys them, as he leads
 To the cool fountains, through the well-known meads:
-So joys Æneas, as his native band
+So joys Aeneas, as his native band
 Moves on in rank, and stretches o’er the land.
 Round dread Alcathous now the battle rose;
 On every side the steely circle grows;
 Now batter’d breast-plates and hack’d helmets ring,
 And o’er their heads unheeded javelins sing.
 Above the rest, two towering chiefs appear,
-There great Idomeneus, Æneas here.
+There great Idomeneus, Aeneas here.
 Like gods of war, dispensing fate, they stood,
 And burn’d to drench the ground with mutual blood.
 The Trojan weapon whizz’d along in air;
@@ -10137,7 +10137,7 @@ To Troy they drove him, groaning from the shore,
 And sprinkling, as he pass’d, the sands with gore.
 Meanwhile fresh slaughter bathes the sanguine ground,
 Heaps fall on heaps, and heaven and earth resound.
-Bold Aphareus by great Æneas bled;
+Bold Aphareus by great Aeneas bled;
 As toward the chief he turn’d his daring head,
 He pierced his throat; the bending head, depress’d
 Beneath his helmet, nods upon his breast;
@@ -10989,7 +10989,7 @@ Around the ships: seas hanging o’er the shores,
 Both armies join: earth thunders, ocean roars.
 Not half so loud the bellowing deeps resound,
 When stormy winds disclose the dark profound;
-Less loud the winds that from the Æolian hall
+Less loud the winds that from the Aeolian hall
 Roar through the woods, and make whole forests fall;
 Less loud the woods, when flames in torrents pour,
 Catch the dry mountain, and its shades devour;
@@ -11477,7 +11477,7 @@ And mark’d their progress through the ranks in blood,
 Soon as they see the furious chief appear,
 Forget to vanquish, and consent to fear.
 Thoas with grief observed his dreadful course,
-Thoas, the bravest of the Ætolian force;
+Thoas, the bravest of the Aetolian force;
 Skill’d to direct the javelin’s distant flight,
 And bold to combat in the standing fight,
 Not more in councils famed for solid sense,
@@ -11534,7 +11534,7 @@ Heaps fall on heaps: the slaughter Hector leads,
 First great Arcesilas, then Stichius bleeds;
 One to the bold Boeotians ever dear,
 And one Menestheus’ friend and famed compeer.
-Medon and Iasus, Æneas sped;
+Medon and Iasus, Aeneas sped;
 This sprang from Phelus, and the Athenians led;
 But hapless Medon from Oileus came;
 Him Ajax honour’d with a brother’s name,
@@ -12743,7 +12743,7 @@ First to the fight his native troops he warms,
 Then loudly calls on Troy’s vindictive arms;
 With ample strides he stalks from place to place;
 Now fires Agenor, now Polydamas:
-Æneas next, and Hector he accosts;
+Aeneas next, and Hector he accosts;
 Inflaming thus the rage of all their hosts.
 “What thoughts, regardless chief! thy breast employ?
 Oh too forgetful of the friends of Troy!
@@ -12825,12 +12825,12 @@ On Ida’s holy hill he made abode,
 The priest of Jove, and honour’d like his god.
 Between the jaw and ear the javelin went;
 The soul, exhaling, issued at the vent.
-His spear Æneas at the victor threw,
+His spear Aeneas at the victor threw,
 Who stooping forward from the death withdrew;
 The lance hiss’d harmless o’er his covering shield,
 And trembling struck, and rooted in the field;
 There yet scarce spent, it quivers on the plain,
-Sent by the great Æneas’ arm in vain.
+Sent by the great Aeneas’ arm in vain.
 “Swift as thou art (the raging hero cries)
 And skill’d in dancing to dispute the prize,
 My spear, the destined passage had it found,
@@ -13141,13 +13141,13 @@ Far from his rage the immortal coursers drove;
 The immortal coursers were the gift of Jove.
 
 
-Æ
+Ae
 
 
 
 
 
-Menelaus, upon the death of Patroclus, defends his body from the enemy: Euphorbus, who attempts it, is slain. Hector advancing, Menelaus retires; but soon returns with Ajax, and drives him off. This, Glaucus objects to Hector as a flight, who thereupon puts on the armour he had won from Patroclus, and renews the battle. The Greeks give way, till Ajax rallies them: Æneas sustains the Trojans. Æneas and Hector attempt the chariot of Achilles, which is borne off by Automedon. The horses of Achilles deplore the loss of Patroclus: Jupiter covers his body with a thick darkness: the noble prayer of Ajax on that occasion. Menelaus sends Antilochus to Achilles, with the news of Patroclus’ death: then returns to the fight, where, though attacked with the utmost fury, he and Meriones, assisted by the Ajaces, bear off the body to the ships.
+Menelaus, upon the death of Patroclus, defends his body from the enemy: Euphorbus, who attempts it, is slain. Hector advancing, Menelaus retires; but soon returns with Ajax, and drives him off. This, Glaucus objects to Hector as a flight, who thereupon puts on the armour he had won from Patroclus, and renews the battle. The Greeks give way, till Ajax rallies them: Aeneas sustains the Trojans. Aeneas and Hector attempt the chariot of Achilles, which is borne off by Automedon. The horses of Achilles deplore the loss of Patroclus: Jupiter covers his body with a thick darkness: the noble prayer of Ajax on that occasion. Menelaus sends Antilochus to Achilles, with the news of Patroclus’ death: then returns to the fight, where, though attacked with the utmost fury, he and Meriones, assisted by the Ajaces, bear off the body to the ships.
 
 The time is the evening of the eight-and-twentieth day. The scene lies in the fields before Troy.
 
@@ -13527,7 +13527,7 @@ And now had Troy, by Greece compell’d to yield,
 Fled to her ramparts, and resign’d the field;
 Greece, in her native fortitude elate,
 With Jove averse, had turn’d the scale of fate:
-But Phoebus urged Æneas to the fight;
+But Phoebus urged Aeneas to the fight;
 He seem’d like aged Periphas to sight:
 (A herald in Anchises’ love grown old,
 Revered for prudence, and with prudence bold.)
@@ -13541,7 +13541,7 @@ But you, when fortune smiles, when Jove declares
 His partial favour, and assists your wars,
 Your shameful efforts ’gainst yourselves employ,
 And force the unwilling god to ruin Troy.”
-Æneas through the form assumed descries
+Aeneas through the form assumed descries
 The power conceal’d, and thus to Hector cries:
 “Oh lasting shame! to our own fears a prey,
 We seek our ramparts, and desert the day.
@@ -13704,7 +13704,7 @@ The ruling charge: the task of fight be mine.”
 He said. Alcimedon, with active heat,
 Snatches the reins, and vaults into the seat.
 His friend descends. The chief of Troy descried,
-And call’d Æneas fighting near his side.
+And call’d Aeneas fighting near his side.
 “Lo, to my sight, beyond our hope restored,
 Achilles’ car, deserted of its lord!
 The glorious steeds our ready arms invite,
@@ -13734,7 +13734,7 @@ Turn where distress demands immediate aid;
 The dead, encircled by his friends, forego,
 And save the living from a fiercer foe.
 Unhelp’d we stand, unequal to engage
-The force of Hector, and Æneas’ rage:
+The force of Hector, and Aeneas’ rage:
 Yet mighty as they are, my force to prove
 Is only mine: the event belongs to Jove.”
 He spoke, and high the sounding javelin flung,
@@ -13997,7 +13997,7 @@ Spreads his broad waters o’er the level plains,
 Some interposing hill the stream divides,
 And breaks its force, and turns the winding tides.
 Still close they follow, close the rear engage;
-Æneas storms, and Hector foams with rage:
+Aeneas storms, and Hector foams with rage:
 While Greece a heavy, thick retreat maintains,
 Wedged in one body, like a flight of cranes,
 That shriek incessant, while the falcon, hung
@@ -14957,7 +14957,7 @@ In order rank’d let all our gifts appear,
 And the fair train of captives close the rear:
 Talthybius shall the victim boar convey,
 Sacred to Jove, and yon bright orb of day.”
-“For this (the stern Æacides replies)
+“For this (the stern Aeacides replies)
 Some less important season may suffice,
 When the stern fury of the war is o’er,
 And wrath, extinguish’d, burns my breast no more.
@@ -15240,7 +15240,7 @@ Now perish Troy!” He said, and rush’d to fight.
 
 
 
-Jupiter, upon Achilles’ return to the battle, calls a council of the gods, and permits them to assist either party. The terrors of the combat described, when the deities are engaged. Apollo encourages Æneas to meet Achilles. After a long conversation, these two heroes encounter; but Æneas is preserved by the assistance of Neptune. Achilles falls upon the rest of the Trojans, and is upon the point of killing Hector, but Apollo conveys him away in a cloud. Achilles pursues the Trojans with a great slaughter.
+Jupiter, upon Achilles’ return to the battle, calls a council of the gods, and permits them to assist either party. The terrors of the combat described, when the deities are engaged. Apollo encourages Aeneas to meet Achilles. After a long conversation, these two heroes encounter; but Aeneas is preserved by the assistance of Neptune. Achilles falls upon the rest of the Trojans, and is upon the point of killing Hector, but Apollo conveys him away in a cloud. Achilles pursues the Trojans with a great slaughter.
 
 The same day continues. The scene is in the field before Troy.
 
@@ -15355,7 +15355,7 @@ Hector he sought; in search of Hector turn’d
 His eyes around, for Hector only burn’d;
 And burst like lightning through the ranks, and vow’d
 To glut the god of battles with his blood.
-Æneas was the first who dared to stay;
+Aeneas was the first who dared to stay;
 Apollo wedged him in the warrior’s way,
 But swell’d his bosom with undaunted might,
 Half-forced and half-persuaded to the fight.
@@ -15393,7 +15393,7 @@ Through the thick troops the embolden’d hero press’d:
 His venturous act the white-arm’d queen survey’d,
 And thus, assembling all the powers, she said:
 “Behold an action, gods! that claims your care,
-Lo great Æneas rushing to the war!
+Lo great Aeneas rushing to the war!
 Against Pelides he directs his course,
 Phoebus impels, and Phoebus gives him force.
 Restrain his bold career; at least, to attend
@@ -15439,8 +15439,8 @@ The trampled centre yields a hollow sound:
 Steeds cased in mail, and chiefs in armour bright,
 The gleaming champaign glows with brazen light.
 Amid both hosts (a dreadful space) appear,
-There great Achilles; bold Æneas, here.
-With towering strides Æneas first advanced;
+There great Achilles; bold Aeneas, here.
+With towering strides Aeneas first advanced;
 The nodding plumage on his helmet danced:
 Spread o’er his breast the fencing shield he bore,
 And, so he moved, his javelin flamed before.
@@ -15456,11 +15456,11 @@ He grins, he foams, he rolls his eyes around,
 Lash’d by his tail his heaving sides resound;
 He calls up all his rage; he grinds his teeth,
 Resolved on vengeance, or resolved on death.
-So fierce Achilles on Æneas flies;
-So stands Æneas, and his force defies.
+So fierce Achilles on Aeneas flies;
+So stands Aeneas, and his force defies.
 Ere yet the stern encounter join’d, begun
 The seed of Thetis thus to Venus’ son:
-“Why comes Æneas through the ranks so far?
+“Why comes Aeneas through the ranks so far?
 Seeks he to meet Achilles’ arm in war,
 In hope the realms of Priam to enjoy,
 And prove his merits to the throne of Troy?
@@ -15475,13 +15475,13 @@ Of hills for vines, and arable for grain?
 Even this, perhaps, will hardly prove thy lot.
 But can Achilles be so soon forgot?
 Once (as I think) you saw this brandish’d spear,
-And then the great Æneas seem’d to fear:
+And then the great Aeneas seem’d to fear:
 With hearty haste from Ida’s mount he fled,
 Nor, till he reach’d Lyrnessus, turn’d his head.
 Her lofty walls not long our progress stay’d;
 Those, Pallas, Jove, and we, in ruins laid:
 In Grecian chains her captive race were cast;
-’Tis true, the great Æneas fled too fast.
+’Tis true, the great Aeneas fled too fast.
 Defrauded of my conquest once before,
 What then I lost, the gods this day restore.
 Go; while thou may’st, avoid the threaten’d fate;
@@ -15573,21 +15573,21 @@ And pierced the Dardan shield’s extremest bound,
 Where the shrill brass return’d a sharper sound:
 Through the thin verge the Pelean weapon glides,
 And the slight covering of expanded hides.
-Æneas his contracted body bends,
+Aeneas his contracted body bends,
 And o’er him high the riven targe extends,
 Sees, through its parting plates, the upper air,
 And at his back perceives the quivering spear:
 A fate so near him, chills his soul with fright;
 And swims before his eyes the many-colour’d light.
 Achilles, rushing in with dreadful cries,
-Draws his broad blade, and at Æneas flies:
-Æneas rousing as the foe came on,
+Draws his broad blade, and at Aeneas flies:
+Aeneas rousing as the foe came on,
 With force collected, heaves a mighty stone:
 A mass enormous! which in modern days
 No two of earth’s degenerate sons could raise.
 But ocean’s god, whose earthquakes rock the ground
 Saw the distress, and moved the powers around:
-“Lo! on the brink of fate Æneas stands,
+“Lo! on the brink of fate Aeneas stands,
 An instant victim to Achilles’ hands;
 By Phoebus urged; but Phoebus has bestow’d
 His aid in vain: the man o’erpowers the god.
@@ -15601,7 +15601,7 @@ The first great ancestor obtain’d his grace,
 And still his love descends on all the race:
 For Priam now, and Priam’s faithless kind,
 At length are odious to the all-seeing mind;
-On great Æneas shall devolve the reign,
+On great Aeneas shall devolve the reign,
 And sons succeeding sons the lasting line sustain.”
 The great earth-shaker thus: to whom replies
 The imperial goddess with the radiant eyes:
@@ -15617,7 +15617,7 @@ The king of ocean to the fight descends,
 Through all the whistling darts his course he bends,
 Swift interposed between the warrior flies,
 And casts thick darkness o’er Achilles’ eyes.
-From great Æneas’ shield the spear he drew,
+From great Aeneas’ shield the spear he drew,
 And at his master’s feet the weapon threw.
 That done, with force divine he snatch’d on high
 The Dardan prince, and bore him through the sky,
@@ -16075,7 +16075,7 @@ All scatter’d round the stream (their mightiest slain)
 The amazed Paeonians scour along the plain;
 He vents his fury on the flying crew,
 Thrasius, Astyplus, and Mnesus slew;
-Mydon, Thersilochus, with Ænius, fell;
+Mydon, Thersilochus, with Aenius, fell;
 And numbers more his lance had plunged to hell,
 But from the bottom of his gulfs profound
 Scamander spoke; the shores return’d the sound.
@@ -17632,7 +17632,7 @@ Then Menelaus his Podargus brings,
 And the famed courser of the king of kings:
 Whom rich Echepolus (more rich than brave),
 To ’scape the wars, to Agamemnon gave,
-(Æthe her name) at home to end his days;
+(Aethe her name) at home to end his days;
 Base wealth preferring to eternal praise.
 Next him Antilochus demands the course
 With beating heart, and cheers his Pylian horse.
@@ -17820,7 +17820,7 @@ With frantic fury from the destined way.
 Rise then some other, and inform my sight,
 For these dim eyes, perhaps, discern not right;
 Yet sure he seems, to judge by shape and air,
-The great Ætolian chief, renown’d in war.”
+The great Aetolian chief, renown’d in war.”
 “Old man! (Oileus rashly thus replies)
 Thy tongue too hastily confers the prize;
 Of those who view the course, nor sharpest eyed,
@@ -17870,7 +17870,7 @@ The following car, just touching with his heel
 And brushing with his tail the whirling wheel:
 Such, and so narrow now the space between
 The rivals, late so distant on the green;
-So soon swift Æthe her lost ground regain’d,
+So soon swift Aethe her lost ground regain’d,
 One length, one moment, had the race obtain’d.
 Merion pursued, at greater distance still,
 With tardier coursers, and inferior skill.
@@ -17993,7 +17993,7 @@ Known through Buprasium and the Pylian shore!
 Victorious then in every solemn game,
 Ordain’d to Amarynces’ mighty name;
 The brave Epeians gave my glory way,
-Ætolians, Pylians, all resign’d the day.
+Aetolians, Pylians, all resign’d the day.
 I quell’d Clytomedes in fights of hand,
 And backward hurl’d Ancaeus on the sand,
 Surpass’d Iphyclus in the swift career,
