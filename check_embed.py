@@ -9,19 +9,19 @@ bar = progressbar.ProgressBar(maxval=20,
 # print(embeddings[0].shape)
 
 
-embeddings = read_json('gg_embeddings.jsonl')
+# embeddings = read_json('gg_embeddings.jsonl')
 # print(embeddings.shape)
 # plot_heatmap(embeddings)
 
-embedding_path = './datasets/'
+embedding_path = r'C:/Users/Deven Mistry/Downloads/Untitled folder/distil/'
 
-# for fx in os.listdir(embedding_path):
-#     if fx.endswith('.npy'):
-#         name = fx[:-4]
-#         print("Loaded "+fx)
-#         embed = np.load(embedding_path+fx)
-#         plot_heatmap(embed, name)
-bar.start()
-fname = 'Republic By Plato.txt'
-get_cleaned_file(embedding_path+fname)
-bar.finish()
+for fx in os.listdir(embedding_path):
+    if fx.endswith('.npy'):
+        name = fx[:-4]
+        print("Loaded "+fx)
+        embed = np.load(embedding_path+fx)
+        plot_heatmap(embed, name)
+# bar.start()
+# fname = 'Republic By Plato.txt'
+# get_cleaned_file(embedding_path+fname)
+# bar.finish()
