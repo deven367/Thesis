@@ -31,8 +31,22 @@ how did you process
 discuss the working
 visualization
 
+
 chp4
 results (heatmaps)
 
 chp5
 future work
+
+(data cleaning)
+remove book title 
+BOOK I, II and so on
+
+joint probability //does not work that well
+correlation //
+pmi
+log odds
+individual probability
+
+
+euclidean distance
