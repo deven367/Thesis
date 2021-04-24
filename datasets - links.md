@@ -12,3 +12,5 @@ Datasets – links
 * [Pride and Prejudice](https://www.gutenberg.org/files/1342/1342-h/1342-h.htm)
 * [A Tale of Two Cities](https://www.gutenberg.org/files/98/98-h/98-h.htm)
 * [Ludwig Wittgenstein - Logisch-philosophische Abhandlung](https://people.umass.edu/klement/tlp/tlp.html)
+* [Meditations - Marcus Aurelius (Meric Casaubon)](http://gutenberg.org/files/2680/2680-h/2680-h.htm#link2H_4_0001)
+* [Meditations - Marcus Aurelius (George Chrystal)](http://gutenberg.org/files/55317/55317-h/55317-h.htm)
