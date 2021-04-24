@@ -5,3 +5,6 @@ __pycache__/
 
 infersent
 .npy
+
+# ignore notebook checkpoints
+.ipynb_checkpoints
