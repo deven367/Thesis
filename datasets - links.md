@@ -14,3 +14,6 @@ Datasets – links
 * [Ludwig Wittgenstein - Logisch-philosophische Abhandlung](https://people.umass.edu/klement/tlp/tlp.html)
 * [Meditations - Marcus Aurelius (Meric Casaubon)](http://gutenberg.org/files/2680/2680-h/2680-h.htm#link2H_4_0001)
 * [Meditations - Marcus Aurelius (George Chrystal)](http://gutenberg.org/files/55317/55317-h/55317-h.htm)
+* [The Aeneid - Virgil (John Dryden)](http://gutenberg.org/files/228/228-h/228-h.htm)
+* [The Aeneid - Virgil (Rolfe Humphries)](http://gutenberg.org/files/61596/61596-0.txt)
+* [The Aeneid - Virgil (J. W. Mackail)](http://gutenberg.org/cache/epub/22456/pg22456.txt)
