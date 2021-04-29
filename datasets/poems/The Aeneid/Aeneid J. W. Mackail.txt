@@ -1,4 +1,4 @@
-BOOK FIRST
+
 
 THE COMING OF AENEAS TO CARTHAGE
 
@@ -675,7 +675,7 @@ sea.'
 
 
 
-BOOK SECOND
+
 
 THE STORY OF THE SACK OF TROY
 
@@ -1386,7 +1386,7 @@ withdrew, and raising my father up, I sought the mountain.'
 
 
 
-BOOK THIRD
+
 
 THE STORY OF THE SEVEN YEARS' WANDERING
 
@@ -2006,7 +2006,7 @@ an end.
 
 
 
-BOOK FOURTH
+
 
 THE LOVE OF DIDO, AND HER END
 
@@ -2632,7 +2632,7 @@ warmth ebbed forth from her, and the life passed away upon the winds.
 
 
 
-BOOK FIFTH
+
 
 THE GAMES OF THE FLEET
 
@@ -3354,7 +3354,7 @@ Palinurus, naked on an alien sand!'
 
 
 
-BOOK SIXTH
+
 
 THE VISION OF THE UNDER WORLD
 
@@ -4154,7 +4154,7 @@ are grounded on the beach.
 
 
 
-BOOK SEVENTH
+
 
 THE LANDING IN LATIUM, AND THE ROLL OF THE ARMIES OF ITALY
 
@@ -4884,7 +4884,7 @@ shaft topped with steel.
 
 
 
-BOOK EIGHTH
+
 
 THE EMBASSAGE TO EVANDER
 
@@ -5511,7 +5511,7 @@ the destined glories of his children.
 
 
 
-BOOK NINTH
+
 
 THE SIEGE OF THE TROJAN CAMP
 
@@ -6208,7 +6208,7 @@ washing away the slaughter, returned him triumphant to his comrades.
 
 
 
-BOOK TENTH
+
 
 THE BATTLE ON THE BEACH
 
@@ -6977,7 +6977,7 @@ lifeblood spreads in a wave over his armour.
 
 
 
-BOOK ELEVENTH
+
 
 THE COUNCIL OF THE LATINS, AND THE LIFE AND DEATH OF CAMILLA
 
@@ -7741,7 +7741,7 @@ before the city, and draw their trenches round the walls.
 
 
 
-BOOK TWELFTH
+
 
 THE SLAYING OF TURNUS
 
