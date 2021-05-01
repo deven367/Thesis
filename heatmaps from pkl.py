@@ -4,22 +4,28 @@ import numpy as np
 import pickle
 import os
 
-embedding_path = './dictionaries/sentence diff 1/'
+embedding_path = './dictionaries/sentence diff 1/meditations/'
 
-for fx in os.listdir(embedding_path):
-    if fx.endswith('.pkl'):
-        name = fx[:-4]
-        print("Loaded "+fx)
-        fname = open(embedding_path+fx, 'rb')
-        data = pickle.load(fname)
-        print(data[0].keys())
+def plot(data, name):
+    for i in range(len(data) - 1):
+        plt.figure(figsize = (12,7))
 
-        for i in range(len(alex_pope_iliad_all_books) - 1):
-            # plt.figure(figsize = (15,10))
-            ax = sns.heatmap(list(alex_pope_iliad_all_books[i].values()), yticklabels = list(alex_pope_iliad_all_books[i].keys()), cmap = 'hot', vmin = -1, vmax = 1)
-            for j in range(len(alex_pope_iliad_all_books[i].keys())):
-                ax.axhline(j, color='white', lw=2)
-            title = 'Book '+str(i + 1)+' Iliad Alex Pope'
-            plt.title(title)
-            plt.tight_layout()
-            plt.savefig(title + '.png', dpi = 300)
+        values = list(data[i].values())
+        labels = list(data[i].keys())
+
+        ax = sns.heatmap(values, yticklabels = labels, cmap = 'hot', vmin = -1, vmax = 1)
+
+        for j in range(len(data[i].keys())):
+            ax.axhline(j, color='white', lw=2)
+
+        names = name.split()
+        t = ' '.join(names[:2]).title()
+        tt = names[-1].title()
+
+
+#         title = 'Book '+ str(i + 1) + ' ' +tt + ' '+ t
+        title = 'Book '+ str(i + 1) + ' ' + name.title()
+        plt.title(title)
+        plt.tight_layout()
+#         plt.savefig(title + '.png', dpi = 300)
+        # break
