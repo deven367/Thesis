@@ -4,8 +4,6 @@ import numpy as np
 import pickle
 import os
 
-embedding_path = './dictionaries/sentence diff 1/meditations/'
-
 def plot(data, name):
     for i in range(len(data) - 1):
         plt.figure(figsize = (12,7))
@@ -28,4 +26,19 @@ def plot(data, name):
         plt.title(title)
         plt.tight_layout()
 #         plt.savefig(title + '.png', dpi = 300)
-        # break
+        break
+
+def iterator(embedding_path):
+    for fx in os.listdir(embedding_path):
+        if fx.endswith('.pkl'):
+            name = fx[:-4]
+            print("Loaded "+fx)
+            fname = open(embedding_path+fx, 'rb')
+            data = pickle.load(fname)
+            plot(data, name)
+            #print(data[0].values())
+            break
+
+if __name__ == '__main__':
+    embedding_path = './dictionaries/sentence diff 1/meditations/'
+    iterator(embedding_path)
