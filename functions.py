@@ -38,6 +38,13 @@ def get_data(fname):
         all = f.read()
     return all
 
+def split_by_newline(all):
+    '''only use when sentences are already tokenized
+       returns sentences split by '\ n' if len(line) > 0
+    '''
+    return [line for line in all.split('\n') if len(line) > 0]
+
+
 from nltk.tokenize import sent_tokenize
 from nltk.tokenize import word_tokenize
 def make_sentences(all):
