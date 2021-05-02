@@ -33,8 +33,8 @@ def plot_heatmap(embeddings, fname):
     plt.savefig(fname+'.png', dpi = 300)
     plt.clf()
 
-def get_data(fname):
-    with open(fname, 'r') as f:
+def get_data(fname, fpath = './'):
+    with open(fpath + fname, 'r') as f:
         all = f.read()
     return all
 
