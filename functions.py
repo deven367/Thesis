@@ -34,7 +34,7 @@ def plot_heatmap(embeddings, fname):
     plt.clf()
 
 def get_data(fname, fpath = './'):
-    with open(fpath + fname, 'r') as f:
+    with open(fpath + fname, 'r', encoding="utf8", errors='ignore') as f:
         all = f.read()
     return all
 
