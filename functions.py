@@ -42,7 +42,7 @@ def split_by_newline(all):
     '''only use when sentences are already tokenized
        returns sentences split by '\ n' if len(line) > 0
     '''
-    return [line for line in all.split('\n') if len(line) > 0]
+    return [line.lower() for line in all.split('\n') if len(line) > 0]
 
 
 from nltk.tokenize import sent_tokenize
