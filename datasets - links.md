@@ -23,11 +23,13 @@ Fiction
 * [The Great Gatsby](https://gutenberg.org/ebooks/64317)
 * [The Mysterious Affair at Styles](https://gutenberg.org/ebooks/863)
 * [Pride and Prejudice](https://www.gutenberg.org/files/1342/1342-h/1342-h.htm)
+* [Metamorphosis](https://gutenberg.org/ebooks/5200)
+* [Heart of Darkness](https://gutenberg.org/ebooks/219)
 
 
 Non Fiction
 * [On the Origin of Species](https://gutenberg.org/ebooks/1228)
-
+* [The Prophet](https://gutenberg.org/ebooks/58585)
 
 
 
