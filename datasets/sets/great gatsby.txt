@@ -1,4 +1,4 @@
-I
+
 In my younger and more vulnerable years my father gave me some advice that I’ve been turning over in my mind ever since.
 
 “Whenever you feel like criticizing anyone,” he told me, “just remember that all the people in this world haven’t had the advantages that you’ve had.”
@@ -303,7 +303,7 @@ Already it was deep summer on roadhouse roofs and in front of wayside garages, w
 
 I decided to call to him. Miss Baker had mentioned him at dinner, and that would do for an introduction. But I didn’t call to him, for he gave a sudden intimation that he was content to be alone—he stretched out his arms toward the dark water in a curious way, and, far as I was from him, I could have sworn he was trembling. Involuntarily I glanced seaward—and distinguished nothing except a single green light, minute and far away, that might have been the end of a dock. When I looked once more for Gatsby he had vanished, and I was alone again in the unquiet darkness.
 
-II
+
 About halfway between West Egg and New York the motor road hastily joins the railroad and runs beside it for a quarter of a mile, so as to shrink away from a certain desolate area of land. This is a valley of ashes—a fantastic farm where ashes grow like wheat into ridges and hills and grotesque gardens; where ashes take the forms of houses and chimneys and rising smoke and, finally, with a transcendent effort, of ash-grey men, who move dimly and already crumbling through the powdery air. Occasionally a line of grey cars crawls along an invisible track, gives out a ghastly creak, and comes to rest, and immediately the ash-grey men swarm up with leaden spades and stir up an impenetrable cloud, which screens their obscure operations from your sight.
 
 But above the grey land and the spasms of bleak dust which drift endlessly over it, you perceive, after a moment, the eyes of Doctor T. J. Eckleburg. The eyes of Doctor T. J. Eckleburg are blue and gigantic—their retinas are one yard high. They look out of no face, but, instead, from a pair of enormous yellow spectacles which pass over a nonexistent nose. Evidently some wild wag of an oculist set them there to fatten his practice in the borough of Queens, and then sank down himself into eternal blindness, or forgot them and moved away. But his eyes, dimmed a little by many paintless days, under sun and rain, brood on over the solemn dumping ground.
@@ -578,7 +578,7 @@ Then there were bloody towels upon the bathroom floor, and women’s voices scol
 
 Then I was lying half asleep in the cold lower level of the Pennsylvania Station, staring at the morning Tribune, and waiting for the four o’clock train.
 
-III
+
 There was music from my neighbour’s house through the summer nights. In his blue gardens men and girls came and went like moths among the whisperings and the champagne and the stars. At high tide in the afternoon I watched his guests diving from the tower of his raft, or taking the sun on the hot sand of his beach while his two motorboats slit the waters of the Sound, drawing aquaplanes over cataracts of foam. On weekends his Rolls-Royce became an omnibus, bearing parties to and from the city between nine in the morning and long past midnight, while his station wagon scampered like a brisk yellow bug to meet all trains. And on Mondays eight servants, including an extra gardener, toiled all day with mops and scrubbing-brushes and hammers and garden-shears, repairing the ravages of the night before.
 
 Every Friday five crates of oranges and lemons arrived from a fruiterer in New York—every Monday these same oranges and lemons left his back door in a pyramid of pulpless halves. There was a machine in the kitchen which could extract the juice of two hundred oranges in half an hour if a little button was pressed two hundred times by a butler’s thumb.
@@ -921,7 +921,7 @@ Her grey, sun-strained eyes stared straight ahead, but she had deliberately shif
 
 Everyone suspects himself of at least one of the cardinal virtues, and this is mine: I am one of the few honest people that I have ever known.
 
-IV
+
 On Sunday morning while church bells rang in the villages alongshore, the world and its mistress returned to Gatsby’s house and twinkled hilariously on his lawn.
 
 “He’s a bootlegger,” said the young ladies, moving somewhere between his cocktails and his flowers. “One time he killed a man who had found out that he was nephew to Von Hindenburg and second cousin to the devil. Reach me a rose, honey, and pour me a last drop into that there crystal glass.”
@@ -1265,7 +1265,7 @@ It was dark now, and as we dipped under a little bridge I put my arm around Jord
 
 We passed a barrier of dark trees, and then the façade of Fifty-Ninth Street, a block of delicate pale light, beamed down into the park. Unlike Gatsby and Tom Buchanan, I had no girl whose disembodied face floated along the dark cornices and blinding signs, and so I drew up the girl beside me, tightening my arms. Her wan, scornful mouth smiled, and so I drew her up again closer, this time to my face.
 
-V
+
 When I came home to West Egg that night I was afraid for a moment that my house was on fire. Two o’clock and the whole corner of the peninsula was blazing with light, which fell unreal on the shrubbery and made thin elongating glints upon the roadside wires. Turning a corner, I saw that it was Gatsby’s house, lit from tower to cellar.
 
 At first I thought it was another party, a wild rout that had resolved itself into “hide-and-go-seek” or “sardines-in-the-box” with all the house thrown open to the game. But there wasn’t a sound. Only wind in the trees, which blew the wires and made the lights go off and on again as if the house had winked into the darkness. As my taxi groaned away I saw Gatsby walking toward me across his lawn.
@@ -1577,7 +1577,7 @@ As I watched him he adjusted himself a little, visibly. His hand took hold of he
 
 They had forgotten me, but Daisy glanced up and held out her hand; Gatsby didn’t know me now at all. I looked once more at them and they looked back at me, remotely, possessed by intense life. Then I went out of the room and down the marble steps into the rain, leaving them there together.
 
-VI
+
 About this time an ambitious young reporter from New York arrived one morning at Gatsby’s door and asked him if he had anything to say.
 
 “Anything to say about what?” inquired Gatsby politely.
@@ -1848,7 +1848,7 @@ His heart beat faster as Daisy’s white face came up to his own. He knew that w
 
 Through all he said, even through his appalling sentimentality, I was reminded of something—an elusive rhythm, a fragment of lost words, that I had heard somewhere a long time ago. For a moment a phrase tried to take shape in my mouth and my lips parted like a dumb man’s, as though there was more struggling upon them than a wisp of startled air. But they made no sound, and what I had almost remembered was uncommunicable forever.
 
-VII
+
 It was when curiosity about Gatsby was at its highest that the lights in his house failed to go on one Saturday night—and, as obscurely as it had begun, his career as Trimalchio was over. Only gradually did I become aware that the automobiles which turned expectantly into his drive stayed for just a minute and then drove sulkily away. Wondering if he were sick I went over to find out—an unfamiliar butler with a villainous face squinted at me suspiciously from the door.
 
 “Is Mr. Gatsby sick?”
@@ -2679,7 +2679,7 @@ He shook his head.
 
 He put his hands in his coat pockets and turned back eagerly to his scrutiny of the house, as though my presence marred the sacredness of the vigil. So I walked away and left him standing there in the moonlight—watching over nothing.
 
-VIII
+
 I couldn’t sleep all night; a foghorn was groaning incessantly on the Sound, and I tossed half-sick between grotesque reality and savage, frightening dreams. Toward dawn I heard a taxi go up Gatsby’s drive, and immediately I jumped out of bed and began to dress—I felt that I had something to tell him, something to warn him about, and morning would be too late.
 
 Crossing his lawn, I saw that his front door was still open and he was leaning against a table in the hall, heavy with dejection or sleep.
@@ -2906,7 +2906,7 @@ There was a faint, barely perceptible movement of the water as the fresh flow fr
 
 It was after we started with Gatsby toward the house that the gardener saw Wilson’s body a little way off in the grass, and the holocaust was complete.
 
-IX
+
 After two years I remember the rest of that day, and that night and the next day, only as an endless drill of police and photographers and newspaper men in and out of Gatsby’s front door. A rope stretched across the main gate and a policeman by it kept out the curious, but little boys soon discovered that they could enter through my yard, and there were always a few of them clustered open-mouthed about the pool. Someone with a positive manner, perhaps a detective, used the expression “madman” as he bent over Wilson’s body that afternoon, and the adventitious authority of his voice set the key for the newspaper reports next morning.
 
 Most of those reports were a nightmare—grotesque, circumstantial, eager, and untrue. When Michaelis’s testimony at the inquest brought to light Wilson’s suspicions of his wife I thought the whole tale would shortly be served up in racy pasquinade—but Catherine, who might have said anything, didn’t say a word. She showed a surprising amount of character about it too—looked at the coroner with determined eyes under that corrected brow of hers, and swore that her sister had never seen Gatsby, that her sister was completely happy with her husband, that her sister had been into no mischief whatever. She convinced herself of it, and cried into her handkerchief, as if the very suggestion was more than she could endure. So Wilson was reduced to a man “deranged by grief” in order that the case might remain in its simplest form. And it rested there.
