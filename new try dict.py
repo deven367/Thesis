@@ -20,6 +20,8 @@ mackail_aeneid = [263,603,880,1183,1494,1832,2098,2355,2663,3024,3339]
 dryden_aeneid = [311,677,977,1307,1678,2068,2386,2703,3096,3522,3941]
 humphries_aeneid = [247,579,826,1106,1307,1670,1926,2156,2468,2829,3161]
 
+christmas_carol = [443, 853, 1282, 1705]
+
 def time_series_v3(successive, breakpoints, fname = None):
     plt_values = []
     for i in range(len(breakpoints)):
