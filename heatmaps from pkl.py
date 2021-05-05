@@ -5,7 +5,7 @@ import pickle
 import os
 
 def plot(data, name):
-    for i in range(len(data) - 1):
+    for i in range(len(data)):
         plt.figure(figsize = (12,7))
 
         values = list(data[i].values())
