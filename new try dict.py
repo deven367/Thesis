@@ -22,6 +22,7 @@ humphries_aeneid = [247,579,826,1106,1307,1670,1926,2156,2468,2829,3161]
 
 christmas_carol = [443, 853, 1282, 1705]
 great_gatsby = [355,655,1039,1407,1719,1995,2809,3077]
+mysterious_affair = [363,584,792,1256,2241,2585,2909,3448,3887,4367,4804,5067]
 
 def time_series_v3(successive, breakpoints, fname = None):
     plt_values = []
