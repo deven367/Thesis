@@ -106,6 +106,8 @@ def label(arg):
     }
     return switcher.get(arg)
 
+def create_label_whole_book(method, parent_dir):
+    return parent_dir.title() + ' ' + label(method)
 
 def create_label(index, method, parent_dir):
     met = label(method)
