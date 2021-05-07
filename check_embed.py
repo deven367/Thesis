@@ -2,9 +2,7 @@ import numpy as np
 from functions import read_json, plot_heatmap, get_cleaned_file
 import os
 import progressbar
-bar = progressbar.ProgressBar(maxval=20,
-                              widgets=[progressbar.Bar('=', '[', ']'), ' ',
-                              progressbar.Percentage()])
+
 # embeddings =  np.load('ulysses_infersent_glove.npy')
 # print(embeddings[0].shape)
 
