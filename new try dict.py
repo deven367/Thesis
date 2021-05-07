@@ -65,7 +65,22 @@ def create_dict(embedding_path, k, breakpoints):
         mdict[book_number] = sub_dict
     pickle.dump(mdict, open(parent_dir + ' ' +  book_name +'.pkl', 'wb'))
 
+def create_dict_whole_book(embedding_path, k):
+    mdict = {}
+    parent_dir = os.path.basename(os.path.dirname(embedding_path))
+    sub_dict = {}
+    for fx in os.listdir(embedding_path):
+        if fx.endswith('.npy'):
+            name = fx[:-4]
+            embed = np.load(embedding_path+fx)
+            book_name, method = get_embed_method_and_name(name)
+            ts = successive_similarities(embed, k)
 
+            name = create_label_whole_book(method, parent_dir)
+
+            sub_dict[name] = ts
+    mdict[0] = sub_dict
+    pickle.dump(mdict, open(parent_dir +'_whole.pkl', 'wb'))
 
 def successive_similarities(embeddings, k):
     successive = []
