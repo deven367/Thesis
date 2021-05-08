@@ -16,17 +16,24 @@ def plot(data, name):
         for j in range(len(data[i].keys())):
             ax.axhline(j, color='white', lw=2)
 
+        # have the name of the pkl file in the format FN LN BN
         names = name.split()
-        t = ' '.join(names[:2]).title()
-        tt = names[-1].title()
+        first_name = names[0]
+        last_name = names[1]
+        book_name = names[-1]
 
+        # format for Book number Last Name Book name
+        title = 'Book '+ str(i + 1) + ' ' + last_name.title() + ' ' + book_name.title()
 
-#         title = 'Book '+ str(i + 1) + ' ' +tt + ' '+ t
-        title = 'Book '+ str(i + 1) + ' ' + name.title()
+        # format for strip plot of the whole book
+        # title = name.title()
+
+        # print(title)
         plt.title(title)
         plt.tight_layout()
-#         plt.savefig(title + '.png', dpi = 300)
-        break
+        plt.savefig(title + '.png', dpi = 300)
+        print("Created {}".format(title))
+        # break
 
 def iterator(embedding_path):
     for fx in os.listdir(embedding_path):
