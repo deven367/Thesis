@@ -44,8 +44,8 @@ def iterator(embedding_path):
             data = pickle.load(fname)
             plot(data, name)
             #print(data[0].values())
-            break
+            # break
 
 if __name__ == '__main__':
-    embedding_path = './dictionaries/sentence diff 1/meditations/'
+    embedding_path = './'
     iterator(embedding_path)
