@@ -119,8 +119,8 @@ def get_embed_method_and_name(fname):
 
 if __name__ == '__main__':
     # master_dictionary = {}
-    embedding_path = '../final/chrystal/'
+    embedding_path = '../final/mackail/'
     k = 1
-    create_dict(embedding_path, k, chrystal_meditation)
+    create_dict(embedding_path, k, mackail_aeneid)
     # create_dict_whole_book(embedding_path, k)
     # print(len(bl_ody))

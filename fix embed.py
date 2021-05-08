@@ -17,5 +17,5 @@ def fix(embedding_path):
 
 
 if __name__ == '__main__':
-    embedding_path = '../final/chrystal/'
+    embedding_path = '../final/mackail/'
     fix(embedding_path)
