@@ -1,8 +1,9 @@
-STAVE I:  MARLEY'S GHOST  MARLEY was dead: to begin with.
+MARLEY was dead: to begin with.
 There is no doubt whatever about that.
 The register of his burial was signed by the clergyman, the clerk, the undertaker, and the chief mourner.
 Scrooge signed it: and Scrooge's name was good upon 'Change, for anything he chose to put his hand to.
 Old Marley was as dead as a door-nail.
+Don't do this!
 Mind!
 I don't mean to say that I know, of my own knowledge, what there is particularly dead about a door-nail.
 I might have been inclined, myself, to regard a coffin-nail as the deadest piece of ironmongery in the trade.
@@ -22,6 +23,7 @@ Scrooge never painted out Old Marley's name.
 There it stood, years afterwards, above the warehouse door: Scrooge and Marley.
 The firm was known as Scrooge and Marley.
 Sometimes people new to the business called Scrooge Scrooge, and sometimes Marley, but he answered to both names.
+It was all the same to him.
 Oh!
 But he was a tight-fisted hand at the grind-stone, Scrooge!
 a squeezing, wrenching, grasping, scraping, clutching, covetous, old sinner!
@@ -189,7 +191,7 @@ The Lord Mayor, in the stronghold of the mighty Mansion House, gave orders to hi
 Foggier yet, and colder.
 Piercing, searching, biting cold.
 If the good Saint Dunstan had but nipped the Evil Spirit's nose with a touch of such weather as that, instead of using his familiar weapons, then indeed he would have roared to lusty purpose.
-The owner of one scant young nose, gnawed and mumbled by the hungry cold as bones are gnawed by dogs, stooped down at Scrooge's keyhole to regale him with a Christmas carol: but at the first sound of          "God bless you, merry gentleman!
+The owner of one scant young nose, gnawed and mumbled by the hungry cold as bones are gnawed by dogs, stooped down at Scrooge's keyhole to regale him with a Christmas carol: but at the first sound of "God bless you, merry gentleman!
 May nothing you dismay!"
 Scrooge seized the ruler with such energy of action, that the singer fled in terror, leaving the keyhole to the fog and even more congenial frost.
 At length the hour of shutting up the counting-house arrived.
@@ -241,6 +243,7 @@ Darkness is cheap, and Scrooge liked it.
 But before he shut his heavy door, he walked through his rooms to see that all was right.
 He had just enough recollection of the face to desire to do that.
 Sitting-room, bedroom, lumber-room.
+All as they should be.
 Nobody under the table, nobody under the sofa; a small fire in the grate; spoon and basin ready; and the little saucepan of gruel (Scrooge had a cold in his head) upon the hob.
 Nobody under the bed; nobody in the closet; nobody in his dressing-gown, which was hanging up in a suspicious attitude against the wall.
 Lumber-room as usual.
@@ -268,6 +271,7 @@ said Scrooge.
 "I won't believe it."
 His colour changed though, when, without a pause, it came on through the heavy door, and passed into the room before his eyes.
 Upon its coming in, the dying flame leaped up, as though it cried, "I know him; Marley's Ghost!"
+and fell again.
 The same face: the very same.
 Marley in his pigtail, usual waistcoat, tights and boots; the tassels on the latter bristling, like his pigtail, and his coat-skirts, and the hair upon his head.
 The chain he drew was clasped about his middle.
@@ -321,6 +325,7 @@ At this the spirit raised a frightful cry, and shook its chain with such a disma
 But how much greater was his horror, when the phantom taking off the bandage round its head, as if it were too warm to wear indoors, its lower jaw dropped down upon its breast!
 Scrooge fell upon his knees, and clasped his hands before his face.
 "Mercy!"
+he said.
 "Dreadful apparition, why do you trouble me?"
 "Man of the worldly mind!"
 replied the Ghost, "do you believe in me or not?"
@@ -435,7 +440,7 @@ It was double-locked, as he had locked it with his own hands, and the bolts were
 He tried to say "Humbug!"
 but stopped at the first syllable.
 And being, from the emotion he had undergone, or the fatigues of the day, or his glimpse of the Invisible World, or the dull conversation of the Ghost, or the lateness of the hour, much in need of repose; went straight to bed, without undressing, and fell asleep upon the instant.
-STAVE II:  THE FIRST OF THE THREE SPIRITS  WHEN Scrooge awoke, it was so dark, that looking out of bed, he could scarcely distinguish the transparent window from the opaque walls of his chamber.
+WHEN Scrooge awoke, it was so dark, that looking out of bed, he could scarcely distinguish the transparent window from the opaque walls of his chamber.
 He was endeavouring to pierce the darkness with his ferret eyes, when the chimes of a neighbouring church struck the four quarters.
 So he listened for the hour.
 To his great astonishment the heavy bell went on from six to seven, and from seven to eight, and regularly up to twelve; then stopped.
@@ -505,7 +510,7 @@ He then made bold to inquire what business brought him there.
 "Your welfare!"
 said the Ghost.
 Scrooge expressed himself much obliged, but could not help thinking that a night of unbroken rest would have been more conducive to that end.
-The Spirit must have heard him thinking, for it said immediately:  "Your reclamation, then.
+The Spirit must have heard him thinking, for it said immediately: "Your reclamation, then.
 Take heed!"
 It put out its strong hand as it spoke, and clasped him gently by the arm.
 "Rise!
@@ -588,6 +593,7 @@ Halloa!
 Hoop!
 Halloo!"
 Then, with a rapidity of transition very foreign to his usual character, he said, in pity for his former self, "Poor boy!"
+and cried again.
 "I wish," Scrooge muttered, putting his hand in his pocket, and looking about him, after drying his eyes with his cuff: "but it's too late now."
 "What is the matter?"
 asked the Spirit.
@@ -642,16 +648,17 @@ The Ghost stopped at a certain warehouse door, and asked Scrooge if he knew it.
 said Scrooge.
 "Was I apprenticed here!"
 They went in.
-At sight of an old gentleman in a Welsh wig, sitting behind such a high desk, that if he had been two inches taller he must have knocked his head against the ceiling, Scrooge cried in great excitement:  "Why, it's old Fezziwig!
+At sight of an old gentleman in a Welsh wig, sitting behind such a high desk, that if he had been two inches taller he must have knocked his head against the ceiling, Scrooge cried in great excitement: "Why, it's old Fezziwig!
 Bless his heart; it's Fezziwig alive again!"
 Old Fezziwig laid down his pen, and looked up at the clock, which pointed to the hour of seven.
-He rubbed his hands; adjusted his capacious waistcoat; laughed all over himself, from his shoes to his organ of benevolence; and called out in a comfortable, oily, rich, fat, jovial voice:  "Yo ho, there!
+He rubbed his hands; adjusted his capacious waistcoat; laughed all over himself, from his shoes to his organ of benevolence; and called out in a comfortable, oily, rich, fat, jovial voice: "Yo ho, there!
 Ebenezer!
 Dick!"
 Scrooge's former self, now grown a young man, came briskly in, accompanied by his fellow-'prentice.
 "Dick Wilkins, to be sure!"
 said Scrooge to the Ghost.
 "Bless me, yes.
+There he is.
 He was very much attached to me, was Dick.
 Poor Dick!
 Dear, dear!"
@@ -708,7 +715,8 @@ It was not until now, when the bright faces of his former self and Dick were tur
 "A small matter," said the Ghost, "to make these silly folks so full of gratitude."
 "Small!"
 echoed Scrooge.
-The Spirit signed to him to listen to the two apprentices, who were pouring out their hearts in praise of Fezziwig: and when he had done so, said,  "Why!
+The Spirit signed to him to listen to the two apprentices, who were pouring out their hearts in praise of Fezziwig: and when he had done so, said, "Why!
+Is it not?
 He has spent but a few pounds of your mortal money: three or four perhaps.
 Is that so much that he deserves this praise?"
 "It isn't that," said Scrooge, heated by the remark, and speaking unconsciously like his former, not his latter, self.
@@ -738,14 +746,17 @@ He was not alone, but sat by the side of a fair young girl in a mourning-dress: 
 "To you, very little.
 Another idol has displaced me; and if it can cheer and comfort you in time to come, as I would have tried to do, I have no just cause to grieve."
 "What Idol has displaced you?"
+he rejoined.
 "A golden one."
 "This is the even-handed dealing of the world!"
+he said.
 "There is nothing on which it is so hard as poverty; and there is nothing it professes to condemn with such severity as the pursuit of wealth!"
 "You fear the world too much," she answered, gently.
 "All your other hopes have merged into the hope of being beyond the chance of its sordid reproach.
 I have seen your nobler aspirations fall off one by one, until the master-passion, Gain, engrosses you.
 Have I not?"
 "What then?"
+he retorted.
 "Even if I have grown so much wiser, what then?
 I am not changed towards you."
 She shook her head.
@@ -839,7 +850,7 @@ In the struggle, if that can be called a struggle in which the Ghost with no vis
 The Spirit dropped beneath it, so that the extinguisher covered its whole form; but though Scrooge pressed it down with all his force, he could not hide the light: which streamed from under it, in an unbroken flood upon the ground.
 He was conscious of being exhausted, and overcome by an irresistible drowsiness; and, further, of being in his own bedroom.
 He gave the cap a parting squeeze, in which his hand relaxed; and had barely time to reel to bed, before he sank into a heavy sleep.
-STAVE III:  THE SECOND OF THE THREE SPIRITS  AWAKING in the middle of a prodigiously tough snore, and sitting up in bed to get his thoughts together, Scrooge had no occasion to be told that the bell was again upon the stroke of One.
+AWAKING in the middle of a prodigiously tough snore, and sitting up in bed to get his thoughts together, Scrooge had no occasion to be told that the bell was again upon the stroke of One.
 He felt that he was restored to consciousness in the right nick of time, for the especial purpose of holding a conference with the second messenger despatched to him through Jacob Marley's intervention.
 But finding that he turned uncomfortably cold when he began to wonder which of his curtains this new spectre would draw back, he put them every one aside with his own hands; and lying down again, established a sharp look-out all round the bed.
 For he wished to challenge the Spirit on the moment of its appearance, and did not wish to be taken by surprise, and made nervous.
@@ -911,6 +922,7 @@ And at the same time there emerged from scores of bye-streets, lanes, and namele
 The sight of these poor revellers appeared to interest the Spirit very much, for he stood with Scrooge beside him in a baker's doorway, and taking off the covers as their bearers passed, sprinkled incense on their dinners from his torch.
 And it was a very uncommon kind of torch, for once or twice when there were angry words between some dinner-carriers who had jostled each other, he shed a few drops of water on them from it, and their good humour was restored directly.
 For they said, it was a shame to quarrel upon Christmas Day.
+And so it was!
 God love it, so it was!
 In time the bells ceased, and the bakers were shut up; and yet there was a genial shadowing forth of all these dinners and the progress of their cooking, in the thawed blotch of wet above each baker's oven; where the pavement smoked as if its stones were cooking too.
 "Is there a peculiar flavour in what you sprinkle from your torch?"
@@ -943,6 +955,7 @@ Remember that, and charge their doings on themselves, not us."
 Scrooge promised that he would; and they went on, invisible, as they had been before, into the suburbs of the town.
 It was a remarkable quality of the Ghost (which Scrooge had observed at the baker's), that notwithstanding his gigantic size, he could accommodate himself to any place with ease; and that he stood beneath a low roof quite as gracefully and like a supernatural creature, as it was possible he could have done in any lofty hall.
 And perhaps it was the pleasure the good Spirit had in showing off this power of his, or else it was his own kind, generous, hearty nature, and his sympathy with all poor men, that led him straight to Scrooge's clerk's; for there he went, and took Scrooge with him, holding to his robe; and on the threshold of the door the Spirit smiled, and stopped to bless Bob Cratchit's dwelling with the sprinkling of his torch.
+Think of that!
 Bob had but fifteen "Bob" a-week himself; he pocketed on Saturdays but fifteen copies of his Christian name; and yet the Ghost of Christmas Present blessed his four-roomed house!
 Then up rose Mrs. Cratchit, Cratchit's wife, dressed out but poorly in a twice-turned gown, but brave in ribbons, which are cheap and make a goodly show for sixpence; and she laid the cloth, assisted by Belinda Cratchit, second of her daughters, also brave in ribbons; while Master Peter Cratchit plunged a fork into the saucepan of potatoes, and getting the corners of his monstrous shirt collar (Bob's private property, conferred upon his son and heir in honour of the day) into his mouth, rejoiced to find himself so gallantly attired, and yearned to show his linen in the fashionable Parks.
 And now two smaller Cratchits, boy and girl, came tearing in, screaming that outside the baker's they had smelt the goose, and known it for their own; and basking in luxurious thoughts of sage and onion, these young Cratchits danced about the table, and exalted Master Peter Cratchit to the skies, while he (not proud, although his collars nearly choked him) blew the fire, until the slow potatoes bubbling up, knocked loudly at the saucepan-lid to be let out and peeled.
@@ -1014,7 +1027,7 @@ The compound in the jug being tasted, and considered perfect, apples and oranges
 Then all the Cratchit family drew round the hearth, in what Bob Cratchit called a circle, meaning half a one; and at Bob Cratchit's elbow stood the family display of glass.
 Two tumblers, and a custard-cup without a handle.
 These held the hot stuff from the jug, however, as well as golden goblets would have done; and Bob served it out with beaming looks, while the chestnuts on the fire sputtered and cracked noisily.
-Then Bob proposed:  "A Merry Christmas to us all, my dears.
+Then Bob proposed: "A Merry Christmas to us all, my dears.
 God bless us!"
 Which all the family re-echoed.
 "God bless us every one!"
@@ -1028,6 +1041,7 @@ If these shadows remain unaltered by the Future, the child will die."
 "Oh, no, kind Spirit!
 say he will be spared."
 "If these shadows remain unaltered by the Future, none other of my race," returned the Ghost, "will find him here.
+What then?
 If he be like to die, he had better do it, and decrease the surplus population."
 Scrooge hung his head to hear his own words quoted by the Spirit, and was overcome with penitence and grief.
 "Man," said the Ghost, "if man you be in heart, not adamant, forbear that wicked cant until you have discovered What the surplus is, and Where it is.
@@ -1191,7 +1205,7 @@ But this the Spirit said could not be done.
 It was a Game called Yes and No, where Scrooge's nephew had to think of something, and the rest must find out what; he only answering to their questions yes or no, as the case was.
 The brisk fire of questioning to which he was exposed, elicited from him that he was thinking of an animal, a live animal, rather a disagreeable animal, a savage animal, an animal that growled and grunted sometimes, and talked sometimes, and lived in London, and walked about the streets, and wasn't made a show of, and wasn't led by anybody, and didn't live in a menagerie, and was never killed in a market, and was not a horse, or an ass, or a cow, or a bull, or a tiger, or a dog, or a pig, or a cat, or a bear.
 At every fresh question that was put to him, this nephew burst into a fresh roar of laughter; and was so inexpressibly tickled, that he was obliged to get up off the sofa and stamp.
-At last the plump sister, falling into a similar state, cried out:  "I have found it out!
+At last the plump sister, falling into a similar state, cried out: "I have found it out!
 I know what it is, Fred!
 I know what it is!"
 "What is it?"
@@ -1204,6 +1218,7 @@ ought to have been "Yes;" inasmuch as an answer in the negative was sufficient t
 Here is a glass of mulled wine ready to our hand at the moment; and I say, 'Uncle Scrooge!'"
 "Well!
 Uncle Scrooge!"
+they cried.
 "A Merry Christmas and a Happy New Year to the old man, whatever he is!"
 said Scrooge's nephew.
 "He wouldn't take it from me, but may he have it, nevertheless.
@@ -1233,6 +1248,7 @@ Is it a foot or a claw?"
 From the foldings of its robe, it brought two children; wretched, abject, frightful, hideous, miserable.
 They knelt down at its feet, and clung upon the outside of its garment.
 "Oh, Man!
+look here.
 Look, look, down here!"
 exclaimed the Ghost.
 They were a boy and girl.
@@ -1243,6 +1259,7 @@ No change, no degradation, no perversion of humanity, in any grade, through all 
 Scrooge started back, appalled.
 Having them shown to him in this way, he tried to say they were fine children, but the words choked themselves, rather than be parties to a lie of such enormous magnitude.
 "Spirit!
+are they yours?"
 Scrooge could say no more.
 "They are Man's," said the Spirit, looking down upon them.
 "And they cling to me, appealing from their fathers.
@@ -1262,7 +1279,7 @@ said the Spirit, turning on him for the last time with his own words.
 The bell struck twelve.
 Scrooge looked about him for the Ghost, and saw it not.
 As the last stroke ceased to vibrate, he remembered the prediction of old Jacob Marley, and lifting up his eyes, beheld a solemn Phantom, draped and hooded, coming, like a mist along the ground, towards him.
-STAVE IV:  THE LAST OF THE SPIRITS  THE Phantom slowly, gravely, silently, approached.
+THE Phantom slowly, gravely, silently, approached.
 When it came near him, Scrooge bent down upon his knee; for in the very air through which this Spirit moved it seemed to scatter gloom and mystery.
 It was shrouded in a deep black garment, which concealed its head, its face, its form, and left nothing of it visible save one outstretched hand.
 But for this it would have been difficult to detach its figure from the night, and separate it from the darkness by which it was surrounded.
@@ -1332,6 +1349,7 @@ He had made a point always of standing well in their esteem: in a business point
 "How are you?"
 said one.
 "How are you?"
+returned the other.
 "Well!"
 said the first.
 "Old Scratch has got his own at last, hey?"
@@ -1558,10 +1576,11 @@ It must be near his time."
 "Past it rather," Peter answered, shutting up his book.
 "But I think he has walked a little slower than he used, these few last evenings, mother."
 They were very quiet again.
-At last she said, and in a steady, cheerful voice, that only faltered once:  "I have known him walk with--I have known him walk with Tiny Tim upon his shoulder, very fast indeed."
+At last she said, and in a steady, cheerful voice, that only faltered once: "I have known him walk with--I have known him walk with Tiny Tim upon his shoulder, very fast indeed."
 "And so have I," cried Peter.
 "Often."
 "And so have I," exclaimed another.
+So had all.
 "But he was very light to carry," she resumed, intent upon her work, "and his father loved him so, that it was no trouble: no trouble.
 And there is your father at the door!"
 She hurried out to meet him; and little Bob in his comforter --he had need of it, poor fellow--came in.
@@ -1617,8 +1636,10 @@ retorted Peter, grinning.
 "It's just as likely as not," said Bob, "one of these days; though there's plenty of time for that, my dear.
 But however and whenever we part from one another, I am sure we shall none of us forget poor Tiny Tim--shall we--or this first parting that there was among us?"
 "Never, father!"
+cried they all.
 "And I know," said Bob, "I know, my dears, that when we recollect how patient and how mild he was; although he was a little, little child; we shall not quarrel easily among ourselves, and forget poor Tiny Tim in doing it."
 "No, never, father!"
+they all cried again.
 "I am very happy," said little Bob, "I am very happy!"
 Mrs. Cratchit kissed him, his daughters kissed him, the two young Cratchits kissed him, and Peter and himself shook hands.
 Spirit of Tiny Tim, thy childish essence was from God!
@@ -1681,7 +1702,8 @@ It sought to free itself, but he was strong in his entreaty, and detained it.
 The Spirit, stronger yet, repulsed him.
 Holding up his hands in a last prayer to have his fate reversed, he saw an alteration in the Phantom's hood and dress.
 It shrunk, collapsed, and dwindled down into a bedpost.
-STAVE V:  THE END OF IT  YES!
+YES!
+and the bedpost was his own.
 The bed was his own, the room was his own.
 Best and happiest of all, the Time before him was his own, to make amends in!
 "I will live in the Past, the Present, and the Future!"
@@ -1694,14 +1716,16 @@ He was so fluttered and so glowing with his good intentions, that his broken voi
 He had been sobbing violently in his conflict with the Spirit, and his face was wet with tears.
 "They are not torn down," cried Scrooge, folding one of his bed-curtains in his arms, "they are not torn down, rings and all.
 They are here--I am here--the shadows of the things that would have been, may be dispelled.
+They will be.
 I know they will!"
 His hands were busy with his garments all this time; turning them inside out, putting them on upside down, tearing them, mislaying them, making them parties to every kind of extravagance.
 "I don't know what to do!"
-cried Scrooge, laughing and crying in the same breath; and making a perfect Laocoön of himself with his stockings.
+cried Scrooge, laughing and crying in the same breath; and making a perfect Laocoon of himself with his stockings.
 "I am as light as a feather, I am as happy as an angel, I am as merry as a schoolboy.
 I am as giddy as a drunken man.
 A merry Christmas to everybody!
 A happy New Year to all the world.
+Hallo here!
 Whoop!
 Hallo!"
 He had frisked into the sitting-room, and was now standing there: perfectly winded.
@@ -1791,6 +1815,7 @@ What an honest expression it has in its face!
 It's a wonderful knocker!--Here's the Turkey!
 Hallo!
 Whoop!
+How are you!
 Merry Christmas!"
 It was a Turkey!
 He never could have stood upon his legs, that bird.
@@ -1812,8 +1837,7 @@ It sent a pang across his heart to think how this old gentleman would look upon 
 I hope you succeeded yesterday.
 It was very kind of you.
 A merry Christmas to you, sir!"
-"Mr.
-Scrooge?"
+"Mr. Scrooge?"
 "Yes," said Scrooge.
 "That is my name, and I fear it may not be pleasant to you.
 Allow me to ask your pardon.
@@ -1826,7 +1850,7 @@ cried the gentleman, as if his breath were taken away.
 A great many back-payments are included in it, I assure you.
 Will you do me that favour?"
 "My dear sir," said the other, shaking hands with him.
-"I don't know what to say to such munifi--"  "Don't say anything, please," retorted Scrooge.
+"I don't know what to say to such munifi--" "Don't say anything, please," retorted Scrooge.
 "Come and see me.
 Will you come and see me?"
 "I will!"
@@ -1840,7 +1864,7 @@ He went to church, and walked about the streets, and watched the people hurrying
 He had never dreamed that any walk--that anything--could give him so much happiness.
 In the afternoon he turned his steps towards his nephew's house.
 He passed the door a dozen times, before he had the courage to go up and knock.
-But he made a dash, and did it:  "Is your master at home, my dear?"
+But he made a dash, and did it: "Is your master at home, my dear?"
 said Scrooge to the girl.
 Nice girl!
 Very.
@@ -1864,6 +1888,7 @@ cried Fred, "who's that?"
 Your uncle Scrooge.
 I have come to dinner.
 Will you let me in, Fred?"
+Let him in!
 It is a mercy he didn't shake his arm off.
 He was at home in five minutes.
 Nothing could be heartier.
