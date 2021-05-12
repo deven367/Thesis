@@ -10,6 +10,9 @@ __pycache__/
 
 .virtual_documents
 
+# ignore vscode settings
+.vscode
+
 <<<<<<< HEAD
 *.mat
 =======
