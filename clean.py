@@ -29,3 +29,16 @@ def make_sentences(all):
     all_cleaned = unidecode.unidecode(all_cleaned)
     sentences = sent_tokenize(all_cleaned)
     return sentences
+
+def write_to_file_lexical(sentences, fname):
+    with open(fname[:-4]+'_lexical.txt', 'w') as f:
+        for line in sentences:
+            f.write(line + '\n')
+    f.close()
+
+def write_to_file_cleaned(sentences, fname):
+    with open(fname[:-4]+'_cleaned.txt', 'w') as f:
+        for line in sentences:
+            f.write(line + '\n')
+    f.close()
+
