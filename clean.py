@@ -52,6 +52,13 @@ def get_wordnet_pos(word):
                 "R": wordnet.ADV}
 
     return tag_dict.get(tag, wordnet.NOUN)
+
+def clean(fname):
+    all = get_data(fname)
+    sentences = make_sentences(all)
+    print(fname[:-4].title() + ' contains {} sentences'.format(len(sentences)))
+    write_to_file_cleaned(sentences, fname)
+
 def remove_stopwords(text):
     sentence = []
     for word in text.split():
