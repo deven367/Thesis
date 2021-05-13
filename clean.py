@@ -42,3 +42,9 @@ def write_to_file_cleaned(sentences, fname):
             f.write(line + '\n')
     f.close()
 
+def remove_stopwords(text):
+    sentence = []
+    for word in text.split():
+        if word not in STOPWORDS:
+            sentence.append(word)
+    return ' '.join(sentence)
