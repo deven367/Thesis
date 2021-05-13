@@ -3,6 +3,10 @@ import seaborn as sns
 import numpy as np
 import pickle
 import os
+import pandas as pd
+
+def normalize(data):
+    return (data - np.min(data)) / (np.max(data) - np.min(data))
 
 def plot(data, name):
     for i in range(len(data)):
