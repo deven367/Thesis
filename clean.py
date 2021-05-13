@@ -21,3 +21,11 @@ def rm_useless_spaces(t):
     "Remove multiple spaces"
     _re_space = re.compile(' {2,}')
     return _re_space.sub(' ', t)
+
+def make_sentences(all):
+    all_cleaned = all.replace('\n',' ')
+    all_cleaned = rm_useless_spaces(all_cleaned)
+    all_cleaned = all_cleaned.strip()
+    all_cleaned = unidecode.unidecode(all_cleaned)
+    sentences = sent_tokenize(all_cleaned)
+    return sentences
