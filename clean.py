@@ -12,3 +12,12 @@ from nltk.stem import WordNetLemmatizer
 STOPWORDS = set(stopwords.words('english'))
 
 from collections import OrderedDict
+def get_data(fname):
+    with open(fname, 'r') as f:
+        all = f.read()
+    return all
+
+def rm_useless_spaces(t):
+    "Remove multiple spaces"
+    _re_space = re.compile(' {2,}')
+    return _re_space.sub(' ', t)
