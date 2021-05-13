@@ -58,6 +58,22 @@ def remove_stopwords(text):
         if word not in STOPWORDS:
             sentence.append(word)
     return ' '.join(sentence)
+
+def remove_punc_clean(sentence):
+    pat2 = re.compile('[^a-zA-Z0-9 ]+')
+    pat1 = re.compile('[\s]+')
+
+    doc = pat2.sub(' ', sentence)
+    doc = pat1.sub(' ', doc)
+    doc = doc.strip().lower()
+
+    doc = remove_stopwords(doc)
+    # doc = ' '.join(list(OrderedDict.fromkeys(doc.split())))
+
+    lemmatizer = WordNetLemmatizer()
+    doc = ' '.join([lemmatizer.lemmatize(w, get_wordnet_pos(w)) for w in doc.split()])
+    return doc
+
 def process_v2(fname):
     all_data = get_data(fname)
     all_data = unidecode.unidecode(all_data)
