@@ -10,7 +10,7 @@ def normalize(data):
 
 def plot(data, name):
     for i in range(len(data)):
-        plt.figure(figsize = (12,7))
+        plt.figure()
 
         values = list(data[i].values())
         labels = list(data[i].keys())
