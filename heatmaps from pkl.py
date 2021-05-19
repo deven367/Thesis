@@ -16,6 +16,13 @@ def plot(data, name):
         labels = list(data[i].keys())
 
         ax = sns.heatmap(values, yticklabels = labels, cmap = 'hot', vmin = -1, vmax = 1)
+        '''
+            code to check whether all strips are of same length
+        '''
+        np_values = np.asarray(values)
+        for val, lab in zip(np_values, labels):
+            print('{} Length is {}'.format(lab, len(val)))
+
 
         for j in range(len(data[i].keys())):
             ax.axhline(j, color='white', lw=2)
