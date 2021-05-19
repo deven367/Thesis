@@ -23,6 +23,13 @@ def plot(data, name):
         for val, lab in zip(np_values, labels):
             print('{} Length is {}'.format(lab, len(val)))
 
+        # normalize each strip separately, if null, put zero
+        norm_ = []
+        for val in values:
+            if np.count_nonzero(np.isnan(val)) > 0:
+                val = np.nan_to_num(val, nan=0)
+            norm_.append(normalize(val))
+
 
         for j in range(len(data[i].keys())):
             ax.axhline(j, color='white', lw=2)
