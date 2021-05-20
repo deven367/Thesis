@@ -118,18 +118,24 @@ def cos_sim(a, b):
 
 def label(arg):
     switcher = {
-        'dcltr_base': "Declutr Base",
-        'dcltr_sm': "Declutr Small",
+        'dcltr_base': "DeCLUTR Base",
+        'dcltr_sm': "DeCLUTR Small",
         'distil': "DistilBERT",
         'if_FT': "InferSent FastText",
         'if_glove': "InferSent GloVe",
         'roberta': "RoBERTa",
-        'use': "USE"
+        'use': "USE",
+        'new_lex': 'Lexical Vectors',
+        'old_lex': 'Lexical Weights'
     }
     return switcher.get(arg)
 
 def create_label_whole_book(method, parent_dir):
-    return parent_dir.title() + ' ' + label(method)
+    # returns only the method name
+    return label(method)
+
+    # Format of Book name + Method
+    # return parent_dir.title() + ' ' + label(method)
 
 def create_label(index, method, parent_dir):
     met = label(method)
@@ -141,8 +147,8 @@ def get_embed_method_and_name(fname):
 
 if __name__ == '__main__':
     # master_dictionary = {}
-    embedding_path = '../final/mackail/'
+    embedding_path = '../final/novels/heart of darkness/'
     k = 1
-    create_dict(embedding_path, k, mackail_aeneid)
-    # create_dict_whole_book(embedding_path, k)
+    # create_dict(embedding_path, k, mackail_aeneid)
+    create_dict_whole_book(embedding_path, k)
     # print(len(bl_ody))
