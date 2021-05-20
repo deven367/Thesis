@@ -53,6 +53,9 @@ def plot(data, name):
         print("Created {}".format(title))
         # break
 
+def get_title(name):
+    return name.split('_whole')[0].title()
+
 def iterator(embedding_path):
     for fx in os.listdir(embedding_path):
         if fx.endswith('.pkl'):
