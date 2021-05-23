@@ -126,7 +126,9 @@ def label(arg):
         'roberta': "RoBERTa",
         'use': "USE",
         'new_lex': 'Lexical Vectors',
-        'old_lex': 'Lexical Weights'
+        'old_lex': 'Lexical Weights',
+        'lexical_wt': 'Lexical Weights',
+        'lex_vect': 'Lexical Vectors'
     }
     return switcher.get(arg)
 
