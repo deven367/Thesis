@@ -42,7 +42,7 @@ def plot(data, name):
         organized_labels = ['DeCLUTR Base','DeCLUTR Small', 'InferSent FastText', 'InferSent GloVe','DistilBERT', 'RoBERTa', 'USE','Lexical Vectors', 'Lexical Weights']
         df2 = df[ organized_labels]
         print(df2.head())
-        df2.T.to_csv(get_title(name)+'.csv')
+        # df2.T.to_csv(get_title(name)+'.csv')
         # ax = sns.heatmap(values, yticklabels = labels, cmap = 'hot', vmin = -1, vmax = 1)
 
         # normalized heatmap
@@ -70,7 +70,7 @@ def plot(data, name):
         plt.title(title)
         # plt.tight_layout()
         # plt.show()
-        # plt.savefig(title + '.png', dpi = 300, bbox_inches='tight')
+        plt.savefig(title + '.png', dpi = 300, bbox_inches='tight')
         print("Created {}".format(title))
         print('-'*45)
         # break
