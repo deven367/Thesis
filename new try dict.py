@@ -80,7 +80,7 @@ def create_dict_whole_book(embedding_path, k):
 
             sub_dict[name] = ts
 
-        if fx.endswith('_new_lex.npy'):
+        if fx.endswith('_vect.npy'):
             name = fx[:-4]
             embed = np.load(embedding_path+fx)
             book_name, method = get_embed_method_and_name(name)
@@ -91,7 +91,7 @@ def create_dict_whole_book(embedding_path, k):
             sub_dict[name] = embed
 
 
-        if fx.endswith('_old_lex.npy'):
+        if fx.endswith('_wt.npy'):
             name = fx[:-4]
             embed = np.load(embedding_path+fx)
             book_name, method = get_embed_method_and_name(name)
