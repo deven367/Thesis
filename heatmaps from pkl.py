@@ -39,7 +39,7 @@ def plot(data, name):
         '''
         df = pd.DataFrame(np.asarray(norm_).transpose(), columns = labels)
 
-        organized_labels = ['DeCLUTR Base','DeCLUTR Small', 'InferSent FastText', 'InferSent GloVe','DistilBERT', 'RoBERTa', 'USE','Lexical Vectors', 'Lexical Weights']
+        organized_labels = ['DeCLUTR Base','DeCLUTR Small', 'InferSent FastText', 'InferSent GloVe','DistilBERT', 'RoBERTa', 'USE','Lexical Weights', 'Lexical Vectors']
         df2 = df[ organized_labels]
         print(df2.head())
         # df2.T.to_csv(get_title(name)+'.csv')
