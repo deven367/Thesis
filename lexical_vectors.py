@@ -100,32 +100,24 @@ def iterator(path):
     print('Found pmi, dictionary, sentences and removed indices')
     return pmi, d, sentences, removed_indices
 
-def interpolate(lex_vectors, removed_indices = hod_mi):
-    if removed_indices == []:
-        return lex_vectors
-
-    for index in removed_indices[::-1]:
-        lex_vectors = np.insert(lex_vectors, index, lex_vectors[index - 1])
-    # for i,index in enumerate(removed_indices):
-    #     if i == 0:
-    #         lex_vectors = np.insert(lex_vectors, index, lex_vectors[index - 1])
-    #     else:
-    #         lex_vectors = np.insert(lex_vectors, index - i + 1, lex_vectors[index - i + 1])
-
-    return lex_vectors
+def interpolate(lex, removed_indices = []):
+    for index in removed_indices:
+        if index < len(lex):
+            lex = np.insert(lex, index, lex[index - 1])
+    return lex
 
 if __name__ == '__main__':
-    path = '../final/lexical results/heart of darkness/'
+    path = '../final/lexical results/the prophet/'
     parent_dir = os.path.basename(os.path.dirname(path))
 
     pmi, d, sentences, removed_indices = iterator(path)
     k = 1
     newlex_vectors = generate_lexical_vectors(pmi, d, sentences, k)
     lex_vectors = interpolate(newlex_vectors)
-    np.save(path + parent_dir + ' new lex.npy', lex_vectors)
+    np.save(path + parent_dir + '_cleaned_lex_vect.npy', lex_vectors)
 
     oldlex_vectors = get_all_scores(pmi, d, sentences, k)
     lex_vectors = interpolate(oldlex_vectors)
-    np.save(path + parent_dir + ' old lex.npy', lex_vectors)
+    np.save(path + parent_dir + '_cleaned_lexical_wt.npy', lex_vectors)
     print('Length before interpolation {}'.format(len(oldlex_vectors)))
     print('Length after interpolation {}'.format(len(lex_vectors)))
