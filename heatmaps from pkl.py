@@ -10,7 +10,6 @@ def normalize(data):
 
 def plot(data, name):
     for i in range(len(data)):
-        plt.figure()
 
         values = list(data[i].values())
         labels = list(data[i].keys())
@@ -41,7 +40,10 @@ def plot(data, name):
         organized_labels = ['DeCLUTR Base','DeCLUTR Small', 'InferSent FastText', 'InferSent GloVe','DistilBERT', 'RoBERTa', 'USE','Lexical Weights', 'Lexical Vectors', 'Lexical Vectors (Corr)']
         df2 = df[ organized_labels]
         print(df2.head())
-        # df2.T.to_csv(get_title(name)+'.csv')
+        choice = input('Do you want to save a csv? ')
+        if choice == 'y' or choice == 'Y':
+            df2.to_csv(get_title(name)+'.csv')
+
         # ax = sns.heatmap(values, yticklabels = labels, cmap = 'hot', vmin = -1, vmax = 1)
 
         # normalized heatmap
