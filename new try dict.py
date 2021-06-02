@@ -139,7 +139,8 @@ def label(arg):
         'new_lex': 'Lexical Vectors',
         'old_lex': 'Lexical Weights',
         'lexical_wt': 'Lexical Weights',
-        'lex_vect': 'Lexical Vectors'
+        'lex_vect': 'Lexical Vectors',
+        'lex_vect_corr_ts': 'Lexical Vectors (Corr)'
     }
     return switcher.get(arg)
 
