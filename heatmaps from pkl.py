@@ -8,7 +8,7 @@ import pandas as pd
 def normalize(data):
     return (data - np.min(data)) / (np.max(data) - np.min(data))
 
-def plot(data, name):
+def plot(path, data, name):
     for i in range(len(data)):
 
         values = list(data[i].values())
@@ -86,10 +86,10 @@ def iterator(embedding_path):
             # print("Loaded "+fx)
             fname = open(embedding_path+fx, 'rb')
             data = pickle.load(fname)
-            plot(data, name)
+            plot(embedding_path, data, name)
             #print(data[0].values())
             # break
 
 if __name__ == '__main__':
-    embedding_path = './'
+    embedding_path = './10 strip plots/'
     iterator(embedding_path)
