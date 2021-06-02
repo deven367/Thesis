@@ -84,6 +84,15 @@ def generate_lexical_vectors(pmi, d, sentences, k):
         lex_vectors.append(similarity_bwn_word_vectors(pmi, d, sentences[i], sentences[i+k]))
     return np.asarray(lex_vectors)
 
+def generate_lexical_vectors_corr(pmi, d, sentences, k, removed_indices):
+    lex_vectors = []
+    for i in range(len(sentences) - k):
+        lex_vectors.append(corr_coeff(pmi, d, sentences[i], sentences[i+k]))
+
+    print('Length before interpolation', len(lex_vectors))
+    lex_vectors = interpolate(lex_vectors, removed_indices)
+    print('Length after interpolation', len(lex_vectors))
+    return np.asarray(lex_vectors)
 
 def get_all_scores(pmi, d, all_sentences, k):
     successive = []
