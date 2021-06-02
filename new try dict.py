@@ -101,6 +101,17 @@ def create_dict_whole_book(embedding_path, k):
 
             sub_dict[name] = embed
 
+        if fx.endswith('_corr_ts.npy'):
+            name = fx[:-4]
+            embed = np.load(embedding_path+fx)
+            book_name, method = get_embed_method_and_name(name)
+            # ts = successive_similarities(embed, k)
+
+            name = create_label_whole_book(method, parent_dir)
+            print('Found Lex Corr', name)
+            sub_dict[name] = embed
+
+
     mdict[0] = sub_dict
     pickle.dump(mdict, open(parent_dir +'_whole.pkl', 'wb'))
 
