@@ -61,6 +61,23 @@ def similarity_bwn_word_vectors(pmi, d, sentence_a, sentence_b):
         c = np.true_divide(s, pairs)
     return c
 
+from scipy.stats import pearsonr
+
+def corr_coeff(pmi, d, sentence_a, sentence_b):
+    s = 0
+    pairs = 0
+    for word_1 in sentence_a.split():
+        for word_2 in sentence_b.split():
+            x = d.token2id.get(word_1,-1)
+            y = d.token2id.get(word_2,-1)
+            if x == -1 or y == -1:
+                continue
+            s += pearsonr(pmi[x], pmi[y])[0]
+            pairs += 1
+    with np.errstate(divide='ignore', invalid='ignore'):
+        c = np.true_divide(s, pairs)
+    return c
+
 def generate_lexical_vectors(pmi, d, sentences, k):
     lex_vectors = []
     for i in range(len(sentences) - k):
