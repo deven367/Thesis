@@ -38,8 +38,7 @@ def plot(data, name):
             5. Plot transpose of the df
         '''
         df = pd.DataFrame(np.asarray(norm_).transpose(), columns = labels)
-
-        organized_labels = ['DeCLUTR Base','DeCLUTR Small', 'InferSent FastText', 'InferSent GloVe','DistilBERT', 'RoBERTa', 'USE','Lexical Weights', 'Lexical Vectors']
+        organized_labels = ['DeCLUTR Base','DeCLUTR Small', 'InferSent FastText', 'InferSent GloVe','DistilBERT', 'RoBERTa', 'USE','Lexical Weights', 'Lexical Vectors', 'Lexical Vectors (Corr)']
         df2 = df[ organized_labels]
         print(df2.head())
         # df2.T.to_csv(get_title(name)+'.csv')
