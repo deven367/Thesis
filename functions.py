@@ -29,7 +29,9 @@ import matplotlib.pyplot as plt
 
 def plot_heatmap(embeddings, fname):
     cmp = newcmp(0,0,256)
-    sns.heatmap(cosine_similarity(embeddings, embeddings) ,square=True, cmap='hot', vmin=0, vmax = 1)
+    val = cosine_similarity(embeddings, embeddings)
+    norm_ = normalize(val)
+    sns.heatmap(norm_ ,square=True, cmap='hot', vmin=0, vmax = 1)
     # plt.show()
     # inp = input('Do you have want to save the figure? ')
     # if inp == 'y' or inp == 'Y':
