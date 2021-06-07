@@ -5,6 +5,9 @@ import json
 import seaborn as sns
 from sklearn.metrics.pairwise import cosine_similarity
 
+def normalize(data):
+    return (data - np.min(data)) / (np.max(data) - np.min(data))
+
 def newcmp(r,g,b):
     N = 256
     vals = np.ones((N, 4))
