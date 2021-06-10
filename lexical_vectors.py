@@ -113,13 +113,16 @@ def iterator(path):
     for fx in os.listdir(path):
         if fx.endswith('.pkl'):
             d = load_dictionary(path+fx)
+            print('Dictionary: {} loaded'.format(path+fx))
 
-        if fx.endswith('_non_norm.npy'):
+        if fx.endswith('norm.npy'):
             pmi = load_pmi(path+fx)
+            print('NPMI matrix :{} loaded'.format(path+fx))
 
         if fx.endswith('_lexical.txt'):
             data = read_txt(path+fx)
             sentences = get_all_sentences(data)
+            print('Lexical file: {} loaded'.format(path+fx))
 
         # if fx.endswith('_.txt'):
         #     removed_indices = process_v2(path+fx)
