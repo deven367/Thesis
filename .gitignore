@@ -13,11 +13,11 @@ __pycache__/
 # ignore vscode settings
 .vscode
 
-<<<<<<< HEAD
-*.mat
-=======
+
+
+
 .mat
->>>>>>> 826bcbb45bb997136257f721e8ee2862267b8999
+
 
 #ignore
 thoughts.py
