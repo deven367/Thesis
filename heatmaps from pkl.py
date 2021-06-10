@@ -46,13 +46,20 @@ def plot(path, data, name):
 
         # ax = sns.heatmap(values, yticklabels = labels, cmap = 'hot', vmin = -1, vmax = 1)
 
-        # normalized heatmap
-        # ax = sns.heatmap(norm_, yticklabels = labels, cmap = 'hot', vmin = 0, vmax = 1)
+        # ax = sns.heatmap(df2.T, cmap = 'hot', vmin = 0, vmax = 1, xticklabels = 100)
+        title = get_title(name)
 
-        ax = sns.heatmap(df2.T, cmap = 'hot', vmin = 0, vmax = 1, xticklabels = 200)
+        # print(title)
 
-        for j in range(len(data[i].keys())):
-            ax.axhline(j, color='white', lw=2)
+
+        choice = input('Do you want plot a correlation plot? ')
+        if choice == 'y' or choice == 'Y':
+            plt.title(title)
+            sns.heatmap(df2.corr(), cmap = 'hot', vmin = 0, vmax = 1, xticklabels = False, square = True)
+            plt.savefig(path + title + '_corr.png', dpi = 300, bbox_inches='tight')
+            plt.show()
+            # plt.clf()
+
 
         # have the name of the pkl file in the format FN LN BN
         # names = name.split()
