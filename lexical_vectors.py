@@ -142,12 +142,6 @@ if __name__ == '__main__':
 
     pmi, d, sentences, removed_indices = iterator(path)
     k = 1
-    newlex_vectors = generate_lexical_vectors(pmi, d, sentences, k)
-    lex_vectors = interpolate(newlex_vectors)
-    np.save(path + parent_dir + '_cleaned_lex_vect.npy', lex_vectors)
-
-    oldlex_vectors = get_all_scores(pmi, d, sentences, k)
-    lex_vectors = interpolate(oldlex_vectors)
-    np.save(path + parent_dir + '_cleaned_lexical_wt.npy', lex_vectors)
-    print('Length before interpolation {}'.format(len(oldlex_vectors)))
-    print('Length after interpolation {}'.format(len(lex_vectors)))
+    removed_indices = pro_mi
+    lex = generate_lexical_vectors_corr(pmi, d, sentences, k, removed_indices)
+    np.save(path + parent_dir + '_cleaned_lex_vect_corr_ts.npy', lex)
