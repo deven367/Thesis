@@ -16,7 +16,7 @@ __pycache__/
 
 
 
-.mat
+*.mat
 
 
 #ignore
