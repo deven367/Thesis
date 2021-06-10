@@ -72,13 +72,19 @@ def plot(path, data, name):
 
         # format for strip plot of the whole book
         # title = name.title()
-        title = get_title(name)
 
-        # print(title)
+        # normalized heatmap
+        # plt.figure()
+        # ax = sns.heatmap(norm_, yticklabels = labels, cmap = 'hot', vmin = 0, vmax = 1)
         plt.title(title)
+        ax = sns.heatmap(df2.T, cmap = 'hot', vmin = 0, vmax = 1, xticklabels = 100)
+        for j in range(len(data[i].keys())):
+            ax.axhline(j, color='white', lw=1)
+
+
         # plt.tight_layout()
-        # plt.show()
-        plt.savefig(title + '.png', dpi = 300, bbox_inches='tight')
+        plt.savefig(path + title + '.png', dpi = 300, bbox_inches='tight')
+        plt.show()
         print("Created {}".format(title))
         print('-'*45)
         # break
