@@ -2,6 +2,7 @@ import os
 import numpy as np
 import pickle
 import string
+import pathlib
 
 pope_iliad = [218,533,686,861,1172,1367,1533,1751,1997,2152,2422,2564,2834,3006,3268,3565,3802,4003,4136,4296,4516,4744,5037]
 chapman_iliad = [167,369,482,593,785,910,1020,1150,1343,1483,1718,1818,2031,2154,2337,2536,2707,2877,3000,3150,3339,3476,3768]
@@ -58,12 +59,13 @@ def create_dict(embedding_path, k, breakpoints):
                 embed = np.load(embedding_path+fx)
                 ts = time_series_v3(successive_similarities(embed, k), breakpoints)
 
-                name = create_label(book_number, method, parent_dir)
+                name = create_label_whole_book(method, parent_dir)
 
                 sub_dict[name] = ts[book_number]
 
         mdict[book_number] = sub_dict
-    pickle.dump(mdict, open(parent_dir + ' ' +  book_name +'.pkl', 'wb'))
+    # pickle.dump(mdict, open(parent_dir + ' ' +  book_name +'.pkl', 'wb'))
+    pickle.dump(mdict, open(parent_dir +'.pkl', 'wb'))
 
 def create_dict_whole_book(embedding_path, k):
     mdict = {}
@@ -153,7 +155,8 @@ def create_label_whole_book(method, parent_dir):
 
 def create_label(index, method, parent_dir):
     met = label(method)
-    return 'Book ' +str(index + 1) + " " + parent_dir.title() + " " + met
+    # return 'Book ' +str(index + 1) + " " + parent_dir.title() + " " + met
+    return 'Book ' +str(index + 1) + " " + met
 
 def get_embed_method_and_name(fname):
     t = fname.split('_cleaned_')
@@ -161,8 +164,8 @@ def get_embed_method_and_name(fname):
 
 if __name__ == '__main__':
     # master_dictionary = {}
-    embedding_path = '../final/novels/heart of darkness/'
+    embedding_path = '../final/casaubon meditations/'
     k = 1
-    # create_dict(embedding_path, k, mackail_aeneid)
-    create_dict_whole_book(embedding_path, k)
+    create_dict(embedding_path, k, casaubon_meditation)
+    # create_dict_whole_book(embedding_path, k)
     # print(len(bl_ody))
