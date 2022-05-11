@@ -1,4 +1,4 @@
-CHAPTER I.
+
 The studio was filled with the rich odour of roses, and when the light summer wind stirred amidst the trees of the garden, there came through the open door the heavy scent of the lilac, or the more delicate perfume of the pink-flowering thorn.
 From the corner of the divan of Persian saddle-bags on which he was lying, smoking, as was his custom, innumerable cigarettes, Lord Henry Wotton could just catch the gleam of the honey-sweet and honey-coloured blossoms of a laburnum, whose tremulous branches seemed hardly able to bear the burden of a beauty so flamelike as theirs; and now and then the fantastic shadows of birds in flight flitted across the long tussore-silk curtains that were stretched in front of the huge window, producing a kind of momentary Japanese effect, and making him think of those pallid, jade-faced painters of Tokyo who, through the medium of an art that is necessarily immobile, seek to convey the sense of swiftness and motion.
 The sullen murmur of the bees shouldering their way through the long unmown grass, or circling with monotonous insistence round the dusty gilt horns of the straggling woodbine, seemed to make the stillness more oppressive.
@@ -356,7 +356,7 @@ Mind, Harry, I trust you."
 He spoke very slowly, and the words seemed wrung out of him almost against his will.
 "What nonsense you talk!"
 said Lord Henry, smiling, and taking Hallward by the arm, he almost led him into the house.
-CHAPTER II.
+
 As they entered they saw Dorian Gray.
 He was seated at the piano, with his back to them, turning over the pages of a volume of Schumann's "Forest Scenes."
 "You must lend me these, Basil," he cried.
@@ -863,7 +863,7 @@ Harry!"
 Good-bye, Basil.
 It has been a most interesting afternoon."
 As the door closed behind them, the painter flung himself down on a sofa, and a look of pain came into his face.
-CHAPTER III.
+
 At half-past twelve next day Lord Henry Wotton strolled from Curzon Street over to the Albany to call on his uncle, Lord Fermor, a genial if somewhat rough-mannered old bachelor, whom the outside world called selfish because it derived no particular benefit from him, but who was considered generous by Society as he fed the people who amused him.
 His father had been our ambassador at Madrid when Isabella was young and Prim unthought of, but had retired from the diplomatic service in a capricious moment of annoyance on not being offered the Embassy at Paris, a post to which he considered that he was fully entitled by reason of his birth, his indolence, the good English of his dispatches, and his inordinate passion for pleasure.
 The son, who had been his father's secretary, had resigned along with his chief, somewhat foolishly as was thought at the time, and on succeeding some months later to the title, had set himself to the serious study of the great aristocratic art of doing absolutely nothing.
@@ -1230,7 +1230,7 @@ No one talks so wonderfully as you do."
 I have talked quite enough for to-day," said Lord Henry, smiling.
 "All I want now is to look at life.
 You may come and look at it with me, if you care to."
-CHAPTER IV.
+
 One afternoon, a month later, Dorian Gray was reclining in a luxurious arm-chair, in the little library of Lord Henry's house in Mayfair.
 It was, in its way, a very charming room, with its high panelled wainscoting of olive-stained oak, its cream-coloured frieze and ceiling of raised plasterwork, and its brickdust felt carpet strewn with silk, long-fringed Persian rugs.
 On a tiny satinwood table stood a statuette by Clodion, and beside it lay a copy of Les Cent Nouvelles, bound for Margaret of Valois by Clovis Eve and powdered with the gilt daisies that Queen had selected for her device.
@@ -1697,7 +1697,7 @@ He thought of his friend's young fiery-coloured life and wondered how it was all
 When he arrived home, about half-past twelve o'clock, he saw a telegram lying on the hall table.
 He opened it and found it was from Dorian Gray.
 It was to tell him that he was engaged to be married to Sibyl Vane.
-CHAPTER V. "Mother, Mother, I am so happy!"
+
 whispered the girl, burying her face in the lap of the faded, tired-looking woman who, with back turned to the shrill intrusive light, was sitting in the one arm-chair that their dingy sitting-room contained.
 "I am so happy!"
 she repeated, "and you must be happy, too!"
@@ -2139,7 +2139,7 @@ It had pleased her.
 Of the threat she said nothing.
 It was vividly and dramatically expressed.
 She felt that they would all laugh at it some day.
-CHAPTER VI.
+
 "I suppose you have heard the news, Basil?"
 said Lord Henry that evening as Hallward was shown into a little private room at the Bristol where dinner had been laid for three.
 "No, Harry," answered the artist, giving his hat and coat to the bowing waiter.
@@ -2396,7 +2396,7 @@ A strange sense of loss came over him.
 He felt that Dorian Gray would never again be to him all that he had been in the past.
 Life had come between them.... His eyes darkened, and the crowded flaring streets became blurred to his eyes.
 When the cab drew up at the theatre, it seemed to him that he had grown years older.
-CHAPTER VII.
+
 For some reason or other, the house was crowded that night, and the fat Jew manager who met them at the door was beaming from ear to ear with an oily tremulous smile.
 He escorted them to their box with a sort of pompous humility, waving his fat jewelled hands and talking at the top of his voice.
 Dorian Gray loathed him more than ever.
@@ -2795,7 +2795,7 @@ He thought only of Sibyl.
 A faint echo of his love came back to him.
 He repeated her name over and over again.
 The birds that were singing in the dew-drenched garden seemed to be telling the flowers about her.
-CHAPTER VIII.
+
 It was long past noon when he awoke.
 His valet had crept several times on tiptoe into the room to see if he was stirring, and had wondered what made his young master sleep so late.
 Finally his bell sounded, and Victor came in softly with a cup of tea, and a pile of letters, on a small tray of old Sevres china, and drew back the olive-satin curtains, with their shimmering blue lining, that hung in front of the three tall windows.
@@ -3236,7 +3236,7 @@ He would be safe.
 That was everything.
 He drew the screen back into its former place in front of the picture, smiling as he did so, and passed into his bedroom, where his valet was already waiting for him.
 An hour later he was at the opera, and Lord Henry was leaning over his chair.
-CHAPTER IX.
+
 As he was sitting at breakfast next morning, Basil Hallward was shown into the room.
 "I am so glad I have found you, Dorian," he said gravely.
 "I called last night, and they told me you were at the opera.
@@ -3597,7 +3597,7 @@ He sighed and touched the bell.
 The portrait must be hidden away at all costs.
 He could not run such a risk of discovery again.
 It had been mad of him to have allowed the thing to remain, even for an hour, in a room to which any of his friends had access.
-CHAPTER X.
+
 When his servant entered, he looked at him steadfastly and wondered if he had thought of peering behind the screen.
 The man was quite impassive and waited for his orders.
 Dorian lit a cigarette and walked over to the glass and glanced into it.
@@ -3826,7 +3826,7 @@ There is a great difference."
 "Ah, you have discovered that?"
 murmured Lord Henry.
 And they passed into the dining-room.
-CHAPTER XI.
+
 For years, Dorian Gray could not free himself from the influence of this book.
 Or perhaps it would be more accurate to say that he never sought to free himself from it.
 He procured from Paris no less than nine large-paper copies of the first edition, and had them bound in different colours, so that they might suit his various moods and the changing fancies of a nature over which he seemed, at times, to have almost entirely lost control.
@@ -4061,7 +4061,7 @@ He saw them at night, and they troubled his imagination in the day.
 The Renaissance knew of strange manners of poisoning--poisoning by a helmet and a lighted torch, by an embroidered glove and a jewelled fan, by a gilded pomander and by an amber chain.
 Dorian Gray had been poisoned by a book.
 There were moments when he looked on evil simply as a mode through which he could realize his conception of the beautiful.
-CHAPTER XII.
+
 It was on the ninth of November, the eve of his own thirty-eighth birthday, as he often remembered afterwards.
 He was walking home about eleven o'clock from Lord Henry's, where he had been dining, and was wrapped in heavy furs, as the night was cold and foggy.
 At the corner of Grosvenor Square and South Audley Street, a man passed him in the mist, walking very fast and with the collar of his grey ulster turned up.
@@ -4314,7 +4314,7 @@ All I want is a plain answer to my question."
 "That shall be given to you upstairs.
 I could not give it here.
 You will not have to read long."
-CHAPTER XIII.
+
 He passed out of the room and began the ascent, Basil Hallward following close behind.
 They walked softly, as men do instinctively at night.
 The lamp cast fantastic shadows on the wall and staircase.
@@ -4542,7 +4542,7 @@ For a quarter of an hour he walked up and down the room, biting his lip and thin
 Then he took down the Blue Book from one of the shelves and began to turn over the leaves.
 "Alan Campbell, 152, Hertford Street, Mayfair."
 Yes; that was the man he wanted.
-CHAPTER XIV.
+
 At nine o'clock the next morning his servant came in with a cup of chocolate on a tray and opened the shutters.
 Dorian was sleeping quite peacefully, lying on his right side, with one hand underneath his cheek.
 He looked like a boy who had been tired out with play, or study.
@@ -4902,7 +4902,7 @@ I cannot forget that," said Dorian simply.
 As soon as Campbell had left, he went upstairs.
 There was a horrible smell of nitric acid in the room.
 But the thing that had been sitting at the table was gone.
-CHAPTER XV.
+
 That evening, at eight-thirty, exquisitely dressed and wearing a large button-hole of Parma violets, Dorian Gray was ushered into Lady Narborough's drawing-room by bowing servants.
 His forehead was throbbing with maddened nerves, and he felt wildly excited, but his manner as he bent over his hostess's hand was as easy and graceful as ever.
 Perhaps one never seems so much at one's ease as when one has to play a part.
@@ -5169,7 +5169,7 @@ The man shook his head.
 "Here is a sovereign for you," said Dorian.
 "You shall have another if you drive fast."
 "All right, sir," answered the man, "you will be there in an hour," and after his fare had got in he turned his horse round and drove rapidly towards the river.
-CHAPTER XVI.
+
 A cold rain began to fall, and the blurred street-lamps looked ghastly in the dripping mist.
 The public-houses were just closing, and dim men and women were clustering in broken groups round their doors.
 From some of the bars came the sound of horrible laughter.
@@ -5440,7 +5440,7 @@ I have, though," she added, with a sickly leer.
 Let me have some money for my night's lodging."
 He broke from her with an oath and rushed to the corner of the street, but Dorian Gray had disappeared.
 When he looked back, the woman had vanished also.
-CHAPTER XVII.
+
 A week later Dorian Gray was sitting in the conservatory at Selby Royal, talking to the pretty Duchess of Monmouth, who with her husband, a jaded-looking man of sixty, was amongst his guests.
 It was tea-time, and the mellow light of the huge, lace-covered lamp that stood on the table lit up the delicate china and hammered silver of the service at which the duchess was presiding.
 Her white hands were moving daintily among the cups, and her full red lips were smiling at something that Dorian had whispered to her.
@@ -5664,7 +5664,7 @@ I will take your place."
 I must not be alone."
 He went to his room and dressed.
 There was a wild recklessness of gaiety in his manner as he sat at table, but now and then a thrill of terror ran through him when he remembered that, pressed against the window of the conservatory, like a white handkerchief, he had seen the face of James Vane watching him.
-CHAPTER XVIII.
+
 The next day he did not leave the house, and, indeed, spent most of the time in his own room, sick with a wild terror of dying, and yet indifferent to life itself.
 The consciousness of being hunted, snared, tracked down, had begun to dominate him.
 If the tapestry did but tremble in the wind, he shook.
@@ -5992,7 +5992,7 @@ A cry of joy broke from his lips.
 The man who had been shot in the thicket was James Vane.
 He stood there for some minutes looking at the dead body.
 As he rode home, his eyes were full of tears, for he knew he was safe.
-CHAPTER XIX.
+
 "There is no use your telling me that you are going to be good," cried Lord Henry, dipping his white fingers into a red copper bowl filled with rose-water.
 "You are quite perfect.
 Pray, don't change."
@@ -6330,7 +6330,7 @@ I shall be here at eleven," said Dorian.
 "Good night, Harry."
 As he reached the door, he hesitated for a moment, as if he had something more to say.
 Then he sighed and went out.
-CHAPTER XX.
+
 It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf round his throat.
 As he strolled home, smoking his cigarette, two young men in evening dress passed him.
 He heard one of them whisper to the other, "That is Dorian Gray."
