@@ -39,3 +39,12 @@ Meditations
 
 
 * [Ludwig Wittgenstein - Logisch-philosophische Abhandlung](https://people.umass.edu/klement/tlp/tlp.html)
+---
+New Books as of 06/13/2022
+* [Dragons and Cherry Blossoms by Mrs. Robert C. Morris](https://gutenberg.org/ebooks/68287)
+* [Ruth of the U. S. A. by Edwin Balmer](https://gutenberg.org/cache/epub/68296/pg68296.txt)
+* [A Modest Proposal](https://gutenberg.org/files/1080/1080-0.txt)
+* [Little Women by Louisa May Alcott](https://gutenberg.org/cache/epub/514/pg514.txt)
+* [Adventures of Huckleberry Finn by Mark Twain](https://gutenberg.org/files/76/76-0.txt)
+* [The Catspaw](https://gutenberg.org/cache/epub/68304/pg68304.txt)
+
