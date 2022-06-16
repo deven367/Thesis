@@ -47,4 +47,6 @@ New Books as of 06/13/2022
 * [Little Women by Louisa May Alcott](https://gutenberg.org/cache/epub/514/pg514.txt)
 * [Adventures of Huckleberry Finn by Mark Twain](https://gutenberg.org/files/76/76-0.txt)
 * [The Catspaw](https://gutenberg.org/cache/epub/68304/pg68304.txt)
-
+* [A Study in Scarlet by Arthur Conan Doyle](https://gutenberg.org/files/244/244-0.txt)
+* [The Scarlet Letter](https://gutenberg.org/cache/epub/25344/pg25344.txt)
+* [The Hound of the Baskervilles](https://gutenberg.org/files/2852/2852-0.txt)
